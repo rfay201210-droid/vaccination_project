@@ -1,0 +1,2401 @@
+Group,Code,Name,Year,Disease,Disease_description,Denominator,Incidence_rate
+COUNTRIES,AFG,Afghanistan,2010,MEASLES,Measles,per 1000 live births,20.16
+COUNTRIES,AFG,Afghanistan,2010,PERTUSSIS,Pertussis,per 1000 live births,16.36
+COUNTRIES,AFG,Afghanistan,2010,DIPHTHERIA,Diphtheria,per 1000 live births,35.28
+COUNTRIES,AFG,Afghanistan,2010,TETANUS,Neonatal tetanus,per 100000 total population,51.72
+COUNTRIES,AFG,Afghanistan,2010,POLIO,Poliomyelitis,per 100000 total population,24.16
+COUNTRIES,AFG,Afghanistan,2010,YELLOWFEVER,Yellow fever,per 1000 live births,151.87
+COUNTRIES,AFG,Afghanistan,2010,RUBELLA,Rubella,per 100000 total population,7.03
+COUNTRIES,AFG,Afghanistan,2010,MUMPS,Mumps,per 1000 live births,23.84
+COUNTRIES,AFG,Afghanistan,2011,MEASLES,Measles,per 1000 live births,0.05
+COUNTRIES,AFG,Afghanistan,2011,PERTUSSIS,Pertussis,per 1000 live births,11.82
+COUNTRIES,AFG,Afghanistan,2011,DIPHTHERIA,Diphtheria,per 1000 live births,2.14
+COUNTRIES,AFG,Afghanistan,2011,TETANUS,Neonatal tetanus,per 1000 live births,1.4
+COUNTRIES,AFG,Afghanistan,2011,POLIO,Poliomyelitis,per 100000 total population,12.53
+COUNTRIES,AFG,Afghanistan,2011,YELLOWFEVER,Yellow fever,per 1000 live births,17.84
+COUNTRIES,AFG,Afghanistan,2011,RUBELLA,Rubella,per 100000 total population,24.42
+COUNTRIES,AFG,Afghanistan,2011,MUMPS,Mumps,per 100000 total population,3.17
+COUNTRIES,AFG,Afghanistan,2012,MEASLES,Measles,per 1000 live births,33.57
+COUNTRIES,AFG,Afghanistan,2012,PERTUSSIS,Pertussis,per 1000 live births,6.25
+COUNTRIES,AFG,Afghanistan,2012,DIPHTHERIA,Diphtheria,per 1000 live births,3.94
+COUNTRIES,AFG,Afghanistan,2012,TETANUS,Neonatal tetanus,per 1000 live births,1.42
+COUNTRIES,AFG,Afghanistan,2012,POLIO,Poliomyelitis,per 100000 total population,8.99
+COUNTRIES,AFG,Afghanistan,2012,YELLOWFEVER,Yellow fever,per 100000 total population,6.84
+COUNTRIES,AFG,Afghanistan,2012,RUBELLA,Rubella,per 1000 live births,7.86
+COUNTRIES,AFG,Afghanistan,2012,MUMPS,Mumps,per 1000 live births,20.38
+COUNTRIES,AFG,Afghanistan,2013,MEASLES,Measles,per 1000 live births,72.64
+COUNTRIES,AFG,Afghanistan,2013,PERTUSSIS,Pertussis,per 100000 total population,11.14
+COUNTRIES,AFG,Afghanistan,2013,DIPHTHERIA,Diphtheria,per 100000 total population,56.29
+COUNTRIES,AFG,Afghanistan,2013,TETANUS,Neonatal tetanus,per 100000 total population,23.27
+COUNTRIES,AFG,Afghanistan,2013,POLIO,Poliomyelitis,per 100000 total population,13.06
+COUNTRIES,AFG,Afghanistan,2013,YELLOWFEVER,Yellow fever,per 100000 total population,6.93
+COUNTRIES,AFG,Afghanistan,2013,RUBELLA,Rubella,per 1000 live births,21.31
+COUNTRIES,AFG,Afghanistan,2013,MUMPS,Mumps,per 1000 live births,3.36
+COUNTRIES,AFG,Afghanistan,2014,MEASLES,Measles,per 1000 live births,132.18
+COUNTRIES,AFG,Afghanistan,2014,PERTUSSIS,Pertussis,per 100000 total population,18.25
+COUNTRIES,AFG,Afghanistan,2014,DIPHTHERIA,Diphtheria,per 100000 total population,37.35
+COUNTRIES,AFG,Afghanistan,2014,TETANUS,Neonatal tetanus,per 1000 live births,8.23
+COUNTRIES,AFG,Afghanistan,2014,POLIO,Poliomyelitis,per 1000 live births,2.1
+COUNTRIES,AFG,Afghanistan,2014,YELLOWFEVER,Yellow fever,per 100000 total population,3.07
+COUNTRIES,AFG,Afghanistan,2014,RUBELLA,Rubella,per 100000 total population,28.71
+COUNTRIES,AFG,Afghanistan,2014,MUMPS,Mumps,per 100000 total population,1.98
+COUNTRIES,AFG,Afghanistan,2015,MEASLES,Measles,per 100000 total population,0.29
+COUNTRIES,AFG,Afghanistan,2015,PERTUSSIS,Pertussis,per 100000 total population,9.63
+COUNTRIES,AFG,Afghanistan,2015,DIPHTHERIA,Diphtheria,per 100000 total population,7.68
+COUNTRIES,AFG,Afghanistan,2015,TETANUS,Neonatal tetanus,per 100000 total population,5.97
+COUNTRIES,AFG,Afghanistan,2015,POLIO,Poliomyelitis,per 1000 live births,7.28
+COUNTRIES,AFG,Afghanistan,2015,YELLOWFEVER,Yellow fever,per 1000 live births,30.32
+COUNTRIES,AFG,Afghanistan,2015,RUBELLA,Rubella,per 100000 total population,10.61
+COUNTRIES,AFG,Afghanistan,2015,MUMPS,Mumps,per 100000 total population,4.0
+COUNTRIES,AFG,Afghanistan,2016,MEASLES,Measles,per 100000 total population,153.7
+COUNTRIES,AFG,Afghanistan,2016,PERTUSSIS,Pertussis,per 100000 total population,15.68
+COUNTRIES,AFG,Afghanistan,2016,DIPHTHERIA,Diphtheria,per 1000 live births,21.84
+COUNTRIES,AFG,Afghanistan,2016,TETANUS,Neonatal tetanus,per 100000 total population,64.5
+COUNTRIES,AFG,Afghanistan,2016,POLIO,Poliomyelitis,per 1000 live births,7.79
+COUNTRIES,AFG,Afghanistan,2016,YELLOWFEVER,Yellow fever,per 1000 live births,3.24
+COUNTRIES,AFG,Afghanistan,2016,RUBELLA,Rubella,per 1000 live births,15.4
+COUNTRIES,AFG,Afghanistan,2016,MUMPS,Mumps,per 1000 live births,14.52
+COUNTRIES,AFG,Afghanistan,2017,MEASLES,Measles,per 100000 total population,37.28
+COUNTRIES,AFG,Afghanistan,2017,PERTUSSIS,Pertussis,per 1000 live births,2.42
+COUNTRIES,AFG,Afghanistan,2017,DIPHTHERIA,Diphtheria,per 100000 total population,18.93
+COUNTRIES,AFG,Afghanistan,2017,TETANUS,Neonatal tetanus,per 1000 live births,3.9
+COUNTRIES,AFG,Afghanistan,2017,POLIO,Poliomyelitis,per 1000 live births,10.01
+COUNTRIES,AFG,Afghanistan,2017,YELLOWFEVER,Yellow fever,per 1000 live births,5.1
+COUNTRIES,AFG,Afghanistan,2017,RUBELLA,Rubella,per 1000 live births,7.95
+COUNTRIES,AFG,Afghanistan,2017,MUMPS,Mumps,per 100000 total population,10.66
+COUNTRIES,AFG,Afghanistan,2018,MEASLES,Measles,per 100000 total population,127.62
+COUNTRIES,AFG,Afghanistan,2018,PERTUSSIS,Pertussis,per 1000 live births,5.09
+COUNTRIES,AFG,Afghanistan,2018,DIPHTHERIA,Diphtheria,per 1000 live births,9.39
+COUNTRIES,AFG,Afghanistan,2018,TETANUS,Neonatal tetanus,per 1000 live births,58.67
+COUNTRIES,AFG,Afghanistan,2018,POLIO,Poliomyelitis,per 100000 total population,68.38
+COUNTRIES,AFG,Afghanistan,2018,YELLOWFEVER,Yellow fever,per 1000 live births,19.87
+COUNTRIES,AFG,Afghanistan,2018,RUBELLA,Rubella,per 100000 total population,41.18
+COUNTRIES,AFG,Afghanistan,2018,MUMPS,Mumps,per 100000 total population,3.92
+COUNTRIES,AFG,Afghanistan,2019,MEASLES,Measles,per 100000 total population,23.74
+COUNTRIES,AFG,Afghanistan,2019,PERTUSSIS,Pertussis,per 1000 live births,13.53
+COUNTRIES,AFG,Afghanistan,2019,DIPHTHERIA,Diphtheria,per 100000 total population,21.74
+COUNTRIES,AFG,Afghanistan,2019,TETANUS,Neonatal tetanus,per 100000 total population,1.08
+COUNTRIES,AFG,Afghanistan,2019,POLIO,Poliomyelitis,per 1000 live births,3.02
+COUNTRIES,AFG,Afghanistan,2019,YELLOWFEVER,Yellow fever,per 1000 live births,5.01
+COUNTRIES,AFG,Afghanistan,2019,RUBELLA,Rubella,per 1000 live births,9.24
+COUNTRIES,AFG,Afghanistan,2019,MUMPS,Mumps,per 100000 total population,0.66
+COUNTRIES,AFG,Afghanistan,2020,MEASLES,Measles,per 1000 live births,6.61
+COUNTRIES,AFG,Afghanistan,2020,PERTUSSIS,Pertussis,per 1000 live births,8.39
+COUNTRIES,AFG,Afghanistan,2020,DIPHTHERIA,Diphtheria,per 100000 total population,43.24
+COUNTRIES,AFG,Afghanistan,2020,TETANUS,Neonatal tetanus,per 100000 total population,17.04
+COUNTRIES,AFG,Afghanistan,2020,POLIO,Poliomyelitis,per 1000 live births,18.51
+COUNTRIES,AFG,Afghanistan,2020,YELLOWFEVER,Yellow fever,per 100000 total population,37.75
+COUNTRIES,AFG,Afghanistan,2020,RUBELLA,Rubella,per 1000 live births,24.54
+COUNTRIES,AFG,Afghanistan,2020,MUMPS,Mumps,per 1000 live births,4.5
+COUNTRIES,AFG,Afghanistan,2021,MEASLES,Measles,per 100000 total population,48.01
+COUNTRIES,AFG,Afghanistan,2021,PERTUSSIS,Pertussis,per 1000 live births,28.61
+COUNTRIES,AFG,Afghanistan,2021,DIPHTHERIA,Diphtheria,per 100000 total population,1.01
+COUNTRIES,AFG,Afghanistan,2021,TETANUS,Neonatal tetanus,per 1000 live births,3.83
+COUNTRIES,AFG,Afghanistan,2021,POLIO,Poliomyelitis,per 1000 live births,6.39
+COUNTRIES,AFG,Afghanistan,2021,YELLOWFEVER,Yellow fever,per 1000 live births,0.14
+COUNTRIES,AFG,Afghanistan,2021,RUBELLA,Rubella,per 1000 live births,29.7
+COUNTRIES,AFG,Afghanistan,2021,MUMPS,Mumps,per 100000 total population,9.01
+COUNTRIES,AFG,Afghanistan,2022,MEASLES,Measles,per 100000 total population,19.75
+COUNTRIES,AFG,Afghanistan,2022,PERTUSSIS,Pertussis,per 100000 total population,2.17
+COUNTRIES,AFG,Afghanistan,2022,DIPHTHERIA,Diphtheria,per 1000 live births,0.67
+COUNTRIES,AFG,Afghanistan,2022,TETANUS,Neonatal tetanus,per 1000 live births,5.56
+COUNTRIES,AFG,Afghanistan,2022,POLIO,Poliomyelitis,per 100000 total population,16.2
+COUNTRIES,AFG,Afghanistan,2022,YELLOWFEVER,Yellow fever,per 100000 total population,3.72
+COUNTRIES,AFG,Afghanistan,2022,RUBELLA,Rubella,per 100000 total population,3.2
+COUNTRIES,AFG,Afghanistan,2022,MUMPS,Mumps,per 100000 total population,6.65
+COUNTRIES,AFG,Afghanistan,2023,MEASLES,Measles,per 100000 total population,5.71
+COUNTRIES,AFG,Afghanistan,2023,PERTUSSIS,Pertussis,per 1000 live births,2.03
+COUNTRIES,AFG,Afghanistan,2023,DIPHTHERIA,Diphtheria,per 1000 live births,19.89
+COUNTRIES,AFG,Afghanistan,2023,TETANUS,Neonatal tetanus,per 1000 live births,8.72
+COUNTRIES,AFG,Afghanistan,2023,POLIO,Poliomyelitis,per 1000 live births,5.36
+COUNTRIES,AFG,Afghanistan,2023,YELLOWFEVER,Yellow fever,per 1000 live births,13.15
+COUNTRIES,AFG,Afghanistan,2023,RUBELLA,Rubella,per 1000 live births,1.67
+COUNTRIES,AFG,Afghanistan,2023,MUMPS,Mumps,per 1000 live births,15.83
+COUNTRIES,AFG,Afghanistan,2024,MEASLES,Measles,per 1000 live births,10.62
+COUNTRIES,AFG,Afghanistan,2024,PERTUSSIS,Pertussis,per 100000 total population,28.56
+COUNTRIES,AFG,Afghanistan,2024,DIPHTHERIA,Diphtheria,per 1000 live births,4.87
+COUNTRIES,AFG,Afghanistan,2024,TETANUS,Neonatal tetanus,per 1000 live births,2.41
+COUNTRIES,AFG,Afghanistan,2024,POLIO,Poliomyelitis,per 100000 total population,0.22
+COUNTRIES,AFG,Afghanistan,2024,YELLOWFEVER,Yellow fever,per 1000 live births,17.99
+COUNTRIES,AFG,Afghanistan,2024,RUBELLA,Rubella,per 100000 total population,0.52
+COUNTRIES,AFG,Afghanistan,2024,MUMPS,Mumps,per 100000 total population,5.15
+COUNTRIES,IND,India,2010,MEASLES,Measles,per 100000 total population,100.87
+COUNTRIES,IND,India,2010,PERTUSSIS,Pertussis,per 100000 total population,5.59
+COUNTRIES,IND,India,2010,DIPHTHERIA,Diphtheria,per 100000 total population,26.73
+COUNTRIES,IND,India,2010,TETANUS,Neonatal tetanus,per 100000 total population,12.61
+COUNTRIES,IND,India,2010,POLIO,Poliomyelitis,per 100000 total population,46.75
+COUNTRIES,IND,India,2010,YELLOWFEVER,Yellow fever,per 1000 live births,71.46
+COUNTRIES,IND,India,2010,RUBELLA,Rubella,per 1000 live births,39.36
+COUNTRIES,IND,India,2010,MUMPS,Mumps,per 1000 live births,6.86
+COUNTRIES,IND,India,2011,MEASLES,Measles,per 100000 total population,74.57
+COUNTRIES,IND,India,2011,PERTUSSIS,Pertussis,per 1000 live births,10.67
+COUNTRIES,IND,India,2011,DIPHTHERIA,Diphtheria,per 1000 live births,1.44
+COUNTRIES,IND,India,2011,TETANUS,Neonatal tetanus,per 100000 total population,48.48
+COUNTRIES,IND,India,2011,POLIO,Poliomyelitis,per 100000 total population,9.48
+COUNTRIES,IND,India,2011,YELLOWFEVER,Yellow fever,per 1000 live births,31.51
+COUNTRIES,IND,India,2011,RUBELLA,Rubella,per 100000 total population,39.91
+COUNTRIES,IND,India,2011,MUMPS,Mumps,per 1000 live births,101.03
+COUNTRIES,IND,India,2012,MEASLES,Measles,per 100000 total population,9.72
+COUNTRIES,IND,India,2012,PERTUSSIS,Pertussis,per 1000 live births,21.92
+COUNTRIES,IND,India,2012,DIPHTHERIA,Diphtheria,per 100000 total population,20.55
+COUNTRIES,IND,India,2012,TETANUS,Neonatal tetanus,per 100000 total population,6.06
+COUNTRIES,IND,India,2012,POLIO,Poliomyelitis,per 100000 total population,51.78
+COUNTRIES,IND,India,2012,YELLOWFEVER,Yellow fever,per 1000 live births,17.37
+COUNTRIES,IND,India,2012,RUBELLA,Rubella,per 1000 live births,0.41
+COUNTRIES,IND,India,2012,MUMPS,Mumps,per 1000 live births,4.03
+COUNTRIES,IND,India,2013,MEASLES,Measles,per 1000 live births,21.19
+COUNTRIES,IND,India,2013,PERTUSSIS,Pertussis,per 1000 live births,12.9
+COUNTRIES,IND,India,2013,DIPHTHERIA,Diphtheria,per 1000 live births,20.3
+COUNTRIES,IND,India,2013,TETANUS,Neonatal tetanus,per 100000 total population,32.57
+COUNTRIES,IND,India,2013,POLIO,Poliomyelitis,per 100000 total population,16.22
+COUNTRIES,IND,India,2013,YELLOWFEVER,Yellow fever,per 100000 total population,13.82
+COUNTRIES,IND,India,2013,RUBELLA,Rubella,per 1000 live births,3.21
+COUNTRIES,IND,India,2013,MUMPS,Mumps,per 100000 total population,11.85
+COUNTRIES,IND,India,2014,MEASLES,Measles,per 1000 live births,38.69
+COUNTRIES,IND,India,2014,PERTUSSIS,Pertussis,per 100000 total population,8.23
+COUNTRIES,IND,India,2014,DIPHTHERIA,Diphtheria,per 1000 live births,3.83
+COUNTRIES,IND,India,2014,TETANUS,Neonatal tetanus,per 1000 live births,46.97
+COUNTRIES,IND,India,2014,POLIO,Poliomyelitis,per 1000 live births,14.46
+COUNTRIES,IND,India,2014,YELLOWFEVER,Yellow fever,per 100000 total population,35.96
+COUNTRIES,IND,India,2014,RUBELLA,Rubella,per 1000 live births,0.7
+COUNTRIES,IND,India,2014,MUMPS,Mumps,per 1000 live births,2.21
+COUNTRIES,IND,India,2015,MEASLES,Measles,per 100000 total population,2.48
+COUNTRIES,IND,India,2015,PERTUSSIS,Pertussis,per 1000 live births,14.7
+COUNTRIES,IND,India,2015,DIPHTHERIA,Diphtheria,per 100000 total population,25.95
+COUNTRIES,IND,India,2015,TETANUS,Neonatal tetanus,per 100000 total population,12.3
+COUNTRIES,IND,India,2015,POLIO,Poliomyelitis,per 1000 live births,8.35
+COUNTRIES,IND,India,2015,YELLOWFEVER,Yellow fever,per 1000 live births,9.39
+COUNTRIES,IND,India,2015,RUBELLA,Rubella,per 100000 total population,14.75
+COUNTRIES,IND,India,2015,MUMPS,Mumps,per 100000 total population,12.24
+COUNTRIES,IND,India,2016,MEASLES,Measles,per 1000 live births,34.84
+COUNTRIES,IND,India,2016,PERTUSSIS,Pertussis,per 100000 total population,6.46
+COUNTRIES,IND,India,2016,DIPHTHERIA,Diphtheria,per 100000 total population,0.4
+COUNTRIES,IND,India,2016,TETANUS,Neonatal tetanus,per 1000 live births,40.32
+COUNTRIES,IND,India,2016,POLIO,Poliomyelitis,per 1000 live births,13.24
+COUNTRIES,IND,India,2016,YELLOWFEVER,Yellow fever,per 1000 live births,10.18
+COUNTRIES,IND,India,2016,RUBELLA,Rubella,per 100000 total population,5.8
+COUNTRIES,IND,India,2016,MUMPS,Mumps,per 1000 live births,0.17
+COUNTRIES,IND,India,2017,MEASLES,Measles,per 1000 live births,162.0
+COUNTRIES,IND,India,2017,PERTUSSIS,Pertussis,per 100000 total population,17.04
+COUNTRIES,IND,India,2017,DIPHTHERIA,Diphtheria,per 100000 total population,29.62
+COUNTRIES,IND,India,2017,TETANUS,Neonatal tetanus,per 100000 total population,3.66
+COUNTRIES,IND,India,2017,POLIO,Poliomyelitis,per 1000 live births,4.15
+COUNTRIES,IND,India,2017,YELLOWFEVER,Yellow fever,per 100000 total population,1.92
+COUNTRIES,IND,India,2017,RUBELLA,Rubella,per 100000 total population,26.16
+COUNTRIES,IND,India,2017,MUMPS,Mumps,per 1000 live births,3.52
+COUNTRIES,IND,India,2018,MEASLES,Measles,per 100000 total population,57.34
+COUNTRIES,IND,India,2018,PERTUSSIS,Pertussis,per 1000 live births,36.88
+COUNTRIES,IND,India,2018,DIPHTHERIA,Diphtheria,per 1000 live births,2.88
+COUNTRIES,IND,India,2018,TETANUS,Neonatal tetanus,per 1000 live births,43.18
+COUNTRIES,IND,India,2018,POLIO,Poliomyelitis,per 100000 total population,6.6
+COUNTRIES,IND,India,2018,YELLOWFEVER,Yellow fever,per 1000 live births,2.31
+COUNTRIES,IND,India,2018,RUBELLA,Rubella,per 1000 live births,29.85
+COUNTRIES,IND,India,2018,MUMPS,Mumps,per 1000 live births,8.33
+COUNTRIES,IND,India,2019,MEASLES,Measles,per 100000 total population,28.7
+COUNTRIES,IND,India,2019,PERTUSSIS,Pertussis,per 100000 total population,0.26
+COUNTRIES,IND,India,2019,DIPHTHERIA,Diphtheria,per 1000 live births,4.63
+COUNTRIES,IND,India,2019,TETANUS,Neonatal tetanus,per 1000 live births,14.48
+COUNTRIES,IND,India,2019,POLIO,Poliomyelitis,per 100000 total population,21.46
+COUNTRIES,IND,India,2019,YELLOWFEVER,Yellow fever,per 1000 live births,10.67
+COUNTRIES,IND,India,2019,RUBELLA,Rubella,per 1000 live births,19.44
+COUNTRIES,IND,India,2019,MUMPS,Mumps,per 1000 live births,2.6
+COUNTRIES,IND,India,2020,MEASLES,Measles,per 100000 total population,72.26
+COUNTRIES,IND,India,2020,PERTUSSIS,Pertussis,per 1000 live births,11.99
+COUNTRIES,IND,India,2020,DIPHTHERIA,Diphtheria,per 1000 live births,1.88
+COUNTRIES,IND,India,2020,TETANUS,Neonatal tetanus,per 100000 total population,4.37
+COUNTRIES,IND,India,2020,POLIO,Poliomyelitis,per 1000 live births,8.88
+COUNTRIES,IND,India,2020,YELLOWFEVER,Yellow fever,per 100000 total population,25.54
+COUNTRIES,IND,India,2020,RUBELLA,Rubella,per 100000 total population,12.99
+COUNTRIES,IND,India,2020,MUMPS,Mumps,per 100000 total population,9.99
+COUNTRIES,IND,India,2021,MEASLES,Measles,per 1000 live births,15.02
+COUNTRIES,IND,India,2021,PERTUSSIS,Pertussis,per 1000 live births,19.59
+COUNTRIES,IND,India,2021,DIPHTHERIA,Diphtheria,per 1000 live births,0.45
+COUNTRIES,IND,India,2021,TETANUS,Neonatal tetanus,per 100000 total population,9.77
+COUNTRIES,IND,India,2021,POLIO,Poliomyelitis,per 1000 live births,4.13
+COUNTRIES,IND,India,2021,YELLOWFEVER,Yellow fever,per 1000 live births,5.76
+COUNTRIES,IND,India,2021,RUBELLA,Rubella,per 100000 total population,4.91
+COUNTRIES,IND,India,2021,MUMPS,Mumps,per 1000 live births,35.83
+COUNTRIES,IND,India,2022,MEASLES,Measles,per 1000 live births,16.26
+COUNTRIES,IND,India,2022,PERTUSSIS,Pertussis,per 1000 live births,5.35
+COUNTRIES,IND,India,2022,DIPHTHERIA,Diphtheria,per 1000 live births,18.73
+COUNTRIES,IND,India,2022,TETANUS,Neonatal tetanus,per 100000 total population,53.99
+COUNTRIES,IND,India,2022,POLIO,Poliomyelitis,per 100000 total population,3.56
+COUNTRIES,IND,India,2022,YELLOWFEVER,Yellow fever,per 100000 total population,0.93
+COUNTRIES,IND,India,2022,RUBELLA,Rubella,per 100000 total population,10.97
+COUNTRIES,IND,India,2022,MUMPS,Mumps,per 100000 total population,0.02
+COUNTRIES,IND,India,2023,MEASLES,Measles,per 100000 total population,129.4
+COUNTRIES,IND,India,2023,PERTUSSIS,Pertussis,per 100000 total population,16.08
+COUNTRIES,IND,India,2023,DIPHTHERIA,Diphtheria,per 100000 total population,2.95
+COUNTRIES,IND,India,2023,TETANUS,Neonatal tetanus,per 100000 total population,0.56
+COUNTRIES,IND,India,2023,POLIO,Poliomyelitis,per 100000 total population,52.1
+COUNTRIES,IND,India,2023,YELLOWFEVER,Yellow fever,per 100000 total population,7.9
+COUNTRIES,IND,India,2023,RUBELLA,Rubella,per 100000 total population,5.05
+COUNTRIES,IND,India,2023,MUMPS,Mumps,per 1000 live births,2.5
+COUNTRIES,IND,India,2024,MEASLES,Measles,per 100000 total population,54.95
+COUNTRIES,IND,India,2024,PERTUSSIS,Pertussis,per 1000 live births,8.38
+COUNTRIES,IND,India,2024,DIPHTHERIA,Diphtheria,per 100000 total population,61.84
+COUNTRIES,IND,India,2024,TETANUS,Neonatal tetanus,per 1000 live births,6.13
+COUNTRIES,IND,India,2024,POLIO,Poliomyelitis,per 1000 live births,5.27
+COUNTRIES,IND,India,2024,YELLOWFEVER,Yellow fever,per 1000 live births,0.49
+COUNTRIES,IND,India,2024,RUBELLA,Rubella,per 1000 live births,32.23
+COUNTRIES,IND,India,2024,MUMPS,Mumps,per 100000 total population,1.16
+COUNTRIES,NGA,Nigeria,2010,MEASLES,Measles,per 100000 total population,5.61
+COUNTRIES,NGA,Nigeria,2010,PERTUSSIS,Pertussis,per 100000 total population,0.67
+COUNTRIES,NGA,Nigeria,2010,DIPHTHERIA,Diphtheria,per 100000 total population,0.4
+COUNTRIES,NGA,Nigeria,2010,TETANUS,Neonatal tetanus,per 1000 live births,28.79
+COUNTRIES,NGA,Nigeria,2010,POLIO,Poliomyelitis,per 100000 total population,0.3
+COUNTRIES,NGA,Nigeria,2010,YELLOWFEVER,Yellow fever,per 1000 live births,13.39
+COUNTRIES,NGA,Nigeria,2010,RUBELLA,Rubella,per 100000 total population,17.03
+COUNTRIES,NGA,Nigeria,2010,MUMPS,Mumps,per 100000 total population,54.37
+COUNTRIES,NGA,Nigeria,2011,MEASLES,Measles,per 1000 live births,31.18
+COUNTRIES,NGA,Nigeria,2011,PERTUSSIS,Pertussis,per 100000 total population,5.25
+COUNTRIES,NGA,Nigeria,2011,DIPHTHERIA,Diphtheria,per 1000 live births,4.33
+COUNTRIES,NGA,Nigeria,2011,TETANUS,Neonatal tetanus,per 100000 total population,12.19
+COUNTRIES,NGA,Nigeria,2011,POLIO,Poliomyelitis,per 1000 live births,15.92
+COUNTRIES,NGA,Nigeria,2011,YELLOWFEVER,Yellow fever,per 100000 total population,7.05
+COUNTRIES,NGA,Nigeria,2011,RUBELLA,Rubella,per 1000 live births,19.04
+COUNTRIES,NGA,Nigeria,2011,MUMPS,Mumps,per 100000 total population,0.31
+COUNTRIES,NGA,Nigeria,2012,MEASLES,Measles,per 1000 live births,6.77
+COUNTRIES,NGA,Nigeria,2012,PERTUSSIS,Pertussis,per 1000 live births,0.61
+COUNTRIES,NGA,Nigeria,2012,DIPHTHERIA,Diphtheria,per 1000 live births,28.24
+COUNTRIES,NGA,Nigeria,2012,TETANUS,Neonatal tetanus,per 100000 total population,39.52
+COUNTRIES,NGA,Nigeria,2012,POLIO,Poliomyelitis,per 100000 total population,17.04
+COUNTRIES,NGA,Nigeria,2012,YELLOWFEVER,Yellow fever,per 1000 live births,13.1
+COUNTRIES,NGA,Nigeria,2012,RUBELLA,Rubella,per 1000 live births,8.19
+COUNTRIES,NGA,Nigeria,2012,MUMPS,Mumps,per 100000 total population,24.04
+COUNTRIES,NGA,Nigeria,2013,MEASLES,Measles,per 1000 live births,61.96
+COUNTRIES,NGA,Nigeria,2013,PERTUSSIS,Pertussis,per 100000 total population,94.53
+COUNTRIES,NGA,Nigeria,2013,DIPHTHERIA,Diphtheria,per 1000 live births,28.55
+COUNTRIES,NGA,Nigeria,2013,TETANUS,Neonatal tetanus,per 100000 total population,15.57
+COUNTRIES,NGA,Nigeria,2013,POLIO,Poliomyelitis,per 1000 live births,26.84
+COUNTRIES,NGA,Nigeria,2013,YELLOWFEVER,Yellow fever,per 100000 total population,0.22
+COUNTRIES,NGA,Nigeria,2013,RUBELLA,Rubella,per 100000 total population,41.09
+COUNTRIES,NGA,Nigeria,2013,MUMPS,Mumps,per 1000 live births,16.84
+COUNTRIES,NGA,Nigeria,2014,MEASLES,Measles,per 1000 live births,6.68
+COUNTRIES,NGA,Nigeria,2014,PERTUSSIS,Pertussis,per 1000 live births,2.97
+COUNTRIES,NGA,Nigeria,2014,DIPHTHERIA,Diphtheria,per 1000 live births,4.95
+COUNTRIES,NGA,Nigeria,2014,TETANUS,Neonatal tetanus,per 1000 live births,2.22
+COUNTRIES,NGA,Nigeria,2014,POLIO,Poliomyelitis,per 1000 live births,34.48
+COUNTRIES,NGA,Nigeria,2014,YELLOWFEVER,Yellow fever,per 1000 live births,9.25
+COUNTRIES,NGA,Nigeria,2014,RUBELLA,Rubella,per 1000 live births,21.8
+COUNTRIES,NGA,Nigeria,2014,MUMPS,Mumps,per 100000 total population,27.47
+COUNTRIES,NGA,Nigeria,2015,MEASLES,Measles,per 1000 live births,96.07
+COUNTRIES,NGA,Nigeria,2015,PERTUSSIS,Pertussis,per 100000 total population,16.58
+COUNTRIES,NGA,Nigeria,2015,DIPHTHERIA,Diphtheria,per 100000 total population,11.91
+COUNTRIES,NGA,Nigeria,2015,TETANUS,Neonatal tetanus,per 1000 live births,39.83
+COUNTRIES,NGA,Nigeria,2015,POLIO,Poliomyelitis,per 100000 total population,0.97
+COUNTRIES,NGA,Nigeria,2015,YELLOWFEVER,Yellow fever,per 100000 total population,31.0
+COUNTRIES,NGA,Nigeria,2015,RUBELLA,Rubella,per 1000 live births,11.16
+COUNTRIES,NGA,Nigeria,2015,MUMPS,Mumps,per 100000 total population,11.23
+COUNTRIES,NGA,Nigeria,2016,MEASLES,Measles,per 1000 live births,19.86
+COUNTRIES,NGA,Nigeria,2016,PERTUSSIS,Pertussis,per 100000 total population,8.39
+COUNTRIES,NGA,Nigeria,2016,DIPHTHERIA,Diphtheria,per 100000 total population,12.09
+COUNTRIES,NGA,Nigeria,2016,TETANUS,Neonatal tetanus,per 1000 live births,17.96
+COUNTRIES,NGA,Nigeria,2016,POLIO,Poliomyelitis,per 100000 total population,19.37
+COUNTRIES,NGA,Nigeria,2016,YELLOWFEVER,Yellow fever,per 100000 total population,16.93
+COUNTRIES,NGA,Nigeria,2016,RUBELLA,Rubella,per 100000 total population,3.61
+COUNTRIES,NGA,Nigeria,2016,MUMPS,Mumps,per 100000 total population,5.57
+COUNTRIES,NGA,Nigeria,2017,MEASLES,Measles,per 1000 live births,15.97
+COUNTRIES,NGA,Nigeria,2017,PERTUSSIS,Pertussis,per 1000 live births,19.68
+COUNTRIES,NGA,Nigeria,2017,DIPHTHERIA,Diphtheria,per 1000 live births,3.72
+COUNTRIES,NGA,Nigeria,2017,TETANUS,Neonatal tetanus,per 100000 total population,4.79
+COUNTRIES,NGA,Nigeria,2017,POLIO,Poliomyelitis,per 1000 live births,0.95
+COUNTRIES,NGA,Nigeria,2017,YELLOWFEVER,Yellow fever,per 1000 live births,23.82
+COUNTRIES,NGA,Nigeria,2017,RUBELLA,Rubella,per 100000 total population,12.79
+COUNTRIES,NGA,Nigeria,2017,MUMPS,Mumps,per 1000 live births,27.29
+COUNTRIES,NGA,Nigeria,2018,MEASLES,Measles,per 100000 total population,20.74
+COUNTRIES,NGA,Nigeria,2018,PERTUSSIS,Pertussis,per 100000 total population,3.72
+COUNTRIES,NGA,Nigeria,2018,DIPHTHERIA,Diphtheria,per 1000 live births,17.01
+COUNTRIES,NGA,Nigeria,2018,TETANUS,Neonatal tetanus,per 100000 total population,4.97
+COUNTRIES,NGA,Nigeria,2018,POLIO,Poliomyelitis,per 100000 total population,3.09
+COUNTRIES,NGA,Nigeria,2018,YELLOWFEVER,Yellow fever,per 1000 live births,3.69
+COUNTRIES,NGA,Nigeria,2018,RUBELLA,Rubella,per 1000 live births,1.34
+COUNTRIES,NGA,Nigeria,2018,MUMPS,Mumps,per 1000 live births,24.6
+COUNTRIES,NGA,Nigeria,2019,MEASLES,Measles,per 1000 live births,57.29
+COUNTRIES,NGA,Nigeria,2019,PERTUSSIS,Pertussis,per 100000 total population,50.68
+COUNTRIES,NGA,Nigeria,2019,DIPHTHERIA,Diphtheria,per 1000 live births,16.63
+COUNTRIES,NGA,Nigeria,2019,TETANUS,Neonatal tetanus,per 100000 total population,28.94
+COUNTRIES,NGA,Nigeria,2019,POLIO,Poliomyelitis,per 100000 total population,0.34
+COUNTRIES,NGA,Nigeria,2019,YELLOWFEVER,Yellow fever,per 1000 live births,9.37
+COUNTRIES,NGA,Nigeria,2019,RUBELLA,Rubella,per 100000 total population,11.93
+COUNTRIES,NGA,Nigeria,2019,MUMPS,Mumps,per 100000 total population,6.14
+COUNTRIES,NGA,Nigeria,2020,MEASLES,Measles,per 1000 live births,78.29
+COUNTRIES,NGA,Nigeria,2020,PERTUSSIS,Pertussis,per 1000 live births,13.94
+COUNTRIES,NGA,Nigeria,2020,DIPHTHERIA,Diphtheria,per 1000 live births,0.43
+COUNTRIES,NGA,Nigeria,2020,TETANUS,Neonatal tetanus,per 1000 live births,0.26
+COUNTRIES,NGA,Nigeria,2020,POLIO,Poliomyelitis,per 100000 total population,1.43
+COUNTRIES,NGA,Nigeria,2020,YELLOWFEVER,Yellow fever,per 1000 live births,8.93
+COUNTRIES,NGA,Nigeria,2020,RUBELLA,Rubella,per 1000 live births,39.03
+COUNTRIES,NGA,Nigeria,2020,MUMPS,Mumps,per 1000 live births,41.35
+COUNTRIES,NGA,Nigeria,2021,MEASLES,Measles,per 1000 live births,1.21
+COUNTRIES,NGA,Nigeria,2021,PERTUSSIS,Pertussis,per 100000 total population,4.87
+COUNTRIES,NGA,Nigeria,2021,DIPHTHERIA,Diphtheria,per 1000 live births,27.33
+COUNTRIES,NGA,Nigeria,2021,TETANUS,Neonatal tetanus,per 100000 total population,9.89
+COUNTRIES,NGA,Nigeria,2021,POLIO,Poliomyelitis,per 100000 total population,10.17
+COUNTRIES,NGA,Nigeria,2021,YELLOWFEVER,Yellow fever,per 1000 live births,11.59
+COUNTRIES,NGA,Nigeria,2021,RUBELLA,Rubella,per 100000 total population,101.99
+COUNTRIES,NGA,Nigeria,2021,MUMPS,Mumps,per 1000 live births,20.07
+COUNTRIES,NGA,Nigeria,2022,MEASLES,Measles,per 100000 total population,66.54
+COUNTRIES,NGA,Nigeria,2022,PERTUSSIS,Pertussis,per 1000 live births,51.13
+COUNTRIES,NGA,Nigeria,2022,DIPHTHERIA,Diphtheria,per 100000 total population,0.04
+COUNTRIES,NGA,Nigeria,2022,TETANUS,Neonatal tetanus,per 1000 live births,6.25
+COUNTRIES,NGA,Nigeria,2022,POLIO,Poliomyelitis,per 100000 total population,8.19
+COUNTRIES,NGA,Nigeria,2022,YELLOWFEVER,Yellow fever,per 1000 live births,1.11
+COUNTRIES,NGA,Nigeria,2022,RUBELLA,Rubella,per 100000 total population,17.7
+COUNTRIES,NGA,Nigeria,2022,MUMPS,Mumps,per 1000 live births,2.84
+COUNTRIES,NGA,Nigeria,2023,MEASLES,Measles,per 1000 live births,0.45
+COUNTRIES,NGA,Nigeria,2023,PERTUSSIS,Pertussis,per 1000 live births,1.0
+COUNTRIES,NGA,Nigeria,2023,DIPHTHERIA,Diphtheria,per 100000 total population,3.57
+COUNTRIES,NGA,Nigeria,2023,TETANUS,Neonatal tetanus,per 1000 live births,1.77
+COUNTRIES,NGA,Nigeria,2023,POLIO,Poliomyelitis,per 1000 live births,8.74
+COUNTRIES,NGA,Nigeria,2023,YELLOWFEVER,Yellow fever,per 1000 live births,10.27
+COUNTRIES,NGA,Nigeria,2023,RUBELLA,Rubella,per 100000 total population,13.63
+COUNTRIES,NGA,Nigeria,2023,MUMPS,Mumps,per 1000 live births,5.32
+COUNTRIES,NGA,Nigeria,2024,MEASLES,Measles,per 1000 live births,6.33
+COUNTRIES,NGA,Nigeria,2024,PERTUSSIS,Pertussis,per 1000 live births,4.45
+COUNTRIES,NGA,Nigeria,2024,DIPHTHERIA,Diphtheria,per 100000 total population,16.4
+COUNTRIES,NGA,Nigeria,2024,TETANUS,Neonatal tetanus,per 100000 total population,18.2
+COUNTRIES,NGA,Nigeria,2024,POLIO,Poliomyelitis,per 100000 total population,10.29
+COUNTRIES,NGA,Nigeria,2024,YELLOWFEVER,Yellow fever,per 1000 live births,17.04
+COUNTRIES,NGA,Nigeria,2024,RUBELLA,Rubella,per 1000 live births,9.26
+COUNTRIES,NGA,Nigeria,2024,MUMPS,Mumps,per 100000 total population,5.22
+COUNTRIES,BRA,Brazil,2010,MEASLES,Measles,per 100000 total population,75.42
+COUNTRIES,BRA,Brazil,2010,PERTUSSIS,Pertussis,per 1000 live births,3.91
+COUNTRIES,BRA,Brazil,2010,DIPHTHERIA,Diphtheria,per 100000 total population,2.92
+COUNTRIES,BRA,Brazil,2010,TETANUS,Neonatal tetanus,per 100000 total population,16.78
+COUNTRIES,BRA,Brazil,2010,POLIO,Poliomyelitis,per 100000 total population,62.93
+COUNTRIES,BRA,Brazil,2010,YELLOWFEVER,Yellow fever,per 100000 total population,27.73
+COUNTRIES,BRA,Brazil,2010,RUBELLA,Rubella,per 100000 total population,4.12
+COUNTRIES,BRA,Brazil,2010,MUMPS,Mumps,per 1000 live births,9.88
+COUNTRIES,BRA,Brazil,2011,MEASLES,Measles,per 100000 total population,175.07
+COUNTRIES,BRA,Brazil,2011,PERTUSSIS,Pertussis,per 1000 live births,2.57
+COUNTRIES,BRA,Brazil,2011,DIPHTHERIA,Diphtheria,per 1000 live births,17.94
+COUNTRIES,BRA,Brazil,2011,TETANUS,Neonatal tetanus,per 100000 total population,11.21
+COUNTRIES,BRA,Brazil,2011,POLIO,Poliomyelitis,per 1000 live births,39.64
+COUNTRIES,BRA,Brazil,2011,YELLOWFEVER,Yellow fever,per 100000 total population,4.82
+COUNTRIES,BRA,Brazil,2011,RUBELLA,Rubella,per 1000 live births,6.74
+COUNTRIES,BRA,Brazil,2011,MUMPS,Mumps,per 100000 total population,7.59
+COUNTRIES,BRA,Brazil,2012,MEASLES,Measles,per 1000 live births,33.76
+COUNTRIES,BRA,Brazil,2012,PERTUSSIS,Pertussis,per 100000 total population,55.54
+COUNTRIES,BRA,Brazil,2012,DIPHTHERIA,Diphtheria,per 1000 live births,32.11
+COUNTRIES,BRA,Brazil,2012,TETANUS,Neonatal tetanus,per 1000 live births,33.88
+COUNTRIES,BRA,Brazil,2012,POLIO,Poliomyelitis,per 1000 live births,42.83
+COUNTRIES,BRA,Brazil,2012,YELLOWFEVER,Yellow fever,per 100000 total population,10.75
+COUNTRIES,BRA,Brazil,2012,RUBELLA,Rubella,per 100000 total population,4.6
+COUNTRIES,BRA,Brazil,2012,MUMPS,Mumps,per 1000 live births,25.52
+COUNTRIES,BRA,Brazil,2013,MEASLES,Measles,per 1000 live births,10.58
+COUNTRIES,BRA,Brazil,2013,PERTUSSIS,Pertussis,per 100000 total population,25.31
+COUNTRIES,BRA,Brazil,2013,DIPHTHERIA,Diphtheria,per 100000 total population,36.54
+COUNTRIES,BRA,Brazil,2013,TETANUS,Neonatal tetanus,per 100000 total population,51.0
+COUNTRIES,BRA,Brazil,2013,POLIO,Poliomyelitis,per 1000 live births,26.2
+COUNTRIES,BRA,Brazil,2013,YELLOWFEVER,Yellow fever,per 1000 live births,26.2
+COUNTRIES,BRA,Brazil,2013,RUBELLA,Rubella,per 1000 live births,23.76
+COUNTRIES,BRA,Brazil,2013,MUMPS,Mumps,per 1000 live births,12.25
+COUNTRIES,BRA,Brazil,2014,MEASLES,Measles,per 100000 total population,36.94
+COUNTRIES,BRA,Brazil,2014,PERTUSSIS,Pertussis,per 1000 live births,9.49
+COUNTRIES,BRA,Brazil,2014,DIPHTHERIA,Diphtheria,per 100000 total population,4.83
+COUNTRIES,BRA,Brazil,2014,TETANUS,Neonatal tetanus,per 1000 live births,59.54
+COUNTRIES,BRA,Brazil,2014,POLIO,Poliomyelitis,per 1000 live births,3.43
+COUNTRIES,BRA,Brazil,2014,YELLOWFEVER,Yellow fever,per 1000 live births,48.48
+COUNTRIES,BRA,Brazil,2014,RUBELLA,Rubella,per 1000 live births,0.15
+COUNTRIES,BRA,Brazil,2014,MUMPS,Mumps,per 1000 live births,0.61
+COUNTRIES,BRA,Brazil,2015,MEASLES,Measles,per 100000 total population,124.08
+COUNTRIES,BRA,Brazil,2015,PERTUSSIS,Pertussis,per 100000 total population,14.72
+COUNTRIES,BRA,Brazil,2015,DIPHTHERIA,Diphtheria,per 100000 total population,18.96
+COUNTRIES,BRA,Brazil,2015,TETANUS,Neonatal tetanus,per 100000 total population,11.94
+COUNTRIES,BRA,Brazil,2015,POLIO,Poliomyelitis,per 100000 total population,35.74
+COUNTRIES,BRA,Brazil,2015,YELLOWFEVER,Yellow fever,per 1000 live births,46.77
+COUNTRIES,BRA,Brazil,2015,RUBELLA,Rubella,per 100000 total population,7.19
+COUNTRIES,BRA,Brazil,2015,MUMPS,Mumps,per 1000 live births,6.34
+COUNTRIES,BRA,Brazil,2016,MEASLES,Measles,per 1000 live births,40.7
+COUNTRIES,BRA,Brazil,2016,PERTUSSIS,Pertussis,per 100000 total population,12.01
+COUNTRIES,BRA,Brazil,2016,DIPHTHERIA,Diphtheria,per 100000 total population,2.49
+COUNTRIES,BRA,Brazil,2016,TETANUS,Neonatal tetanus,per 100000 total population,5.84
+COUNTRIES,BRA,Brazil,2016,POLIO,Poliomyelitis,per 100000 total population,23.69
+COUNTRIES,BRA,Brazil,2016,YELLOWFEVER,Yellow fever,per 100000 total population,2.03
+COUNTRIES,BRA,Brazil,2016,RUBELLA,Rubella,per 1000 live births,0.02
+COUNTRIES,BRA,Brazil,2016,MUMPS,Mumps,per 100000 total population,16.88
+COUNTRIES,BRA,Brazil,2017,MEASLES,Measles,per 1000 live births,78.7
+COUNTRIES,BRA,Brazil,2017,PERTUSSIS,Pertussis,per 100000 total population,19.0
+COUNTRIES,BRA,Brazil,2017,DIPHTHERIA,Diphtheria,per 1000 live births,8.33
+COUNTRIES,BRA,Brazil,2017,TETANUS,Neonatal tetanus,per 1000 live births,2.33
+COUNTRIES,BRA,Brazil,2017,POLIO,Poliomyelitis,per 1000 live births,9.38
+COUNTRIES,BRA,Brazil,2017,YELLOWFEVER,Yellow fever,per 100000 total population,27.2
+COUNTRIES,BRA,Brazil,2017,RUBELLA,Rubella,per 100000 total population,6.02
+COUNTRIES,BRA,Brazil,2017,MUMPS,Mumps,per 100000 total population,20.56
+COUNTRIES,BRA,Brazil,2018,MEASLES,Measles,per 1000 live births,39.91
+COUNTRIES,BRA,Brazil,2018,PERTUSSIS,Pertussis,per 100000 total population,18.44
+COUNTRIES,BRA,Brazil,2018,DIPHTHERIA,Diphtheria,per 1000 live births,16.12
+COUNTRIES,BRA,Brazil,2018,TETANUS,Neonatal tetanus,per 1000 live births,31.9
+COUNTRIES,BRA,Brazil,2018,POLIO,Poliomyelitis,per 100000 total population,10.64
+COUNTRIES,BRA,Brazil,2018,YELLOWFEVER,Yellow fever,per 100000 total population,25.93
+COUNTRIES,BRA,Brazil,2018,RUBELLA,Rubella,per 1000 live births,25.03
+COUNTRIES,BRA,Brazil,2018,MUMPS,Mumps,per 1000 live births,1.38
+COUNTRIES,BRA,Brazil,2019,MEASLES,Measles,per 100000 total population,178.32
+COUNTRIES,BRA,Brazil,2019,PERTUSSIS,Pertussis,per 1000 live births,10.81
+COUNTRIES,BRA,Brazil,2019,DIPHTHERIA,Diphtheria,per 100000 total population,8.52
+COUNTRIES,BRA,Brazil,2019,TETANUS,Neonatal tetanus,per 1000 live births,4.38
+COUNTRIES,BRA,Brazil,2019,POLIO,Poliomyelitis,per 100000 total population,12.96
+COUNTRIES,BRA,Brazil,2019,YELLOWFEVER,Yellow fever,per 1000 live births,6.24
+COUNTRIES,BRA,Brazil,2019,RUBELLA,Rubella,per 1000 live births,10.03
+COUNTRIES,BRA,Brazil,2019,MUMPS,Mumps,per 1000 live births,7.86
+COUNTRIES,BRA,Brazil,2020,MEASLES,Measles,per 1000 live births,52.89
+COUNTRIES,BRA,Brazil,2020,PERTUSSIS,Pertussis,per 1000 live births,0.91
+COUNTRIES,BRA,Brazil,2020,DIPHTHERIA,Diphtheria,per 1000 live births,3.6
+COUNTRIES,BRA,Brazil,2020,TETANUS,Neonatal tetanus,per 1000 live births,5.25
+COUNTRIES,BRA,Brazil,2020,POLIO,Poliomyelitis,per 100000 total population,6.51
+COUNTRIES,BRA,Brazil,2020,YELLOWFEVER,Yellow fever,per 1000 live births,53.81
+COUNTRIES,BRA,Brazil,2020,RUBELLA,Rubella,per 1000 live births,6.76
+COUNTRIES,BRA,Brazil,2020,MUMPS,Mumps,per 100000 total population,4.32
+COUNTRIES,BRA,Brazil,2021,MEASLES,Measles,per 100000 total population,11.1
+COUNTRIES,BRA,Brazil,2021,PERTUSSIS,Pertussis,per 100000 total population,10.18
+COUNTRIES,BRA,Brazil,2021,DIPHTHERIA,Diphtheria,per 100000 total population,12.88
+COUNTRIES,BRA,Brazil,2021,TETANUS,Neonatal tetanus,per 1000 live births,7.02
+COUNTRIES,BRA,Brazil,2021,POLIO,Poliomyelitis,per 1000 live births,16.27
+COUNTRIES,BRA,Brazil,2021,YELLOWFEVER,Yellow fever,per 100000 total population,5.59
+COUNTRIES,BRA,Brazil,2021,RUBELLA,Rubella,per 100000 total population,9.61
+COUNTRIES,BRA,Brazil,2021,MUMPS,Mumps,per 1000 live births,13.44
+COUNTRIES,BRA,Brazil,2022,MEASLES,Measles,per 100000 total population,11.71
+COUNTRIES,BRA,Brazil,2022,PERTUSSIS,Pertussis,per 100000 total population,4.29
+COUNTRIES,BRA,Brazil,2022,DIPHTHERIA,Diphtheria,per 1000 live births,8.67
+COUNTRIES,BRA,Brazil,2022,TETANUS,Neonatal tetanus,per 100000 total population,3.73
+COUNTRIES,BRA,Brazil,2022,POLIO,Poliomyelitis,per 1000 live births,1.38
+COUNTRIES,BRA,Brazil,2022,YELLOWFEVER,Yellow fever,per 100000 total population,31.69
+COUNTRIES,BRA,Brazil,2022,RUBELLA,Rubella,per 100000 total population,17.97
+COUNTRIES,BRA,Brazil,2022,MUMPS,Mumps,per 1000 live births,59.43
+COUNTRIES,BRA,Brazil,2023,MEASLES,Measles,per 1000 live births,81.01
+COUNTRIES,BRA,Brazil,2023,PERTUSSIS,Pertussis,per 100000 total population,0.19
+COUNTRIES,BRA,Brazil,2023,DIPHTHERIA,Diphtheria,per 1000 live births,21.0
+COUNTRIES,BRA,Brazil,2023,TETANUS,Neonatal tetanus,per 1000 live births,22.16
+COUNTRIES,BRA,Brazil,2023,POLIO,Poliomyelitis,per 1000 live births,11.2
+COUNTRIES,BRA,Brazil,2023,YELLOWFEVER,Yellow fever,per 1000 live births,6.96
+COUNTRIES,BRA,Brazil,2023,RUBELLA,Rubella,per 100000 total population,3.23
+COUNTRIES,BRA,Brazil,2023,MUMPS,Mumps,per 100000 total population,7.08
+COUNTRIES,BRA,Brazil,2024,MEASLES,Measles,per 1000 live births,1.4
+COUNTRIES,BRA,Brazil,2024,PERTUSSIS,Pertussis,per 1000 live births,11.38
+COUNTRIES,BRA,Brazil,2024,DIPHTHERIA,Diphtheria,per 1000 live births,12.15
+COUNTRIES,BRA,Brazil,2024,TETANUS,Neonatal tetanus,per 100000 total population,0.78
+COUNTRIES,BRA,Brazil,2024,POLIO,Poliomyelitis,per 1000 live births,0.38
+COUNTRIES,BRA,Brazil,2024,YELLOWFEVER,Yellow fever,per 100000 total population,28.6
+COUNTRIES,BRA,Brazil,2024,RUBELLA,Rubella,per 100000 total population,5.88
+COUNTRIES,BRA,Brazil,2024,MUMPS,Mumps,per 1000 live births,0.86
+COUNTRIES,USA,United States of America,2010,MEASLES,Measles,per 100000 total population,91.93
+COUNTRIES,USA,United States of America,2010,PERTUSSIS,Pertussis,per 1000 live births,38.59
+COUNTRIES,USA,United States of America,2010,DIPHTHERIA,Diphtheria,per 1000 live births,9.93
+COUNTRIES,USA,United States of America,2010,TETANUS,Neonatal tetanus,per 100000 total population,3.91
+COUNTRIES,USA,United States of America,2010,POLIO,Poliomyelitis,per 1000 live births,6.58
+COUNTRIES,USA,United States of America,2010,YELLOWFEVER,Yellow fever,per 1000 live births,13.46
+COUNTRIES,USA,United States of America,2010,RUBELLA,Rubella,per 1000 live births,10.79
+COUNTRIES,USA,United States of America,2010,MUMPS,Mumps,per 100000 total population,9.12
+COUNTRIES,USA,United States of America,2011,MEASLES,Measles,per 100000 total population,134.83
+COUNTRIES,USA,United States of America,2011,PERTUSSIS,Pertussis,per 100000 total population,11.79
+COUNTRIES,USA,United States of America,2011,DIPHTHERIA,Diphtheria,per 1000 live births,18.57
+COUNTRIES,USA,United States of America,2011,TETANUS,Neonatal tetanus,per 1000 live births,10.29
+COUNTRIES,USA,United States of America,2011,POLIO,Poliomyelitis,per 100000 total population,47.93
+COUNTRIES,USA,United States of America,2011,YELLOWFEVER,Yellow fever,per 100000 total population,21.77
+COUNTRIES,USA,United States of America,2011,RUBELLA,Rubella,per 1000 live births,8.2
+COUNTRIES,USA,United States of America,2011,MUMPS,Mumps,per 100000 total population,40.14
+COUNTRIES,USA,United States of America,2012,MEASLES,Measles,per 100000 total population,41.27
+COUNTRIES,USA,United States of America,2012,PERTUSSIS,Pertussis,per 100000 total population,4.85
+COUNTRIES,USA,United States of America,2012,DIPHTHERIA,Diphtheria,per 100000 total population,5.22
+COUNTRIES,USA,United States of America,2012,TETANUS,Neonatal tetanus,per 100000 total population,37.01
+COUNTRIES,USA,United States of America,2012,POLIO,Poliomyelitis,per 1000 live births,27.04
+COUNTRIES,USA,United States of America,2012,YELLOWFEVER,Yellow fever,per 1000 live births,11.91
+COUNTRIES,USA,United States of America,2012,RUBELLA,Rubella,per 100000 total population,24.45
+COUNTRIES,USA,United States of America,2012,MUMPS,Mumps,per 1000 live births,9.95
+COUNTRIES,USA,United States of America,2013,MEASLES,Measles,per 100000 total population,26.8
+COUNTRIES,USA,United States of America,2013,PERTUSSIS,Pertussis,per 100000 total population,40.35
+COUNTRIES,USA,United States of America,2013,DIPHTHERIA,Diphtheria,per 100000 total population,12.43
+COUNTRIES,USA,United States of America,2013,TETANUS,Neonatal tetanus,per 1000 live births,1.85
+COUNTRIES,USA,United States of America,2013,POLIO,Poliomyelitis,per 100000 total population,3.4
+COUNTRIES,USA,United States of America,2013,YELLOWFEVER,Yellow fever,per 100000 total population,3.78
+COUNTRIES,USA,United States of America,2013,RUBELLA,Rubella,per 1000 live births,6.52
+COUNTRIES,USA,United States of America,2013,MUMPS,Mumps,per 1000 live births,20.74
+COUNTRIES,USA,United States of America,2014,MEASLES,Measles,per 100000 total population,13.59
+COUNTRIES,USA,United States of America,2014,PERTUSSIS,Pertussis,per 100000 total population,23.96
+COUNTRIES,USA,United States of America,2014,DIPHTHERIA,Diphtheria,per 100000 total population,25.31
+COUNTRIES,USA,United States of America,2014,TETANUS,Neonatal tetanus,per 1000 live births,4.94
+COUNTRIES,USA,United States of America,2014,POLIO,Poliomyelitis,per 100000 total population,12.96
+COUNTRIES,USA,United States of America,2014,YELLOWFEVER,Yellow fever,per 100000 total population,4.19
+COUNTRIES,USA,United States of America,2014,RUBELLA,Rubella,per 100000 total population,6.83
+COUNTRIES,USA,United States of America,2014,MUMPS,Mumps,per 1000 live births,57.54
+COUNTRIES,USA,United States of America,2015,MEASLES,Measles,per 100000 total population,79.24
+COUNTRIES,USA,United States of America,2015,PERTUSSIS,Pertussis,per 100000 total population,22.16
+COUNTRIES,USA,United States of America,2015,DIPHTHERIA,Diphtheria,per 100000 total population,16.87
+COUNTRIES,USA,United States of America,2015,TETANUS,Neonatal tetanus,per 100000 total population,32.39
+COUNTRIES,USA,United States of America,2015,POLIO,Poliomyelitis,per 1000 live births,2.15
+COUNTRIES,USA,United States of America,2015,YELLOWFEVER,Yellow fever,per 1000 live births,37.65
+COUNTRIES,USA,United States of America,2015,RUBELLA,Rubella,per 1000 live births,26.06
+COUNTRIES,USA,United States of America,2015,MUMPS,Mumps,per 1000 live births,11.86
+COUNTRIES,USA,United States of America,2016,MEASLES,Measles,per 1000 live births,38.41
+COUNTRIES,USA,United States of America,2016,PERTUSSIS,Pertussis,per 1000 live births,5.65
+COUNTRIES,USA,United States of America,2016,DIPHTHERIA,Diphtheria,per 1000 live births,21.18
+COUNTRIES,USA,United States of America,2016,TETANUS,Neonatal tetanus,per 1000 live births,34.12
+COUNTRIES,USA,United States of America,2016,POLIO,Poliomyelitis,per 100000 total population,0.31
+COUNTRIES,USA,United States of America,2016,YELLOWFEVER,Yellow fever,per 100000 total population,10.5
+COUNTRIES,USA,United States of America,2016,RUBELLA,Rubella,per 100000 total population,25.63
+COUNTRIES,USA,United States of America,2016,MUMPS,Mumps,per 1000 live births,8.81
+COUNTRIES,USA,United States of America,2017,MEASLES,Measles,per 100000 total population,34.06
+COUNTRIES,USA,United States of America,2017,PERTUSSIS,Pertussis,per 100000 total population,14.05
+COUNTRIES,USA,United States of America,2017,DIPHTHERIA,Diphtheria,per 1000 live births,10.14
+COUNTRIES,USA,United States of America,2017,TETANUS,Neonatal tetanus,per 1000 live births,54.73
+COUNTRIES,USA,United States of America,2017,POLIO,Poliomyelitis,per 1000 live births,23.43
+COUNTRIES,USA,United States of America,2017,YELLOWFEVER,Yellow fever,per 100000 total population,8.58
+COUNTRIES,USA,United States of America,2017,RUBELLA,Rubella,per 1000 live births,5.07
+COUNTRIES,USA,United States of America,2017,MUMPS,Mumps,per 100000 total population,5.05
+COUNTRIES,USA,United States of America,2018,MEASLES,Measles,per 1000 live births,29.43
+COUNTRIES,USA,United States of America,2018,PERTUSSIS,Pertussis,per 100000 total population,19.69
+COUNTRIES,USA,United States of America,2018,DIPHTHERIA,Diphtheria,per 1000 live births,51.84
+COUNTRIES,USA,United States of America,2018,TETANUS,Neonatal tetanus,per 100000 total population,21.08
+COUNTRIES,USA,United States of America,2018,POLIO,Poliomyelitis,per 1000 live births,63.01
+COUNTRIES,USA,United States of America,2018,YELLOWFEVER,Yellow fever,per 100000 total population,40.73
+COUNTRIES,USA,United States of America,2018,RUBELLA,Rubella,per 100000 total population,4.43
+COUNTRIES,USA,United States of America,2018,MUMPS,Mumps,per 1000 live births,23.94
+COUNTRIES,USA,United States of America,2019,MEASLES,Measles,per 1000 live births,119.87
+COUNTRIES,USA,United States of America,2019,PERTUSSIS,Pertussis,per 1000 live births,3.92
+COUNTRIES,USA,United States of America,2019,DIPHTHERIA,Diphtheria,per 100000 total population,10.16
+COUNTRIES,USA,United States of America,2019,TETANUS,Neonatal tetanus,per 100000 total population,3.5
+COUNTRIES,USA,United States of America,2019,POLIO,Poliomyelitis,per 100000 total population,16.71
+COUNTRIES,USA,United States of America,2019,YELLOWFEVER,Yellow fever,per 100000 total population,10.55
+COUNTRIES,USA,United States of America,2019,RUBELLA,Rubella,per 1000 live births,41.66
+COUNTRIES,USA,United States of America,2019,MUMPS,Mumps,per 1000 live births,1.35
+COUNTRIES,USA,United States of America,2020,MEASLES,Measles,per 100000 total population,26.75
+COUNTRIES,USA,United States of America,2020,PERTUSSIS,Pertussis,per 1000 live births,0.78
+COUNTRIES,USA,United States of America,2020,DIPHTHERIA,Diphtheria,per 1000 live births,8.4
+COUNTRIES,USA,United States of America,2020,TETANUS,Neonatal tetanus,per 100000 total population,13.24
+COUNTRIES,USA,United States of America,2020,POLIO,Poliomyelitis,per 100000 total population,54.26
+COUNTRIES,USA,United States of America,2020,YELLOWFEVER,Yellow fever,per 1000 live births,9.61
+COUNTRIES,USA,United States of America,2020,RUBELLA,Rubella,per 1000 live births,9.16
+COUNTRIES,USA,United States of America,2020,MUMPS,Mumps,per 100000 total population,0.7
+COUNTRIES,USA,United States of America,2021,MEASLES,Measles,per 1000 live births,17.97
+COUNTRIES,USA,United States of America,2021,PERTUSSIS,Pertussis,per 1000 live births,11.78
+COUNTRIES,USA,United States of America,2021,DIPHTHERIA,Diphtheria,per 100000 total population,6.29
+COUNTRIES,USA,United States of America,2021,TETANUS,Neonatal tetanus,per 100000 total population,18.51
+COUNTRIES,USA,United States of America,2021,POLIO,Poliomyelitis,per 100000 total population,1.55
+COUNTRIES,USA,United States of America,2021,YELLOWFEVER,Yellow fever,per 1000 live births,16.74
+COUNTRIES,USA,United States of America,2021,RUBELLA,Rubella,per 1000 live births,1.39
+COUNTRIES,USA,United States of America,2021,MUMPS,Mumps,per 100000 total population,14.77
+COUNTRIES,USA,United States of America,2022,MEASLES,Measles,per 1000 live births,28.37
+COUNTRIES,USA,United States of America,2022,PERTUSSIS,Pertussis,per 100000 total population,27.48
+COUNTRIES,USA,United States of America,2022,DIPHTHERIA,Diphtheria,per 1000 live births,14.47
+COUNTRIES,USA,United States of America,2022,TETANUS,Neonatal tetanus,per 100000 total population,22.01
+COUNTRIES,USA,United States of America,2022,POLIO,Poliomyelitis,per 1000 live births,26.53
+COUNTRIES,USA,United States of America,2022,YELLOWFEVER,Yellow fever,per 1000 live births,2.15
+COUNTRIES,USA,United States of America,2022,RUBELLA,Rubella,per 1000 live births,23.92
+COUNTRIES,USA,United States of America,2022,MUMPS,Mumps,per 100000 total population,21.0
+COUNTRIES,USA,United States of America,2023,MEASLES,Measles,per 1000 live births,5.01
+COUNTRIES,USA,United States of America,2023,PERTUSSIS,Pertussis,per 100000 total population,0.99
+COUNTRIES,USA,United States of America,2023,DIPHTHERIA,Diphtheria,per 1000 live births,15.71
+COUNTRIES,USA,United States of America,2023,TETANUS,Neonatal tetanus,per 100000 total population,0.58
+COUNTRIES,USA,United States of America,2023,POLIO,Poliomyelitis,per 1000 live births,29.14
+COUNTRIES,USA,United States of America,2023,YELLOWFEVER,Yellow fever,per 1000 live births,6.59
+COUNTRIES,USA,United States of America,2023,RUBELLA,Rubella,per 100000 total population,4.03
+COUNTRIES,USA,United States of America,2023,MUMPS,Mumps,per 100000 total population,2.61
+COUNTRIES,USA,United States of America,2024,MEASLES,Measles,per 100000 total population,42.99
+COUNTRIES,USA,United States of America,2024,PERTUSSIS,Pertussis,per 1000 live births,6.46
+COUNTRIES,USA,United States of America,2024,DIPHTHERIA,Diphtheria,per 100000 total population,2.93
+COUNTRIES,USA,United States of America,2024,TETANUS,Neonatal tetanus,per 100000 total population,18.11
+COUNTRIES,USA,United States of America,2024,POLIO,Poliomyelitis,per 100000 total population,9.34
+COUNTRIES,USA,United States of America,2024,YELLOWFEVER,Yellow fever,per 1000 live births,3.4
+COUNTRIES,USA,United States of America,2024,RUBELLA,Rubella,per 1000 live births,0.34
+COUNTRIES,USA,United States of America,2024,MUMPS,Mumps,per 1000 live births,42.28
+COUNTRIES,CHN,China,2010,MEASLES,Measles,per 1000 live births,32.07
+COUNTRIES,CHN,China,2010,PERTUSSIS,Pertussis,per 1000 live births,7.15
+COUNTRIES,CHN,China,2010,DIPHTHERIA,Diphtheria,per 1000 live births,41.19
+COUNTRIES,CHN,China,2010,TETANUS,Neonatal tetanus,per 100000 total population,19.01
+COUNTRIES,CHN,China,2010,POLIO,Poliomyelitis,per 1000 live births,1.86
+COUNTRIES,CHN,China,2010,YELLOWFEVER,Yellow fever,per 1000 live births,0.77
+COUNTRIES,CHN,China,2010,RUBELLA,Rubella,per 1000 live births,30.87
+COUNTRIES,CHN,China,2010,MUMPS,Mumps,per 1000 live births,127.28
+COUNTRIES,CHN,China,2011,MEASLES,Measles,per 1000 live births,25.11
+COUNTRIES,CHN,China,2011,PERTUSSIS,Pertussis,per 1000 live births,9.99
+COUNTRIES,CHN,China,2011,DIPHTHERIA,Diphtheria,per 1000 live births,16.18
+COUNTRIES,CHN,China,2011,TETANUS,Neonatal tetanus,per 1000 live births,11.79
+COUNTRIES,CHN,China,2011,POLIO,Poliomyelitis,per 1000 live births,45.68
+COUNTRIES,CHN,China,2011,YELLOWFEVER,Yellow fever,per 1000 live births,40.11
+COUNTRIES,CHN,China,2011,RUBELLA,Rubella,per 1000 live births,50.89
+COUNTRIES,CHN,China,2011,MUMPS,Mumps,per 1000 live births,13.14
+COUNTRIES,CHN,China,2012,MEASLES,Measles,per 100000 total population,48.7
+COUNTRIES,CHN,China,2012,PERTUSSIS,Pertussis,per 1000 live births,6.3
+COUNTRIES,CHN,China,2012,DIPHTHERIA,Diphtheria,per 1000 live births,32.35
+COUNTRIES,CHN,China,2012,TETANUS,Neonatal tetanus,per 100000 total population,7.18
+COUNTRIES,CHN,China,2012,POLIO,Poliomyelitis,per 1000 live births,29.0
+COUNTRIES,CHN,China,2012,YELLOWFEVER,Yellow fever,per 1000 live births,27.58
+COUNTRIES,CHN,China,2012,RUBELLA,Rubella,per 1000 live births,18.88
+COUNTRIES,CHN,China,2012,MUMPS,Mumps,per 100000 total population,17.2
+COUNTRIES,CHN,China,2013,MEASLES,Measles,per 1000 live births,172.65
+COUNTRIES,CHN,China,2013,PERTUSSIS,Pertussis,per 1000 live births,8.79
+COUNTRIES,CHN,China,2013,DIPHTHERIA,Diphtheria,per 100000 total population,8.71
+COUNTRIES,CHN,China,2013,TETANUS,Neonatal tetanus,per 1000 live births,7.73
+COUNTRIES,CHN,China,2013,POLIO,Poliomyelitis,per 1000 live births,16.75
+COUNTRIES,CHN,China,2013,YELLOWFEVER,Yellow fever,per 100000 total population,2.42
+COUNTRIES,CHN,China,2013,RUBELLA,Rubella,per 100000 total population,42.74
+COUNTRIES,CHN,China,2013,MUMPS,Mumps,per 1000 live births,3.68
+COUNTRIES,CHN,China,2014,MEASLES,Measles,per 100000 total population,316.64
+COUNTRIES,CHN,China,2014,PERTUSSIS,Pertussis,per 1000 live births,17.64
+COUNTRIES,CHN,China,2014,DIPHTHERIA,Diphtheria,per 1000 live births,12.67
+COUNTRIES,CHN,China,2014,TETANUS,Neonatal tetanus,per 1000 live births,27.93
+COUNTRIES,CHN,China,2014,POLIO,Poliomyelitis,per 1000 live births,27.35
+COUNTRIES,CHN,China,2014,YELLOWFEVER,Yellow fever,per 1000 live births,18.89
+COUNTRIES,CHN,China,2014,RUBELLA,Rubella,per 100000 total population,34.87
+COUNTRIES,CHN,China,2014,MUMPS,Mumps,per 1000 live births,0.34
+COUNTRIES,CHN,China,2015,MEASLES,Measles,per 100000 total population,7.13
+COUNTRIES,CHN,China,2015,PERTUSSIS,Pertussis,per 1000 live births,6.3
+COUNTRIES,CHN,China,2015,DIPHTHERIA,Diphtheria,per 100000 total population,38.03
+COUNTRIES,CHN,China,2015,TETANUS,Neonatal tetanus,per 100000 total population,11.69
+COUNTRIES,CHN,China,2015,POLIO,Poliomyelitis,per 1000 live births,17.67
+COUNTRIES,CHN,China,2015,YELLOWFEVER,Yellow fever,per 1000 live births,50.58
+COUNTRIES,CHN,China,2015,RUBELLA,Rubella,per 100000 total population,23.26
+COUNTRIES,CHN,China,2015,MUMPS,Mumps,per 1000 live births,8.68
+COUNTRIES,CHN,China,2016,MEASLES,Measles,per 1000 live births,34.36
+COUNTRIES,CHN,China,2016,PERTUSSIS,Pertussis,per 1000 live births,5.54
+COUNTRIES,CHN,China,2016,DIPHTHERIA,Diphtheria,per 1000 live births,5.36
+COUNTRIES,CHN,China,2016,TETANUS,Neonatal tetanus,per 100000 total population,8.36
+COUNTRIES,CHN,China,2016,POLIO,Poliomyelitis,per 100000 total population,59.22
+COUNTRIES,CHN,China,2016,YELLOWFEVER,Yellow fever,per 1000 live births,27.92
+COUNTRIES,CHN,China,2016,RUBELLA,Rubella,per 1000 live births,14.65
+COUNTRIES,CHN,China,2016,MUMPS,Mumps,per 100000 total population,3.19
+COUNTRIES,CHN,China,2017,MEASLES,Measles,per 1000 live births,74.82
+COUNTRIES,CHN,China,2017,PERTUSSIS,Pertussis,per 100000 total population,47.44
+COUNTRIES,CHN,China,2017,DIPHTHERIA,Diphtheria,per 1000 live births,5.38
+COUNTRIES,CHN,China,2017,TETANUS,Neonatal tetanus,per 100000 total population,3.4
+COUNTRIES,CHN,China,2017,POLIO,Poliomyelitis,per 1000 live births,18.91
+COUNTRIES,CHN,China,2017,YELLOWFEVER,Yellow fever,per 1000 live births,2.7
+COUNTRIES,CHN,China,2017,RUBELLA,Rubella,per 100000 total population,12.95
+COUNTRIES,CHN,China,2017,MUMPS,Mumps,per 100000 total population,5.08
+COUNTRIES,CHN,China,2018,MEASLES,Measles,per 1000 live births,41.9
+COUNTRIES,CHN,China,2018,PERTUSSIS,Pertussis,per 1000 live births,3.49
+COUNTRIES,CHN,China,2018,DIPHTHERIA,Diphtheria,per 1000 live births,27.9
+COUNTRIES,CHN,China,2018,TETANUS,Neonatal tetanus,per 100000 total population,20.87
+COUNTRIES,CHN,China,2018,POLIO,Poliomyelitis,per 100000 total population,1.66
+COUNTRIES,CHN,China,2018,YELLOWFEVER,Yellow fever,per 100000 total population,5.35
+COUNTRIES,CHN,China,2018,RUBELLA,Rubella,per 100000 total population,1.32
+COUNTRIES,CHN,China,2018,MUMPS,Mumps,per 100000 total population,16.87
+COUNTRIES,CHN,China,2019,MEASLES,Measles,per 1000 live births,104.45
+COUNTRIES,CHN,China,2019,PERTUSSIS,Pertussis,per 100000 total population,19.3
+COUNTRIES,CHN,China,2019,DIPHTHERIA,Diphtheria,per 100000 total population,10.14
+COUNTRIES,CHN,China,2019,TETANUS,Neonatal tetanus,per 100000 total population,2.27
+COUNTRIES,CHN,China,2019,POLIO,Poliomyelitis,per 1000 live births,17.28
+COUNTRIES,CHN,China,2019,YELLOWFEVER,Yellow fever,per 1000 live births,14.26
+COUNTRIES,CHN,China,2019,RUBELLA,Rubella,per 1000 live births,52.66
+COUNTRIES,CHN,China,2019,MUMPS,Mumps,per 100000 total population,4.5
+COUNTRIES,CHN,China,2020,MEASLES,Measles,per 1000 live births,21.05
+COUNTRIES,CHN,China,2020,PERTUSSIS,Pertussis,per 100000 total population,40.62
+COUNTRIES,CHN,China,2020,DIPHTHERIA,Diphtheria,per 1000 live births,71.1
+COUNTRIES,CHN,China,2020,TETANUS,Neonatal tetanus,per 100000 total population,12.83
+COUNTRIES,CHN,China,2020,POLIO,Poliomyelitis,per 100000 total population,25.22
+COUNTRIES,CHN,China,2020,YELLOWFEVER,Yellow fever,per 1000 live births,5.55
+COUNTRIES,CHN,China,2020,RUBELLA,Rubella,per 100000 total population,8.6
+COUNTRIES,CHN,China,2020,MUMPS,Mumps,per 1000 live births,2.19
+COUNTRIES,CHN,China,2021,MEASLES,Measles,per 100000 total population,0.82
+COUNTRIES,CHN,China,2021,PERTUSSIS,Pertussis,per 100000 total population,7.41
+COUNTRIES,CHN,China,2021,DIPHTHERIA,Diphtheria,per 100000 total population,9.98
+COUNTRIES,CHN,China,2021,TETANUS,Neonatal tetanus,per 1000 live births,0.23
+COUNTRIES,CHN,China,2021,POLIO,Poliomyelitis,per 100000 total population,2.36
+COUNTRIES,CHN,China,2021,YELLOWFEVER,Yellow fever,per 1000 live births,38.19
+COUNTRIES,CHN,China,2021,RUBELLA,Rubella,per 100000 total population,5.99
+COUNTRIES,CHN,China,2021,MUMPS,Mumps,per 1000 live births,0.72
+COUNTRIES,CHN,China,2022,MEASLES,Measles,per 100000 total population,32.6
+COUNTRIES,CHN,China,2022,PERTUSSIS,Pertussis,per 100000 total population,23.5
+COUNTRIES,CHN,China,2022,DIPHTHERIA,Diphtheria,per 100000 total population,1.82
+COUNTRIES,CHN,China,2022,TETANUS,Neonatal tetanus,per 1000 live births,7.93
+COUNTRIES,CHN,China,2022,POLIO,Poliomyelitis,per 1000 live births,4.47
+COUNTRIES,CHN,China,2022,YELLOWFEVER,Yellow fever,per 1000 live births,8.84
+COUNTRIES,CHN,China,2022,RUBELLA,Rubella,per 100000 total population,5.62
+COUNTRIES,CHN,China,2022,MUMPS,Mumps,per 100000 total population,17.63
+COUNTRIES,CHN,China,2023,MEASLES,Measles,per 100000 total population,53.71
+COUNTRIES,CHN,China,2023,PERTUSSIS,Pertussis,per 100000 total population,1.05
+COUNTRIES,CHN,China,2023,DIPHTHERIA,Diphtheria,per 1000 live births,23.04
+COUNTRIES,CHN,China,2023,TETANUS,Neonatal tetanus,per 1000 live births,22.05
+COUNTRIES,CHN,China,2023,POLIO,Poliomyelitis,per 1000 live births,12.05
+COUNTRIES,CHN,China,2023,YELLOWFEVER,Yellow fever,per 100000 total population,1.86
+COUNTRIES,CHN,China,2023,RUBELLA,Rubella,per 1000 live births,0.11
+COUNTRIES,CHN,China,2023,MUMPS,Mumps,per 100000 total population,11.18
+COUNTRIES,CHN,China,2024,MEASLES,Measles,per 100000 total population,32.96
+COUNTRIES,CHN,China,2024,PERTUSSIS,Pertussis,per 1000 live births,8.26
+COUNTRIES,CHN,China,2024,DIPHTHERIA,Diphtheria,per 1000 live births,10.35
+COUNTRIES,CHN,China,2024,TETANUS,Neonatal tetanus,per 1000 live births,10.67
+COUNTRIES,CHN,China,2024,POLIO,Poliomyelitis,per 100000 total population,0.44
+COUNTRIES,CHN,China,2024,YELLOWFEVER,Yellow fever,per 100000 total population,0.79
+COUNTRIES,CHN,China,2024,RUBELLA,Rubella,per 1000 live births,4.44
+COUNTRIES,CHN,China,2024,MUMPS,Mumps,per 100000 total population,16.88
+COUNTRIES,ETH,Ethiopia,2010,MEASLES,Measles,per 100000 total population,36.2
+COUNTRIES,ETH,Ethiopia,2010,PERTUSSIS,Pertussis,per 100000 total population,20.41
+COUNTRIES,ETH,Ethiopia,2010,DIPHTHERIA,Diphtheria,per 100000 total population,6.39
+COUNTRIES,ETH,Ethiopia,2010,TETANUS,Neonatal tetanus,per 100000 total population,33.0
+COUNTRIES,ETH,Ethiopia,2010,POLIO,Poliomyelitis,per 100000 total population,7.92
+COUNTRIES,ETH,Ethiopia,2010,YELLOWFEVER,Yellow fever,per 100000 total population,30.31
+COUNTRIES,ETH,Ethiopia,2010,RUBELLA,Rubella,per 1000 live births,13.63
+COUNTRIES,ETH,Ethiopia,2010,MUMPS,Mumps,per 1000 live births,16.32
+COUNTRIES,ETH,Ethiopia,2011,MEASLES,Measles,per 1000 live births,78.35
+COUNTRIES,ETH,Ethiopia,2011,PERTUSSIS,Pertussis,per 100000 total population,54.99
+COUNTRIES,ETH,Ethiopia,2011,DIPHTHERIA,Diphtheria,per 1000 live births,22.04
+COUNTRIES,ETH,Ethiopia,2011,TETANUS,Neonatal tetanus,per 100000 total population,1.82
+COUNTRIES,ETH,Ethiopia,2011,POLIO,Poliomyelitis,per 1000 live births,10.33
+COUNTRIES,ETH,Ethiopia,2011,YELLOWFEVER,Yellow fever,per 1000 live births,38.81
+COUNTRIES,ETH,Ethiopia,2011,RUBELLA,Rubella,per 100000 total population,1.43
+COUNTRIES,ETH,Ethiopia,2011,MUMPS,Mumps,per 1000 live births,39.22
+COUNTRIES,ETH,Ethiopia,2012,MEASLES,Measles,per 1000 live births,77.83
+COUNTRIES,ETH,Ethiopia,2012,PERTUSSIS,Pertussis,per 1000 live births,36.11
+COUNTRIES,ETH,Ethiopia,2012,DIPHTHERIA,Diphtheria,per 1000 live births,1.05
+COUNTRIES,ETH,Ethiopia,2012,TETANUS,Neonatal tetanus,per 100000 total population,29.86
+COUNTRIES,ETH,Ethiopia,2012,POLIO,Poliomyelitis,per 100000 total population,7.55
+COUNTRIES,ETH,Ethiopia,2012,YELLOWFEVER,Yellow fever,per 100000 total population,60.32
+COUNTRIES,ETH,Ethiopia,2012,RUBELLA,Rubella,per 1000 live births,12.26
+COUNTRIES,ETH,Ethiopia,2012,MUMPS,Mumps,per 1000 live births,32.8
+COUNTRIES,ETH,Ethiopia,2013,MEASLES,Measles,per 1000 live births,73.12
+COUNTRIES,ETH,Ethiopia,2013,PERTUSSIS,Pertussis,per 1000 live births,6.78
+COUNTRIES,ETH,Ethiopia,2013,DIPHTHERIA,Diphtheria,per 100000 total population,9.59
+COUNTRIES,ETH,Ethiopia,2013,TETANUS,Neonatal tetanus,per 100000 total population,17.76
+COUNTRIES,ETH,Ethiopia,2013,POLIO,Poliomyelitis,per 100000 total population,6.4
+COUNTRIES,ETH,Ethiopia,2013,YELLOWFEVER,Yellow fever,per 1000 live births,8.76
+COUNTRIES,ETH,Ethiopia,2013,RUBELLA,Rubella,per 1000 live births,9.35
+COUNTRIES,ETH,Ethiopia,2013,MUMPS,Mumps,per 100000 total population,2.48
+COUNTRIES,ETH,Ethiopia,2014,MEASLES,Measles,per 1000 live births,73.19
+COUNTRIES,ETH,Ethiopia,2014,PERTUSSIS,Pertussis,per 1000 live births,8.36
+COUNTRIES,ETH,Ethiopia,2014,DIPHTHERIA,Diphtheria,per 1000 live births,34.39
+COUNTRIES,ETH,Ethiopia,2014,TETANUS,Neonatal tetanus,per 1000 live births,14.85
+COUNTRIES,ETH,Ethiopia,2014,POLIO,Poliomyelitis,per 100000 total population,2.21
+COUNTRIES,ETH,Ethiopia,2014,YELLOWFEVER,Yellow fever,per 100000 total population,3.72
+COUNTRIES,ETH,Ethiopia,2014,RUBELLA,Rubella,per 100000 total population,4.62
+COUNTRIES,ETH,Ethiopia,2014,MUMPS,Mumps,per 1000 live births,103.63
+COUNTRIES,ETH,Ethiopia,2015,MEASLES,Measles,per 100000 total population,96.85
+COUNTRIES,ETH,Ethiopia,2015,PERTUSSIS,Pertussis,per 1000 live births,8.45
+COUNTRIES,ETH,Ethiopia,2015,DIPHTHERIA,Diphtheria,per 1000 live births,15.17
+COUNTRIES,ETH,Ethiopia,2015,TETANUS,Neonatal tetanus,per 100000 total population,7.15
+COUNTRIES,ETH,Ethiopia,2015,POLIO,Poliomyelitis,per 1000 live births,5.99
+COUNTRIES,ETH,Ethiopia,2015,YELLOWFEVER,Yellow fever,per 1000 live births,4.33
+COUNTRIES,ETH,Ethiopia,2015,RUBELLA,Rubella,per 1000 live births,39.31
+COUNTRIES,ETH,Ethiopia,2015,MUMPS,Mumps,per 1000 live births,17.98
+COUNTRIES,ETH,Ethiopia,2016,MEASLES,Measles,per 1000 live births,6.7
+COUNTRIES,ETH,Ethiopia,2016,PERTUSSIS,Pertussis,per 1000 live births,3.33
+COUNTRIES,ETH,Ethiopia,2016,DIPHTHERIA,Diphtheria,per 100000 total population,76.89
+COUNTRIES,ETH,Ethiopia,2016,TETANUS,Neonatal tetanus,per 1000 live births,0.16
+COUNTRIES,ETH,Ethiopia,2016,POLIO,Poliomyelitis,per 1000 live births,12.37
+COUNTRIES,ETH,Ethiopia,2016,YELLOWFEVER,Yellow fever,per 100000 total population,2.88
+COUNTRIES,ETH,Ethiopia,2016,RUBELLA,Rubella,per 1000 live births,37.06
+COUNTRIES,ETH,Ethiopia,2016,MUMPS,Mumps,per 1000 live births,34.48
+COUNTRIES,ETH,Ethiopia,2017,MEASLES,Measles,per 100000 total population,71.08
+COUNTRIES,ETH,Ethiopia,2017,PERTUSSIS,Pertussis,per 1000 live births,14.23
+COUNTRIES,ETH,Ethiopia,2017,DIPHTHERIA,Diphtheria,per 1000 live births,4.63
+COUNTRIES,ETH,Ethiopia,2017,TETANUS,Neonatal tetanus,per 1000 live births,0.28
+COUNTRIES,ETH,Ethiopia,2017,POLIO,Poliomyelitis,per 1000 live births,12.54
+COUNTRIES,ETH,Ethiopia,2017,YELLOWFEVER,Yellow fever,per 1000 live births,18.01
+COUNTRIES,ETH,Ethiopia,2017,RUBELLA,Rubella,per 100000 total population,10.15
+COUNTRIES,ETH,Ethiopia,2017,MUMPS,Mumps,per 100000 total population,3.74
+COUNTRIES,ETH,Ethiopia,2018,MEASLES,Measles,per 100000 total population,49.37
+COUNTRIES,ETH,Ethiopia,2018,PERTUSSIS,Pertussis,per 1000 live births,5.98
+COUNTRIES,ETH,Ethiopia,2018,DIPHTHERIA,Diphtheria,per 100000 total population,3.54
+COUNTRIES,ETH,Ethiopia,2018,TETANUS,Neonatal tetanus,per 1000 live births,50.06
+COUNTRIES,ETH,Ethiopia,2018,POLIO,Poliomyelitis,per 1000 live births,20.97
+COUNTRIES,ETH,Ethiopia,2018,YELLOWFEVER,Yellow fever,per 100000 total population,16.68
+COUNTRIES,ETH,Ethiopia,2018,RUBELLA,Rubella,per 100000 total population,21.19
+COUNTRIES,ETH,Ethiopia,2018,MUMPS,Mumps,per 100000 total population,40.52
+COUNTRIES,ETH,Ethiopia,2019,MEASLES,Measles,per 1000 live births,21.62
+COUNTRIES,ETH,Ethiopia,2019,PERTUSSIS,Pertussis,per 1000 live births,7.39
+COUNTRIES,ETH,Ethiopia,2019,DIPHTHERIA,Diphtheria,per 1000 live births,30.28
+COUNTRIES,ETH,Ethiopia,2019,TETANUS,Neonatal tetanus,per 100000 total population,39.49
+COUNTRIES,ETH,Ethiopia,2019,POLIO,Poliomyelitis,per 100000 total population,6.46
+COUNTRIES,ETH,Ethiopia,2019,YELLOWFEVER,Yellow fever,per 1000 live births,1.7
+COUNTRIES,ETH,Ethiopia,2019,RUBELLA,Rubella,per 100000 total population,34.03
+COUNTRIES,ETH,Ethiopia,2019,MUMPS,Mumps,per 100000 total population,7.38
+COUNTRIES,ETH,Ethiopia,2020,MEASLES,Measles,per 1000 live births,76.49
+COUNTRIES,ETH,Ethiopia,2020,PERTUSSIS,Pertussis,per 1000 live births,0.8
+COUNTRIES,ETH,Ethiopia,2020,DIPHTHERIA,Diphtheria,per 1000 live births,10.41
+COUNTRIES,ETH,Ethiopia,2020,TETANUS,Neonatal tetanus,per 100000 total population,13.45
+COUNTRIES,ETH,Ethiopia,2020,POLIO,Poliomyelitis,per 100000 total population,3.48
+COUNTRIES,ETH,Ethiopia,2020,YELLOWFEVER,Yellow fever,per 1000 live births,16.06
+COUNTRIES,ETH,Ethiopia,2020,RUBELLA,Rubella,per 100000 total population,44.87
+COUNTRIES,ETH,Ethiopia,2020,MUMPS,Mumps,per 100000 total population,37.66
+COUNTRIES,ETH,Ethiopia,2021,MEASLES,Measles,per 100000 total population,55.86
+COUNTRIES,ETH,Ethiopia,2021,PERTUSSIS,Pertussis,per 1000 live births,2.46
+COUNTRIES,ETH,Ethiopia,2021,DIPHTHERIA,Diphtheria,per 1000 live births,30.11
+COUNTRIES,ETH,Ethiopia,2021,TETANUS,Neonatal tetanus,per 1000 live births,3.97
+COUNTRIES,ETH,Ethiopia,2021,POLIO,Poliomyelitis,per 1000 live births,3.23
+COUNTRIES,ETH,Ethiopia,2021,YELLOWFEVER,Yellow fever,per 1000 live births,15.59
+COUNTRIES,ETH,Ethiopia,2021,RUBELLA,Rubella,per 1000 live births,25.22
+COUNTRIES,ETH,Ethiopia,2021,MUMPS,Mumps,per 100000 total population,55.12
+COUNTRIES,ETH,Ethiopia,2022,MEASLES,Measles,per 100000 total population,105.97
+COUNTRIES,ETH,Ethiopia,2022,PERTUSSIS,Pertussis,per 100000 total population,4.91
+COUNTRIES,ETH,Ethiopia,2022,DIPHTHERIA,Diphtheria,per 100000 total population,10.78
+COUNTRIES,ETH,Ethiopia,2022,TETANUS,Neonatal tetanus,per 1000 live births,11.73
+COUNTRIES,ETH,Ethiopia,2022,POLIO,Poliomyelitis,per 1000 live births,7.24
+COUNTRIES,ETH,Ethiopia,2022,YELLOWFEVER,Yellow fever,per 100000 total population,4.11
+COUNTRIES,ETH,Ethiopia,2022,RUBELLA,Rubella,per 1000 live births,10.65
+COUNTRIES,ETH,Ethiopia,2022,MUMPS,Mumps,per 100000 total population,16.06
+COUNTRIES,ETH,Ethiopia,2023,MEASLES,Measles,per 1000 live births,78.23
+COUNTRIES,ETH,Ethiopia,2023,PERTUSSIS,Pertussis,per 100000 total population,15.19
+COUNTRIES,ETH,Ethiopia,2023,DIPHTHERIA,Diphtheria,per 1000 live births,1.83
+COUNTRIES,ETH,Ethiopia,2023,TETANUS,Neonatal tetanus,per 1000 live births,3.66
+COUNTRIES,ETH,Ethiopia,2023,POLIO,Poliomyelitis,per 100000 total population,14.88
+COUNTRIES,ETH,Ethiopia,2023,YELLOWFEVER,Yellow fever,per 100000 total population,7.56
+COUNTRIES,ETH,Ethiopia,2023,RUBELLA,Rubella,per 100000 total population,2.95
+COUNTRIES,ETH,Ethiopia,2023,MUMPS,Mumps,per 100000 total population,0.93
+COUNTRIES,ETH,Ethiopia,2024,MEASLES,Measles,per 100000 total population,0.49
+COUNTRIES,ETH,Ethiopia,2024,PERTUSSIS,Pertussis,per 100000 total population,6.67
+COUNTRIES,ETH,Ethiopia,2024,DIPHTHERIA,Diphtheria,per 100000 total population,11.05
+COUNTRIES,ETH,Ethiopia,2024,TETANUS,Neonatal tetanus,per 1000 live births,34.92
+COUNTRIES,ETH,Ethiopia,2024,POLIO,Poliomyelitis,per 100000 total population,7.5
+COUNTRIES,ETH,Ethiopia,2024,YELLOWFEVER,Yellow fever,per 1000 live births,5.05
+COUNTRIES,ETH,Ethiopia,2024,RUBELLA,Rubella,per 100000 total population,15.26
+COUNTRIES,ETH,Ethiopia,2024,MUMPS,Mumps,per 1000 live births,1.27
+COUNTRIES,PAK,Pakistan,2010,MEASLES,Measles,per 100000 total population,36.52
+COUNTRIES,PAK,Pakistan,2010,PERTUSSIS,Pertussis,per 1000 live births,37.51
+COUNTRIES,PAK,Pakistan,2010,DIPHTHERIA,Diphtheria,per 1000 live births,5.58
+COUNTRIES,PAK,Pakistan,2010,TETANUS,Neonatal tetanus,per 1000 live births,0.79
+COUNTRIES,PAK,Pakistan,2010,POLIO,Poliomyelitis,per 1000 live births,62.07
+COUNTRIES,PAK,Pakistan,2010,YELLOWFEVER,Yellow fever,per 100000 total population,33.33
+COUNTRIES,PAK,Pakistan,2010,RUBELLA,Rubella,per 1000 live births,33.16
+COUNTRIES,PAK,Pakistan,2010,MUMPS,Mumps,per 100000 total population,0.66
+COUNTRIES,PAK,Pakistan,2011,MEASLES,Measles,per 100000 total population,75.64
+COUNTRIES,PAK,Pakistan,2011,PERTUSSIS,Pertussis,per 1000 live births,2.77
+COUNTRIES,PAK,Pakistan,2011,DIPHTHERIA,Diphtheria,per 100000 total population,11.36
+COUNTRIES,PAK,Pakistan,2011,TETANUS,Neonatal tetanus,per 1000 live births,5.94
+COUNTRIES,PAK,Pakistan,2011,POLIO,Poliomyelitis,per 100000 total population,1.96
+COUNTRIES,PAK,Pakistan,2011,YELLOWFEVER,Yellow fever,per 1000 live births,34.7
+COUNTRIES,PAK,Pakistan,2011,RUBELLA,Rubella,per 100000 total population,14.98
+COUNTRIES,PAK,Pakistan,2011,MUMPS,Mumps,per 1000 live births,1.91
+COUNTRIES,PAK,Pakistan,2012,MEASLES,Measles,per 100000 total population,45.67
+COUNTRIES,PAK,Pakistan,2012,PERTUSSIS,Pertussis,per 1000 live births,26.04
+COUNTRIES,PAK,Pakistan,2012,DIPHTHERIA,Diphtheria,per 1000 live births,26.99
+COUNTRIES,PAK,Pakistan,2012,TETANUS,Neonatal tetanus,per 1000 live births,5.22
+COUNTRIES,PAK,Pakistan,2012,POLIO,Poliomyelitis,per 1000 live births,6.31
+COUNTRIES,PAK,Pakistan,2012,YELLOWFEVER,Yellow fever,per 100000 total population,16.24
+COUNTRIES,PAK,Pakistan,2012,RUBELLA,Rubella,per 1000 live births,5.22
+COUNTRIES,PAK,Pakistan,2012,MUMPS,Mumps,per 1000 live births,7.5
+COUNTRIES,PAK,Pakistan,2013,MEASLES,Measles,per 1000 live births,38.84
+COUNTRIES,PAK,Pakistan,2013,PERTUSSIS,Pertussis,per 1000 live births,5.67
+COUNTRIES,PAK,Pakistan,2013,DIPHTHERIA,Diphtheria,per 1000 live births,9.13
+COUNTRIES,PAK,Pakistan,2013,TETANUS,Neonatal tetanus,per 100000 total population,23.92
+COUNTRIES,PAK,Pakistan,2013,POLIO,Poliomyelitis,per 1000 live births,3.55
+COUNTRIES,PAK,Pakistan,2013,YELLOWFEVER,Yellow fever,per 1000 live births,14.65
+COUNTRIES,PAK,Pakistan,2013,RUBELLA,Rubella,per 1000 live births,34.82
+COUNTRIES,PAK,Pakistan,2013,MUMPS,Mumps,per 1000 live births,2.86
+COUNTRIES,PAK,Pakistan,2014,MEASLES,Measles,per 100000 total population,23.91
+COUNTRIES,PAK,Pakistan,2014,PERTUSSIS,Pertussis,per 1000 live births,11.58
+COUNTRIES,PAK,Pakistan,2014,DIPHTHERIA,Diphtheria,per 100000 total population,11.73
+COUNTRIES,PAK,Pakistan,2014,TETANUS,Neonatal tetanus,per 100000 total population,11.92
+COUNTRIES,PAK,Pakistan,2014,POLIO,Poliomyelitis,per 1000 live births,3.18
+COUNTRIES,PAK,Pakistan,2014,YELLOWFEVER,Yellow fever,per 1000 live births,0.8
+COUNTRIES,PAK,Pakistan,2014,RUBELLA,Rubella,per 100000 total population,13.16
+COUNTRIES,PAK,Pakistan,2014,MUMPS,Mumps,per 1000 live births,18.81
+COUNTRIES,PAK,Pakistan,2015,MEASLES,Measles,per 100000 total population,106.94
+COUNTRIES,PAK,Pakistan,2015,PERTUSSIS,Pertussis,per 100000 total population,3.26
+COUNTRIES,PAK,Pakistan,2015,DIPHTHERIA,Diphtheria,per 1000 live births,0.26
+COUNTRIES,PAK,Pakistan,2015,TETANUS,Neonatal tetanus,per 1000 live births,21.8
+COUNTRIES,PAK,Pakistan,2015,POLIO,Poliomyelitis,per 100000 total population,13.87
+COUNTRIES,PAK,Pakistan,2015,YELLOWFEVER,Yellow fever,per 100000 total population,5.7
+COUNTRIES,PAK,Pakistan,2015,RUBELLA,Rubella,per 100000 total population,17.68
+COUNTRIES,PAK,Pakistan,2015,MUMPS,Mumps,per 100000 total population,5.66
+COUNTRIES,PAK,Pakistan,2016,MEASLES,Measles,per 100000 total population,20.38
+COUNTRIES,PAK,Pakistan,2016,PERTUSSIS,Pertussis,per 100000 total population,3.38
+COUNTRIES,PAK,Pakistan,2016,DIPHTHERIA,Diphtheria,per 1000 live births,8.59
+COUNTRIES,PAK,Pakistan,2016,TETANUS,Neonatal tetanus,per 100000 total population,22.08
+COUNTRIES,PAK,Pakistan,2016,POLIO,Poliomyelitis,per 100000 total population,26.01
+COUNTRIES,PAK,Pakistan,2016,YELLOWFEVER,Yellow fever,per 100000 total population,17.02
+COUNTRIES,PAK,Pakistan,2016,RUBELLA,Rubella,per 1000 live births,7.15
+COUNTRIES,PAK,Pakistan,2016,MUMPS,Mumps,per 1000 live births,4.18
+COUNTRIES,PAK,Pakistan,2017,MEASLES,Measles,per 1000 live births,30.31
+COUNTRIES,PAK,Pakistan,2017,PERTUSSIS,Pertussis,per 100000 total population,23.32
+COUNTRIES,PAK,Pakistan,2017,DIPHTHERIA,Diphtheria,per 1000 live births,3.57
+COUNTRIES,PAK,Pakistan,2017,TETANUS,Neonatal tetanus,per 100000 total population,4.97
+COUNTRIES,PAK,Pakistan,2017,POLIO,Poliomyelitis,per 1000 live births,5.66
+COUNTRIES,PAK,Pakistan,2017,YELLOWFEVER,Yellow fever,per 1000 live births,2.83
+COUNTRIES,PAK,Pakistan,2017,RUBELLA,Rubella,per 100000 total population,3.57
+COUNTRIES,PAK,Pakistan,2017,MUMPS,Mumps,per 100000 total population,5.91
+COUNTRIES,PAK,Pakistan,2018,MEASLES,Measles,per 100000 total population,113.48
+COUNTRIES,PAK,Pakistan,2018,PERTUSSIS,Pertussis,per 1000 live births,6.8
+COUNTRIES,PAK,Pakistan,2018,DIPHTHERIA,Diphtheria,per 1000 live births,1.35
+COUNTRIES,PAK,Pakistan,2018,TETANUS,Neonatal tetanus,per 100000 total population,4.02
+COUNTRIES,PAK,Pakistan,2018,POLIO,Poliomyelitis,per 1000 live births,19.14
+COUNTRIES,PAK,Pakistan,2018,YELLOWFEVER,Yellow fever,per 100000 total population,10.81
+COUNTRIES,PAK,Pakistan,2018,RUBELLA,Rubella,per 100000 total population,6.29
+COUNTRIES,PAK,Pakistan,2018,MUMPS,Mumps,per 100000 total population,18.67
+COUNTRIES,PAK,Pakistan,2019,MEASLES,Measles,per 100000 total population,8.34
+COUNTRIES,PAK,Pakistan,2019,PERTUSSIS,Pertussis,per 1000 live births,16.25
+COUNTRIES,PAK,Pakistan,2019,DIPHTHERIA,Diphtheria,per 1000 live births,6.26
+COUNTRIES,PAK,Pakistan,2019,TETANUS,Neonatal tetanus,per 1000 live births,17.54
+COUNTRIES,PAK,Pakistan,2019,POLIO,Poliomyelitis,per 1000 live births,6.32
+COUNTRIES,PAK,Pakistan,2019,YELLOWFEVER,Yellow fever,per 100000 total population,10.89
+COUNTRIES,PAK,Pakistan,2019,RUBELLA,Rubella,per 100000 total population,41.66
+COUNTRIES,PAK,Pakistan,2019,MUMPS,Mumps,per 100000 total population,15.66
+COUNTRIES,PAK,Pakistan,2020,MEASLES,Measles,per 1000 live births,14.46
+COUNTRIES,PAK,Pakistan,2020,PERTUSSIS,Pertussis,per 100000 total population,5.01
+COUNTRIES,PAK,Pakistan,2020,DIPHTHERIA,Diphtheria,per 100000 total population,12.69
+COUNTRIES,PAK,Pakistan,2020,TETANUS,Neonatal tetanus,per 100000 total population,5.42
+COUNTRIES,PAK,Pakistan,2020,POLIO,Poliomyelitis,per 1000 live births,1.76
+COUNTRIES,PAK,Pakistan,2020,YELLOWFEVER,Yellow fever,per 100000 total population,4.11
+COUNTRIES,PAK,Pakistan,2020,RUBELLA,Rubella,per 100000 total population,12.06
+COUNTRIES,PAK,Pakistan,2020,MUMPS,Mumps,per 100000 total population,2.37
+COUNTRIES,PAK,Pakistan,2021,MEASLES,Measles,per 1000 live births,9.06
+COUNTRIES,PAK,Pakistan,2021,PERTUSSIS,Pertussis,per 1000 live births,14.71
+COUNTRIES,PAK,Pakistan,2021,DIPHTHERIA,Diphtheria,per 1000 live births,0.76
+COUNTRIES,PAK,Pakistan,2021,TETANUS,Neonatal tetanus,per 100000 total population,1.51
+COUNTRIES,PAK,Pakistan,2021,POLIO,Poliomyelitis,per 1000 live births,16.02
+COUNTRIES,PAK,Pakistan,2021,YELLOWFEVER,Yellow fever,per 100000 total population,9.48
+COUNTRIES,PAK,Pakistan,2021,RUBELLA,Rubella,per 100000 total population,34.66
+COUNTRIES,PAK,Pakistan,2021,MUMPS,Mumps,per 100000 total population,1.51
+COUNTRIES,PAK,Pakistan,2022,MEASLES,Measles,per 100000 total population,9.98
+COUNTRIES,PAK,Pakistan,2022,PERTUSSIS,Pertussis,per 100000 total population,0.79
+COUNTRIES,PAK,Pakistan,2022,DIPHTHERIA,Diphtheria,per 1000 live births,3.78
+COUNTRIES,PAK,Pakistan,2022,TETANUS,Neonatal tetanus,per 100000 total population,20.39
+COUNTRIES,PAK,Pakistan,2022,POLIO,Poliomyelitis,per 1000 live births,10.95
+COUNTRIES,PAK,Pakistan,2022,YELLOWFEVER,Yellow fever,per 100000 total population,6.5
+COUNTRIES,PAK,Pakistan,2022,RUBELLA,Rubella,per 1000 live births,8.25
+COUNTRIES,PAK,Pakistan,2022,MUMPS,Mumps,per 1000 live births,6.57
+COUNTRIES,PAK,Pakistan,2023,MEASLES,Measles,per 100000 total population,74.29
+COUNTRIES,PAK,Pakistan,2023,PERTUSSIS,Pertussis,per 1000 live births,9.74
+COUNTRIES,PAK,Pakistan,2023,DIPHTHERIA,Diphtheria,per 100000 total population,23.58
+COUNTRIES,PAK,Pakistan,2023,TETANUS,Neonatal tetanus,per 1000 live births,13.79
+COUNTRIES,PAK,Pakistan,2023,POLIO,Poliomyelitis,per 1000 live births,33.89
+COUNTRIES,PAK,Pakistan,2023,YELLOWFEVER,Yellow fever,per 100000 total population,15.18
+COUNTRIES,PAK,Pakistan,2023,RUBELLA,Rubella,per 100000 total population,5.73
+COUNTRIES,PAK,Pakistan,2023,MUMPS,Mumps,per 100000 total population,1.35
+COUNTRIES,PAK,Pakistan,2024,MEASLES,Measles,per 100000 total population,11.46
+COUNTRIES,PAK,Pakistan,2024,PERTUSSIS,Pertussis,per 1000 live births,1.28
+COUNTRIES,PAK,Pakistan,2024,DIPHTHERIA,Diphtheria,per 100000 total population,1.67
+COUNTRIES,PAK,Pakistan,2024,TETANUS,Neonatal tetanus,per 1000 live births,9.44
+COUNTRIES,PAK,Pakistan,2024,POLIO,Poliomyelitis,per 100000 total population,34.64
+COUNTRIES,PAK,Pakistan,2024,YELLOWFEVER,Yellow fever,per 1000 live births,1.43
+COUNTRIES,PAK,Pakistan,2024,RUBELLA,Rubella,per 1000 live births,8.19
+COUNTRIES,PAK,Pakistan,2024,MUMPS,Mumps,per 1000 live births,19.69
+COUNTRIES,BGD,Bangladesh,2010,MEASLES,Measles,per 100000 total population,2.37
+COUNTRIES,BGD,Bangladesh,2010,PERTUSSIS,Pertussis,per 1000 live births,20.76
+COUNTRIES,BGD,Bangladesh,2010,DIPHTHERIA,Diphtheria,per 1000 live births,9.2
+COUNTRIES,BGD,Bangladesh,2010,TETANUS,Neonatal tetanus,per 100000 total population,25.96
+COUNTRIES,BGD,Bangladesh,2010,POLIO,Poliomyelitis,per 1000 live births,17.6
+COUNTRIES,BGD,Bangladesh,2010,YELLOWFEVER,Yellow fever,per 100000 total population,27.28
+COUNTRIES,BGD,Bangladesh,2010,RUBELLA,Rubella,per 100000 total population,7.25
+COUNTRIES,BGD,Bangladesh,2010,MUMPS,Mumps,per 100000 total population,35.86
+COUNTRIES,BGD,Bangladesh,2011,MEASLES,Measles,per 1000 live births,6.15
+COUNTRIES,BGD,Bangladesh,2011,PERTUSSIS,Pertussis,per 1000 live births,1.65
+COUNTRIES,BGD,Bangladesh,2011,DIPHTHERIA,Diphtheria,per 1000 live births,1.63
+COUNTRIES,BGD,Bangladesh,2011,TETANUS,Neonatal tetanus,per 1000 live births,10.08
+COUNTRIES,BGD,Bangladesh,2011,POLIO,Poliomyelitis,per 1000 live births,13.98
+COUNTRIES,BGD,Bangladesh,2011,YELLOWFEVER,Yellow fever,per 1000 live births,27.36
+COUNTRIES,BGD,Bangladesh,2011,RUBELLA,Rubella,per 1000 live births,6.5
+COUNTRIES,BGD,Bangladesh,2011,MUMPS,Mumps,per 1000 live births,25.52
+COUNTRIES,BGD,Bangladesh,2012,MEASLES,Measles,per 1000 live births,109.1
+COUNTRIES,BGD,Bangladesh,2012,PERTUSSIS,Pertussis,per 100000 total population,22.06
+COUNTRIES,BGD,Bangladesh,2012,DIPHTHERIA,Diphtheria,per 1000 live births,8.41
+COUNTRIES,BGD,Bangladesh,2012,TETANUS,Neonatal tetanus,per 100000 total population,14.25
+COUNTRIES,BGD,Bangladesh,2012,POLIO,Poliomyelitis,per 1000 live births,1.29
+COUNTRIES,BGD,Bangladesh,2012,YELLOWFEVER,Yellow fever,per 100000 total population,2.66
+COUNTRIES,BGD,Bangladesh,2012,RUBELLA,Rubella,per 1000 live births,7.04
+COUNTRIES,BGD,Bangladesh,2012,MUMPS,Mumps,per 1000 live births,20.73
+COUNTRIES,BGD,Bangladesh,2013,MEASLES,Measles,per 1000 live births,85.18
+COUNTRIES,BGD,Bangladesh,2013,PERTUSSIS,Pertussis,per 1000 live births,12.43
+COUNTRIES,BGD,Bangladesh,2013,DIPHTHERIA,Diphtheria,per 1000 live births,9.66
+COUNTRIES,BGD,Bangladesh,2013,TETANUS,Neonatal tetanus,per 100000 total population,18.98
+COUNTRIES,BGD,Bangladesh,2013,POLIO,Poliomyelitis,per 100000 total population,33.6
+COUNTRIES,BGD,Bangladesh,2013,YELLOWFEVER,Yellow fever,per 100000 total population,3.61
+COUNTRIES,BGD,Bangladesh,2013,RUBELLA,Rubella,per 1000 live births,19.18
+COUNTRIES,BGD,Bangladesh,2013,MUMPS,Mumps,per 1000 live births,6.33
+COUNTRIES,BGD,Bangladesh,2014,MEASLES,Measles,per 1000 live births,103.45
+COUNTRIES,BGD,Bangladesh,2014,PERTUSSIS,Pertussis,per 1000 live births,13.5
+COUNTRIES,BGD,Bangladesh,2014,DIPHTHERIA,Diphtheria,per 1000 live births,12.03
+COUNTRIES,BGD,Bangladesh,2014,TETANUS,Neonatal tetanus,per 100000 total population,18.13
+COUNTRIES,BGD,Bangladesh,2014,POLIO,Poliomyelitis,per 1000 live births,22.2
+COUNTRIES,BGD,Bangladesh,2014,YELLOWFEVER,Yellow fever,per 100000 total population,19.97
+COUNTRIES,BGD,Bangladesh,2014,RUBELLA,Rubella,per 100000 total population,0.45
+COUNTRIES,BGD,Bangladesh,2014,MUMPS,Mumps,per 1000 live births,9.42
+COUNTRIES,BGD,Bangladesh,2015,MEASLES,Measles,per 1000 live births,91.73
+COUNTRIES,BGD,Bangladesh,2015,PERTUSSIS,Pertussis,per 100000 total population,27.79
+COUNTRIES,BGD,Bangladesh,2015,DIPHTHERIA,Diphtheria,per 100000 total population,35.07
+COUNTRIES,BGD,Bangladesh,2015,TETANUS,Neonatal tetanus,per 100000 total population,0.55
+COUNTRIES,BGD,Bangladesh,2015,POLIO,Poliomyelitis,per 100000 total population,3.98
+COUNTRIES,BGD,Bangladesh,2015,YELLOWFEVER,Yellow fever,per 100000 total population,9.29
+COUNTRIES,BGD,Bangladesh,2015,RUBELLA,Rubella,per 100000 total population,3.63
+COUNTRIES,BGD,Bangladesh,2015,MUMPS,Mumps,per 1000 live births,15.22
+COUNTRIES,BGD,Bangladesh,2016,MEASLES,Measles,per 1000 live births,1.29
+COUNTRIES,BGD,Bangladesh,2016,PERTUSSIS,Pertussis,per 100000 total population,0.05
+COUNTRIES,BGD,Bangladesh,2016,DIPHTHERIA,Diphtheria,per 100000 total population,17.77
+COUNTRIES,BGD,Bangladesh,2016,TETANUS,Neonatal tetanus,per 100000 total population,55.45
+COUNTRIES,BGD,Bangladesh,2016,POLIO,Poliomyelitis,per 100000 total population,6.8
+COUNTRIES,BGD,Bangladesh,2016,YELLOWFEVER,Yellow fever,per 100000 total population,28.66
+COUNTRIES,BGD,Bangladesh,2016,RUBELLA,Rubella,per 100000 total population,43.41
+COUNTRIES,BGD,Bangladesh,2016,MUMPS,Mumps,per 100000 total population,65.6
+COUNTRIES,BGD,Bangladesh,2017,MEASLES,Measles,per 1000 live births,8.92
+COUNTRIES,BGD,Bangladesh,2017,PERTUSSIS,Pertussis,per 1000 live births,12.51
+COUNTRIES,BGD,Bangladesh,2017,DIPHTHERIA,Diphtheria,per 100000 total population,1.33
+COUNTRIES,BGD,Bangladesh,2017,TETANUS,Neonatal tetanus,per 100000 total population,46.07
+COUNTRIES,BGD,Bangladesh,2017,POLIO,Poliomyelitis,per 1000 live births,8.17
+COUNTRIES,BGD,Bangladesh,2017,YELLOWFEVER,Yellow fever,per 1000 live births,8.28
+COUNTRIES,BGD,Bangladesh,2017,RUBELLA,Rubella,per 1000 live births,30.29
+COUNTRIES,BGD,Bangladesh,2017,MUMPS,Mumps,per 100000 total population,7.93
+COUNTRIES,BGD,Bangladesh,2018,MEASLES,Measles,per 100000 total population,30.29
+COUNTRIES,BGD,Bangladesh,2018,PERTUSSIS,Pertussis,per 1000 live births,39.61
+COUNTRIES,BGD,Bangladesh,2018,DIPHTHERIA,Diphtheria,per 1000 live births,2.76
+COUNTRIES,BGD,Bangladesh,2018,TETANUS,Neonatal tetanus,per 1000 live births,37.09
+COUNTRIES,BGD,Bangladesh,2018,POLIO,Poliomyelitis,per 1000 live births,16.29
+COUNTRIES,BGD,Bangladesh,2018,YELLOWFEVER,Yellow fever,per 100000 total population,2.3
+COUNTRIES,BGD,Bangladesh,2018,RUBELLA,Rubella,per 100000 total population,44.52
+COUNTRIES,BGD,Bangladesh,2018,MUMPS,Mumps,per 1000 live births,2.63
+COUNTRIES,BGD,Bangladesh,2019,MEASLES,Measles,per 1000 live births,59.03
+COUNTRIES,BGD,Bangladesh,2019,PERTUSSIS,Pertussis,per 100000 total population,32.74
+COUNTRIES,BGD,Bangladesh,2019,DIPHTHERIA,Diphtheria,per 1000 live births,19.48
+COUNTRIES,BGD,Bangladesh,2019,TETANUS,Neonatal tetanus,per 1000 live births,17.79
+COUNTRIES,BGD,Bangladesh,2019,POLIO,Poliomyelitis,per 100000 total population,17.22
+COUNTRIES,BGD,Bangladesh,2019,YELLOWFEVER,Yellow fever,per 1000 live births,12.02
+COUNTRIES,BGD,Bangladesh,2019,RUBELLA,Rubella,per 1000 live births,6.44
+COUNTRIES,BGD,Bangladesh,2019,MUMPS,Mumps,per 1000 live births,17.09
+COUNTRIES,BGD,Bangladesh,2020,MEASLES,Measles,per 100000 total population,1.62
+COUNTRIES,BGD,Bangladesh,2020,PERTUSSIS,Pertussis,per 100000 total population,11.86
+COUNTRIES,BGD,Bangladesh,2020,DIPHTHERIA,Diphtheria,per 100000 total population,15.88
+COUNTRIES,BGD,Bangladesh,2020,TETANUS,Neonatal tetanus,per 1000 live births,1.02
+COUNTRIES,BGD,Bangladesh,2020,POLIO,Poliomyelitis,per 1000 live births,26.49
+COUNTRIES,BGD,Bangladesh,2020,YELLOWFEVER,Yellow fever,per 100000 total population,12.7
+COUNTRIES,BGD,Bangladesh,2020,RUBELLA,Rubella,per 100000 total population,6.24
+COUNTRIES,BGD,Bangladesh,2020,MUMPS,Mumps,per 100000 total population,19.57
+COUNTRIES,BGD,Bangladesh,2021,MEASLES,Measles,per 1000 live births,11.95
+COUNTRIES,BGD,Bangladesh,2021,PERTUSSIS,Pertussis,per 100000 total population,11.89
+COUNTRIES,BGD,Bangladesh,2021,DIPHTHERIA,Diphtheria,per 1000 live births,1.99
+COUNTRIES,BGD,Bangladesh,2021,TETANUS,Neonatal tetanus,per 100000 total population,9.45
+COUNTRIES,BGD,Bangladesh,2021,POLIO,Poliomyelitis,per 100000 total population,0.72
+COUNTRIES,BGD,Bangladesh,2021,YELLOWFEVER,Yellow fever,per 100000 total population,2.03
+COUNTRIES,BGD,Bangladesh,2021,RUBELLA,Rubella,per 100000 total population,28.07
+COUNTRIES,BGD,Bangladesh,2021,MUMPS,Mumps,per 100000 total population,67.76
+COUNTRIES,BGD,Bangladesh,2022,MEASLES,Measles,per 100000 total population,27.6
+COUNTRIES,BGD,Bangladesh,2022,PERTUSSIS,Pertussis,per 100000 total population,26.84
+COUNTRIES,BGD,Bangladesh,2022,DIPHTHERIA,Diphtheria,per 1000 live births,3.75
+COUNTRIES,BGD,Bangladesh,2022,TETANUS,Neonatal tetanus,per 1000 live births,25.23
+COUNTRIES,BGD,Bangladesh,2022,POLIO,Poliomyelitis,per 1000 live births,14.21
+COUNTRIES,BGD,Bangladesh,2022,YELLOWFEVER,Yellow fever,per 100000 total population,28.49
+COUNTRIES,BGD,Bangladesh,2022,RUBELLA,Rubella,per 1000 live births,39.14
+COUNTRIES,BGD,Bangladesh,2022,MUMPS,Mumps,per 1000 live births,0.66
+COUNTRIES,BGD,Bangladesh,2023,MEASLES,Measles,per 1000 live births,86.88
+COUNTRIES,BGD,Bangladesh,2023,PERTUSSIS,Pertussis,per 100000 total population,14.94
+COUNTRIES,BGD,Bangladesh,2023,DIPHTHERIA,Diphtheria,per 100000 total population,10.2
+COUNTRIES,BGD,Bangladesh,2023,TETANUS,Neonatal tetanus,per 100000 total population,7.65
+COUNTRIES,BGD,Bangladesh,2023,POLIO,Poliomyelitis,per 100000 total population,21.7
+COUNTRIES,BGD,Bangladesh,2023,YELLOWFEVER,Yellow fever,per 100000 total population,8.2
+COUNTRIES,BGD,Bangladesh,2023,RUBELLA,Rubella,per 100000 total population,0.03
+COUNTRIES,BGD,Bangladesh,2023,MUMPS,Mumps,per 1000 live births,6.6
+COUNTRIES,BGD,Bangladesh,2024,MEASLES,Measles,per 1000 live births,55.8
+COUNTRIES,BGD,Bangladesh,2024,PERTUSSIS,Pertussis,per 1000 live births,3.61
+COUNTRIES,BGD,Bangladesh,2024,DIPHTHERIA,Diphtheria,per 1000 live births,3.41
+COUNTRIES,BGD,Bangladesh,2024,TETANUS,Neonatal tetanus,per 1000 live births,0.83
+COUNTRIES,BGD,Bangladesh,2024,POLIO,Poliomyelitis,per 1000 live births,9.91
+COUNTRIES,BGD,Bangladesh,2024,YELLOWFEVER,Yellow fever,per 100000 total population,3.48
+COUNTRIES,BGD,Bangladesh,2024,RUBELLA,Rubella,per 1000 live births,14.46
+COUNTRIES,BGD,Bangladesh,2024,MUMPS,Mumps,per 100000 total population,7.17
+COUNTRIES,IDN,Indonesia,2010,MEASLES,Measles,per 100000 total population,2.47
+COUNTRIES,IDN,Indonesia,2010,PERTUSSIS,Pertussis,per 1000 live births,29.63
+COUNTRIES,IDN,Indonesia,2010,DIPHTHERIA,Diphtheria,per 1000 live births,3.65
+COUNTRIES,IDN,Indonesia,2010,TETANUS,Neonatal tetanus,per 1000 live births,27.68
+COUNTRIES,IDN,Indonesia,2010,POLIO,Poliomyelitis,per 1000 live births,21.26
+COUNTRIES,IDN,Indonesia,2010,YELLOWFEVER,Yellow fever,per 1000 live births,2.83
+COUNTRIES,IDN,Indonesia,2010,RUBELLA,Rubella,per 1000 live births,8.5
+COUNTRIES,IDN,Indonesia,2010,MUMPS,Mumps,per 1000 live births,10.97
+COUNTRIES,IDN,Indonesia,2011,MEASLES,Measles,per 1000 live births,10.64
+COUNTRIES,IDN,Indonesia,2011,PERTUSSIS,Pertussis,per 100000 total population,2.22
+COUNTRIES,IDN,Indonesia,2011,DIPHTHERIA,Diphtheria,per 1000 live births,1.81
+COUNTRIES,IDN,Indonesia,2011,TETANUS,Neonatal tetanus,per 100000 total population,24.74
+COUNTRIES,IDN,Indonesia,2011,POLIO,Poliomyelitis,per 1000 live births,0.66
+COUNTRIES,IDN,Indonesia,2011,YELLOWFEVER,Yellow fever,per 100000 total population,4.86
+COUNTRIES,IDN,Indonesia,2011,RUBELLA,Rubella,per 1000 live births,7.91
+COUNTRIES,IDN,Indonesia,2011,MUMPS,Mumps,per 100000 total population,4.93
+COUNTRIES,IDN,Indonesia,2012,MEASLES,Measles,per 1000 live births,17.57
+COUNTRIES,IDN,Indonesia,2012,PERTUSSIS,Pertussis,per 1000 live births,63.57
+COUNTRIES,IDN,Indonesia,2012,DIPHTHERIA,Diphtheria,per 1000 live births,0.88
+COUNTRIES,IDN,Indonesia,2012,TETANUS,Neonatal tetanus,per 1000 live births,29.8
+COUNTRIES,IDN,Indonesia,2012,POLIO,Poliomyelitis,per 100000 total population,9.86
+COUNTRIES,IDN,Indonesia,2012,YELLOWFEVER,Yellow fever,per 100000 total population,25.57
+COUNTRIES,IDN,Indonesia,2012,RUBELLA,Rubella,per 1000 live births,32.15
+COUNTRIES,IDN,Indonesia,2012,MUMPS,Mumps,per 100000 total population,3.19
+COUNTRIES,IDN,Indonesia,2013,MEASLES,Measles,per 100000 total population,26.24
+COUNTRIES,IDN,Indonesia,2013,PERTUSSIS,Pertussis,per 1000 live births,8.73
+COUNTRIES,IDN,Indonesia,2013,DIPHTHERIA,Diphtheria,per 1000 live births,9.06
+COUNTRIES,IDN,Indonesia,2013,TETANUS,Neonatal tetanus,per 100000 total population,26.7
+COUNTRIES,IDN,Indonesia,2013,POLIO,Poliomyelitis,per 1000 live births,10.89
+COUNTRIES,IDN,Indonesia,2013,YELLOWFEVER,Yellow fever,per 100000 total population,21.24
+COUNTRIES,IDN,Indonesia,2013,RUBELLA,Rubella,per 100000 total population,28.8
+COUNTRIES,IDN,Indonesia,2013,MUMPS,Mumps,per 100000 total population,11.58
+COUNTRIES,IDN,Indonesia,2014,MEASLES,Measles,per 100000 total population,33.58
+COUNTRIES,IDN,Indonesia,2014,PERTUSSIS,Pertussis,per 1000 live births,55.79
+COUNTRIES,IDN,Indonesia,2014,DIPHTHERIA,Diphtheria,per 1000 live births,30.8
+COUNTRIES,IDN,Indonesia,2014,TETANUS,Neonatal tetanus,per 1000 live births,1.08
+COUNTRIES,IDN,Indonesia,2014,POLIO,Poliomyelitis,per 1000 live births,5.6
+COUNTRIES,IDN,Indonesia,2014,YELLOWFEVER,Yellow fever,per 100000 total population,0.83
+COUNTRIES,IDN,Indonesia,2014,RUBELLA,Rubella,per 1000 live births,7.91
+COUNTRIES,IDN,Indonesia,2014,MUMPS,Mumps,per 100000 total population,6.75
+COUNTRIES,IDN,Indonesia,2015,MEASLES,Measles,per 100000 total population,79.43
+COUNTRIES,IDN,Indonesia,2015,PERTUSSIS,Pertussis,per 1000 live births,0.41
+COUNTRIES,IDN,Indonesia,2015,DIPHTHERIA,Diphtheria,per 1000 live births,18.13
+COUNTRIES,IDN,Indonesia,2015,TETANUS,Neonatal tetanus,per 100000 total population,10.69
+COUNTRIES,IDN,Indonesia,2015,POLIO,Poliomyelitis,per 100000 total population,0.52
+COUNTRIES,IDN,Indonesia,2015,YELLOWFEVER,Yellow fever,per 1000 live births,9.36
+COUNTRIES,IDN,Indonesia,2015,RUBELLA,Rubella,per 1000 live births,35.57
+COUNTRIES,IDN,Indonesia,2015,MUMPS,Mumps,per 1000 live births,8.78
+COUNTRIES,IDN,Indonesia,2016,MEASLES,Measles,per 100000 total population,68.96
+COUNTRIES,IDN,Indonesia,2016,PERTUSSIS,Pertussis,per 100000 total population,2.0
+COUNTRIES,IDN,Indonesia,2016,DIPHTHERIA,Diphtheria,per 100000 total population,3.76
+COUNTRIES,IDN,Indonesia,2016,TETANUS,Neonatal tetanus,per 100000 total population,17.04
+COUNTRIES,IDN,Indonesia,2016,POLIO,Poliomyelitis,per 1000 live births,0.3
+COUNTRIES,IDN,Indonesia,2016,YELLOWFEVER,Yellow fever,per 100000 total population,16.83
+COUNTRIES,IDN,Indonesia,2016,RUBELLA,Rubella,per 1000 live births,8.35
+COUNTRIES,IDN,Indonesia,2016,MUMPS,Mumps,per 100000 total population,11.64
+COUNTRIES,IDN,Indonesia,2017,MEASLES,Measles,per 1000 live births,70.84
+COUNTRIES,IDN,Indonesia,2017,PERTUSSIS,Pertussis,per 1000 live births,21.43
+COUNTRIES,IDN,Indonesia,2017,DIPHTHERIA,Diphtheria,per 1000 live births,17.95
+COUNTRIES,IDN,Indonesia,2017,TETANUS,Neonatal tetanus,per 100000 total population,7.61
+COUNTRIES,IDN,Indonesia,2017,POLIO,Poliomyelitis,per 100000 total population,5.86
+COUNTRIES,IDN,Indonesia,2017,YELLOWFEVER,Yellow fever,per 1000 live births,17.08
+COUNTRIES,IDN,Indonesia,2017,RUBELLA,Rubella,per 1000 live births,67.42
+COUNTRIES,IDN,Indonesia,2017,MUMPS,Mumps,per 1000 live births,2.05
+COUNTRIES,IDN,Indonesia,2018,MEASLES,Measles,per 1000 live births,11.11
+COUNTRIES,IDN,Indonesia,2018,PERTUSSIS,Pertussis,per 100000 total population,1.34
+COUNTRIES,IDN,Indonesia,2018,DIPHTHERIA,Diphtheria,per 1000 live births,16.89
+COUNTRIES,IDN,Indonesia,2018,TETANUS,Neonatal tetanus,per 100000 total population,2.65
+COUNTRIES,IDN,Indonesia,2018,POLIO,Poliomyelitis,per 100000 total population,30.15
+COUNTRIES,IDN,Indonesia,2018,YELLOWFEVER,Yellow fever,per 1000 live births,25.43
+COUNTRIES,IDN,Indonesia,2018,RUBELLA,Rubella,per 1000 live births,14.29
+COUNTRIES,IDN,Indonesia,2018,MUMPS,Mumps,per 100000 total population,8.64
+COUNTRIES,IDN,Indonesia,2019,MEASLES,Measles,per 100000 total population,78.14
+COUNTRIES,IDN,Indonesia,2019,PERTUSSIS,Pertussis,per 100000 total population,2.87
+COUNTRIES,IDN,Indonesia,2019,DIPHTHERIA,Diphtheria,per 100000 total population,2.89
+COUNTRIES,IDN,Indonesia,2019,TETANUS,Neonatal tetanus,per 1000 live births,46.68
+COUNTRIES,IDN,Indonesia,2019,POLIO,Poliomyelitis,per 100000 total population,4.24
+COUNTRIES,IDN,Indonesia,2019,YELLOWFEVER,Yellow fever,per 100000 total population,33.94
+COUNTRIES,IDN,Indonesia,2019,RUBELLA,Rubella,per 1000 live births,20.95
+COUNTRIES,IDN,Indonesia,2019,MUMPS,Mumps,per 1000 live births,6.29
+COUNTRIES,IDN,Indonesia,2020,MEASLES,Measles,per 100000 total population,2.67
+COUNTRIES,IDN,Indonesia,2020,PERTUSSIS,Pertussis,per 100000 total population,0.94
+COUNTRIES,IDN,Indonesia,2020,DIPHTHERIA,Diphtheria,per 100000 total population,1.26
+COUNTRIES,IDN,Indonesia,2020,TETANUS,Neonatal tetanus,per 100000 total population,13.64
+COUNTRIES,IDN,Indonesia,2020,POLIO,Poliomyelitis,per 1000 live births,40.26
+COUNTRIES,IDN,Indonesia,2020,YELLOWFEVER,Yellow fever,per 1000 live births,11.55
+COUNTRIES,IDN,Indonesia,2020,RUBELLA,Rubella,per 100000 total population,11.32
+COUNTRIES,IDN,Indonesia,2020,MUMPS,Mumps,per 1000 live births,4.6
+COUNTRIES,IDN,Indonesia,2021,MEASLES,Measles,per 100000 total population,41.31
+COUNTRIES,IDN,Indonesia,2021,PERTUSSIS,Pertussis,per 100000 total population,5.27
+COUNTRIES,IDN,Indonesia,2021,DIPHTHERIA,Diphtheria,per 100000 total population,31.61
+COUNTRIES,IDN,Indonesia,2021,TETANUS,Neonatal tetanus,per 1000 live births,11.28
+COUNTRIES,IDN,Indonesia,2021,POLIO,Poliomyelitis,per 1000 live births,14.91
+COUNTRIES,IDN,Indonesia,2021,YELLOWFEVER,Yellow fever,per 1000 live births,3.64
+COUNTRIES,IDN,Indonesia,2021,RUBELLA,Rubella,per 1000 live births,14.74
+COUNTRIES,IDN,Indonesia,2021,MUMPS,Mumps,per 1000 live births,15.51
+COUNTRIES,IDN,Indonesia,2022,MEASLES,Measles,per 1000 live births,35.92
+COUNTRIES,IDN,Indonesia,2022,PERTUSSIS,Pertussis,per 1000 live births,5.55
+COUNTRIES,IDN,Indonesia,2022,DIPHTHERIA,Diphtheria,per 100000 total population,12.44
+COUNTRIES,IDN,Indonesia,2022,TETANUS,Neonatal tetanus,per 100000 total population,2.68
+COUNTRIES,IDN,Indonesia,2022,POLIO,Poliomyelitis,per 100000 total population,23.08
+COUNTRIES,IDN,Indonesia,2022,YELLOWFEVER,Yellow fever,per 1000 live births,19.59
+COUNTRIES,IDN,Indonesia,2022,RUBELLA,Rubella,per 1000 live births,36.26
+COUNTRIES,IDN,Indonesia,2022,MUMPS,Mumps,per 100000 total population,12.42
+COUNTRIES,IDN,Indonesia,2023,MEASLES,Measles,per 1000 live births,34.13
+COUNTRIES,IDN,Indonesia,2023,PERTUSSIS,Pertussis,per 100000 total population,53.93
+COUNTRIES,IDN,Indonesia,2023,DIPHTHERIA,Diphtheria,per 100000 total population,30.14
+COUNTRIES,IDN,Indonesia,2023,TETANUS,Neonatal tetanus,per 100000 total population,3.61
+COUNTRIES,IDN,Indonesia,2023,POLIO,Poliomyelitis,per 1000 live births,0.31
+COUNTRIES,IDN,Indonesia,2023,YELLOWFEVER,Yellow fever,per 1000 live births,75.59
+COUNTRIES,IDN,Indonesia,2023,RUBELLA,Rubella,per 1000 live births,15.12
+COUNTRIES,IDN,Indonesia,2023,MUMPS,Mumps,per 1000 live births,3.92
+COUNTRIES,IDN,Indonesia,2024,MEASLES,Measles,per 100000 total population,63.04
+COUNTRIES,IDN,Indonesia,2024,PERTUSSIS,Pertussis,per 1000 live births,0.68
+COUNTRIES,IDN,Indonesia,2024,DIPHTHERIA,Diphtheria,per 1000 live births,12.79
+COUNTRIES,IDN,Indonesia,2024,TETANUS,Neonatal tetanus,per 100000 total population,31.15
+COUNTRIES,IDN,Indonesia,2024,POLIO,Poliomyelitis,per 1000 live births,0.79
+COUNTRIES,IDN,Indonesia,2024,YELLOWFEVER,Yellow fever,per 100000 total population,1.25
+COUNTRIES,IDN,Indonesia,2024,RUBELLA,Rubella,per 1000 live births,28.62
+COUNTRIES,IDN,Indonesia,2024,MUMPS,Mumps,per 1000 live births,3.67
+COUNTRIES,COD,Democratic Republic of the Congo,2010,MEASLES,Measles,per 100000 total population,72.77
+COUNTRIES,COD,Democratic Republic of the Congo,2010,PERTUSSIS,Pertussis,per 100000 total population,0.21
+COUNTRIES,COD,Democratic Republic of the Congo,2010,DIPHTHERIA,Diphtheria,per 1000 live births,11.6
+COUNTRIES,COD,Democratic Republic of the Congo,2010,TETANUS,Neonatal tetanus,per 100000 total population,7.09
+COUNTRIES,COD,Democratic Republic of the Congo,2010,POLIO,Poliomyelitis,per 100000 total population,2.34
+COUNTRIES,COD,Democratic Republic of the Congo,2010,YELLOWFEVER,Yellow fever,per 100000 total population,16.35
+COUNTRIES,COD,Democratic Republic of the Congo,2010,RUBELLA,Rubella,per 100000 total population,14.28
+COUNTRIES,COD,Democratic Republic of the Congo,2010,MUMPS,Mumps,per 1000 live births,12.43
+COUNTRIES,COD,Democratic Republic of the Congo,2011,MEASLES,Measles,per 100000 total population,36.13
+COUNTRIES,COD,Democratic Republic of the Congo,2011,PERTUSSIS,Pertussis,per 1000 live births,0.38
+COUNTRIES,COD,Democratic Republic of the Congo,2011,DIPHTHERIA,Diphtheria,per 1000 live births,40.23
+COUNTRIES,COD,Democratic Republic of the Congo,2011,TETANUS,Neonatal tetanus,per 1000 live births,8.16
+COUNTRIES,COD,Democratic Republic of the Congo,2011,POLIO,Poliomyelitis,per 100000 total population,4.02
+COUNTRIES,COD,Democratic Republic of the Congo,2011,YELLOWFEVER,Yellow fever,per 100000 total population,7.41
+COUNTRIES,COD,Democratic Republic of the Congo,2011,RUBELLA,Rubella,per 1000 live births,8.39
+COUNTRIES,COD,Democratic Republic of the Congo,2011,MUMPS,Mumps,per 1000 live births,8.25
+COUNTRIES,COD,Democratic Republic of the Congo,2012,MEASLES,Measles,per 100000 total population,45.51
+COUNTRIES,COD,Democratic Republic of the Congo,2012,PERTUSSIS,Pertussis,per 100000 total population,76.69
+COUNTRIES,COD,Democratic Republic of the Congo,2012,DIPHTHERIA,Diphtheria,per 100000 total population,43.62
+COUNTRIES,COD,Democratic Republic of the Congo,2012,TETANUS,Neonatal tetanus,per 100000 total population,43.41
+COUNTRIES,COD,Democratic Republic of the Congo,2012,POLIO,Poliomyelitis,per 1000 live births,0.47
+COUNTRIES,COD,Democratic Republic of the Congo,2012,YELLOWFEVER,Yellow fever,per 1000 live births,33.22
+COUNTRIES,COD,Democratic Republic of the Congo,2012,RUBELLA,Rubella,per 100000 total population,6.04
+COUNTRIES,COD,Democratic Republic of the Congo,2012,MUMPS,Mumps,per 100000 total population,32.35
+COUNTRIES,COD,Democratic Republic of the Congo,2013,MEASLES,Measles,per 100000 total population,51.74
+COUNTRIES,COD,Democratic Republic of the Congo,2013,PERTUSSIS,Pertussis,per 1000 live births,5.26
+COUNTRIES,COD,Democratic Republic of the Congo,2013,DIPHTHERIA,Diphtheria,per 100000 total population,41.0
+COUNTRIES,COD,Democratic Republic of the Congo,2013,TETANUS,Neonatal tetanus,per 100000 total population,7.12
+COUNTRIES,COD,Democratic Republic of the Congo,2013,POLIO,Poliomyelitis,per 1000 live births,49.11
+COUNTRIES,COD,Democratic Republic of the Congo,2013,YELLOWFEVER,Yellow fever,per 100000 total population,13.85
+COUNTRIES,COD,Democratic Republic of the Congo,2013,RUBELLA,Rubella,per 1000 live births,1.72
+COUNTRIES,COD,Democratic Republic of the Congo,2013,MUMPS,Mumps,per 100000 total population,19.87
+COUNTRIES,COD,Democratic Republic of the Congo,2014,MEASLES,Measles,per 100000 total population,7.89
+COUNTRIES,COD,Democratic Republic of the Congo,2014,PERTUSSIS,Pertussis,per 100000 total population,10.09
+COUNTRIES,COD,Democratic Republic of the Congo,2014,DIPHTHERIA,Diphtheria,per 100000 total population,16.31
+COUNTRIES,COD,Democratic Republic of the Congo,2014,TETANUS,Neonatal tetanus,per 1000 live births,25.53
+COUNTRIES,COD,Democratic Republic of the Congo,2014,POLIO,Poliomyelitis,per 100000 total population,5.36
+COUNTRIES,COD,Democratic Republic of the Congo,2014,YELLOWFEVER,Yellow fever,per 1000 live births,20.85
+COUNTRIES,COD,Democratic Republic of the Congo,2014,RUBELLA,Rubella,per 1000 live births,0.15
+COUNTRIES,COD,Democratic Republic of the Congo,2014,MUMPS,Mumps,per 1000 live births,4.42
+COUNTRIES,COD,Democratic Republic of the Congo,2015,MEASLES,Measles,per 1000 live births,150.08
+COUNTRIES,COD,Democratic Republic of the Congo,2015,PERTUSSIS,Pertussis,per 1000 live births,0.83
+COUNTRIES,COD,Democratic Republic of the Congo,2015,DIPHTHERIA,Diphtheria,per 1000 live births,20.88
+COUNTRIES,COD,Democratic Republic of the Congo,2015,TETANUS,Neonatal tetanus,per 1000 live births,39.95
+COUNTRIES,COD,Democratic Republic of the Congo,2015,POLIO,Poliomyelitis,per 100000 total population,13.72
+COUNTRIES,COD,Democratic Republic of the Congo,2015,YELLOWFEVER,Yellow fever,per 100000 total population,32.61
+COUNTRIES,COD,Democratic Republic of the Congo,2015,RUBELLA,Rubella,per 100000 total population,0.19
+COUNTRIES,COD,Democratic Republic of the Congo,2015,MUMPS,Mumps,per 100000 total population,30.56
+COUNTRIES,COD,Democratic Republic of the Congo,2016,MEASLES,Measles,per 100000 total population,53.71
+COUNTRIES,COD,Democratic Republic of the Congo,2016,PERTUSSIS,Pertussis,per 1000 live births,7.01
+COUNTRIES,COD,Democratic Republic of the Congo,2016,DIPHTHERIA,Diphtheria,per 1000 live births,3.61
+COUNTRIES,COD,Democratic Republic of the Congo,2016,TETANUS,Neonatal tetanus,per 100000 total population,21.14
+COUNTRIES,COD,Democratic Republic of the Congo,2016,POLIO,Poliomyelitis,per 1000 live births,0.38
+COUNTRIES,COD,Democratic Republic of the Congo,2016,YELLOWFEVER,Yellow fever,per 100000 total population,5.75
+COUNTRIES,COD,Democratic Republic of the Congo,2016,RUBELLA,Rubella,per 100000 total population,2.52
+COUNTRIES,COD,Democratic Republic of the Congo,2016,MUMPS,Mumps,per 100000 total population,10.52
+COUNTRIES,COD,Democratic Republic of the Congo,2017,MEASLES,Measles,per 100000 total population,5.43
+COUNTRIES,COD,Democratic Republic of the Congo,2017,PERTUSSIS,Pertussis,per 1000 live births,5.58
+COUNTRIES,COD,Democratic Republic of the Congo,2017,DIPHTHERIA,Diphtheria,per 1000 live births,47.84
+COUNTRIES,COD,Democratic Republic of the Congo,2017,TETANUS,Neonatal tetanus,per 100000 total population,28.79
+COUNTRIES,COD,Democratic Republic of the Congo,2017,POLIO,Poliomyelitis,per 100000 total population,14.56
+COUNTRIES,COD,Democratic Republic of the Congo,2017,YELLOWFEVER,Yellow fever,per 100000 total population,2.21
+COUNTRIES,COD,Democratic Republic of the Congo,2017,RUBELLA,Rubella,per 1000 live births,46.44
+COUNTRIES,COD,Democratic Republic of the Congo,2017,MUMPS,Mumps,per 100000 total population,31.13
+COUNTRIES,COD,Democratic Republic of the Congo,2018,MEASLES,Measles,per 100000 total population,12.03
+COUNTRIES,COD,Democratic Republic of the Congo,2018,PERTUSSIS,Pertussis,per 1000 live births,0.29
+COUNTRIES,COD,Democratic Republic of the Congo,2018,DIPHTHERIA,Diphtheria,per 100000 total population,5.72
+COUNTRIES,COD,Democratic Republic of the Congo,2018,TETANUS,Neonatal tetanus,per 100000 total population,2.44
+COUNTRIES,COD,Democratic Republic of the Congo,2018,POLIO,Poliomyelitis,per 1000 live births,27.57
+COUNTRIES,COD,Democratic Republic of the Congo,2018,YELLOWFEVER,Yellow fever,per 100000 total population,26.62
+COUNTRIES,COD,Democratic Republic of the Congo,2018,RUBELLA,Rubella,per 100000 total population,2.3
+COUNTRIES,COD,Democratic Republic of the Congo,2018,MUMPS,Mumps,per 100000 total population,39.11
+COUNTRIES,COD,Democratic Republic of the Congo,2019,MEASLES,Measles,per 1000 live births,7.88
+COUNTRIES,COD,Democratic Republic of the Congo,2019,PERTUSSIS,Pertussis,per 1000 live births,9.08
+COUNTRIES,COD,Democratic Republic of the Congo,2019,DIPHTHERIA,Diphtheria,per 100000 total population,2.87
+COUNTRIES,COD,Democratic Republic of the Congo,2019,TETANUS,Neonatal tetanus,per 1000 live births,19.84
+COUNTRIES,COD,Democratic Republic of the Congo,2019,POLIO,Poliomyelitis,per 1000 live births,7.42
+COUNTRIES,COD,Democratic Republic of the Congo,2019,YELLOWFEVER,Yellow fever,per 1000 live births,10.42
+COUNTRIES,COD,Democratic Republic of the Congo,2019,RUBELLA,Rubella,per 1000 live births,29.97
+COUNTRIES,COD,Democratic Republic of the Congo,2019,MUMPS,Mumps,per 100000 total population,9.93
+COUNTRIES,COD,Democratic Republic of the Congo,2020,MEASLES,Measles,per 1000 live births,122.83
+COUNTRIES,COD,Democratic Republic of the Congo,2020,PERTUSSIS,Pertussis,per 100000 total population,25.87
+COUNTRIES,COD,Democratic Republic of the Congo,2020,DIPHTHERIA,Diphtheria,per 100000 total population,27.8
+COUNTRIES,COD,Democratic Republic of the Congo,2020,TETANUS,Neonatal tetanus,per 1000 live births,2.87
+COUNTRIES,COD,Democratic Republic of the Congo,2020,POLIO,Poliomyelitis,per 100000 total population,4.48
+COUNTRIES,COD,Democratic Republic of the Congo,2020,YELLOWFEVER,Yellow fever,per 1000 live births,14.84
+COUNTRIES,COD,Democratic Republic of the Congo,2020,RUBELLA,Rubella,per 100000 total population,2.0
+COUNTRIES,COD,Democratic Republic of the Congo,2020,MUMPS,Mumps,per 100000 total population,21.33
+COUNTRIES,COD,Democratic Republic of the Congo,2021,MEASLES,Measles,per 1000 live births,55.91
+COUNTRIES,COD,Democratic Republic of the Congo,2021,PERTUSSIS,Pertussis,per 1000 live births,0.51
+COUNTRIES,COD,Democratic Republic of the Congo,2021,DIPHTHERIA,Diphtheria,per 100000 total population,7.51
+COUNTRIES,COD,Democratic Republic of the Congo,2021,TETANUS,Neonatal tetanus,per 100000 total population,2.86
+COUNTRIES,COD,Democratic Republic of the Congo,2021,POLIO,Poliomyelitis,per 100000 total population,3.75
+COUNTRIES,COD,Democratic Republic of the Congo,2021,YELLOWFEVER,Yellow fever,per 1000 live births,1.23
+COUNTRIES,COD,Democratic Republic of the Congo,2021,RUBELLA,Rubella,per 100000 total population,53.38
+COUNTRIES,COD,Democratic Republic of the Congo,2021,MUMPS,Mumps,per 1000 live births,2.01
+COUNTRIES,COD,Democratic Republic of the Congo,2022,MEASLES,Measles,per 1000 live births,103.78
+COUNTRIES,COD,Democratic Republic of the Congo,2022,PERTUSSIS,Pertussis,per 100000 total population,0.86
+COUNTRIES,COD,Democratic Republic of the Congo,2022,DIPHTHERIA,Diphtheria,per 1000 live births,7.26
+COUNTRIES,COD,Democratic Republic of the Congo,2022,TETANUS,Neonatal tetanus,per 1000 live births,4.08
+COUNTRIES,COD,Democratic Republic of the Congo,2022,POLIO,Poliomyelitis,per 100000 total population,17.46
+COUNTRIES,COD,Democratic Republic of the Congo,2022,YELLOWFEVER,Yellow fever,per 1000 live births,15.76
+COUNTRIES,COD,Democratic Republic of the Congo,2022,RUBELLA,Rubella,per 1000 live births,2.85
+COUNTRIES,COD,Democratic Republic of the Congo,2022,MUMPS,Mumps,per 1000 live births,4.81
+COUNTRIES,COD,Democratic Republic of the Congo,2023,MEASLES,Measles,per 100000 total population,34.0
+COUNTRIES,COD,Democratic Republic of the Congo,2023,PERTUSSIS,Pertussis,per 100000 total population,15.74
+COUNTRIES,COD,Democratic Republic of the Congo,2023,DIPHTHERIA,Diphtheria,per 1000 live births,8.01
+COUNTRIES,COD,Democratic Republic of the Congo,2023,TETANUS,Neonatal tetanus,per 1000 live births,11.12
+COUNTRIES,COD,Democratic Republic of the Congo,2023,POLIO,Poliomyelitis,per 100000 total population,56.05
+COUNTRIES,COD,Democratic Republic of the Congo,2023,YELLOWFEVER,Yellow fever,per 100000 total population,5.37
+COUNTRIES,COD,Democratic Republic of the Congo,2023,RUBELLA,Rubella,per 100000 total population,2.27
+COUNTRIES,COD,Democratic Republic of the Congo,2023,MUMPS,Mumps,per 1000 live births,56.93
+COUNTRIES,COD,Democratic Republic of the Congo,2024,MEASLES,Measles,per 1000 live births,53.96
+COUNTRIES,COD,Democratic Republic of the Congo,2024,PERTUSSIS,Pertussis,per 1000 live births,1.57
+COUNTRIES,COD,Democratic Republic of the Congo,2024,DIPHTHERIA,Diphtheria,per 1000 live births,13.51
+COUNTRIES,COD,Democratic Republic of the Congo,2024,TETANUS,Neonatal tetanus,per 1000 live births,6.91
+COUNTRIES,COD,Democratic Republic of the Congo,2024,POLIO,Poliomyelitis,per 1000 live births,1.85
+COUNTRIES,COD,Democratic Republic of the Congo,2024,YELLOWFEVER,Yellow fever,per 100000 total population,6.41
+COUNTRIES,COD,Democratic Republic of the Congo,2024,RUBELLA,Rubella,per 1000 live births,6.34
+COUNTRIES,COD,Democratic Republic of the Congo,2024,MUMPS,Mumps,per 1000 live births,21.82
+COUNTRIES,MEX,Mexico,2010,MEASLES,Measles,per 1000 live births,12.78
+COUNTRIES,MEX,Mexico,2010,PERTUSSIS,Pertussis,per 100000 total population,44.14
+COUNTRIES,MEX,Mexico,2010,DIPHTHERIA,Diphtheria,per 1000 live births,10.17
+COUNTRIES,MEX,Mexico,2010,TETANUS,Neonatal tetanus,per 1000 live births,31.36
+COUNTRIES,MEX,Mexico,2010,POLIO,Poliomyelitis,per 100000 total population,1.51
+COUNTRIES,MEX,Mexico,2010,YELLOWFEVER,Yellow fever,per 100000 total population,22.51
+COUNTRIES,MEX,Mexico,2010,RUBELLA,Rubella,per 100000 total population,7.29
+COUNTRIES,MEX,Mexico,2010,MUMPS,Mumps,per 100000 total population,17.37
+COUNTRIES,MEX,Mexico,2011,MEASLES,Measles,per 100000 total population,82.54
+COUNTRIES,MEX,Mexico,2011,PERTUSSIS,Pertussis,per 100000 total population,6.01
+COUNTRIES,MEX,Mexico,2011,DIPHTHERIA,Diphtheria,per 1000 live births,5.84
+COUNTRIES,MEX,Mexico,2011,TETANUS,Neonatal tetanus,per 1000 live births,11.47
+COUNTRIES,MEX,Mexico,2011,POLIO,Poliomyelitis,per 100000 total population,34.53
+COUNTRIES,MEX,Mexico,2011,YELLOWFEVER,Yellow fever,per 100000 total population,17.51
+COUNTRIES,MEX,Mexico,2011,RUBELLA,Rubella,per 1000 live births,21.73
+COUNTRIES,MEX,Mexico,2011,MUMPS,Mumps,per 1000 live births,8.96
+COUNTRIES,MEX,Mexico,2012,MEASLES,Measles,per 1000 live births,12.08
+COUNTRIES,MEX,Mexico,2012,PERTUSSIS,Pertussis,per 100000 total population,31.04
+COUNTRIES,MEX,Mexico,2012,DIPHTHERIA,Diphtheria,per 100000 total population,11.74
+COUNTRIES,MEX,Mexico,2012,TETANUS,Neonatal tetanus,per 1000 live births,18.94
+COUNTRIES,MEX,Mexico,2012,POLIO,Poliomyelitis,per 1000 live births,12.88
+COUNTRIES,MEX,Mexico,2012,YELLOWFEVER,Yellow fever,per 1000 live births,7.59
+COUNTRIES,MEX,Mexico,2012,RUBELLA,Rubella,per 100000 total population,28.97
+COUNTRIES,MEX,Mexico,2012,MUMPS,Mumps,per 100000 total population,2.34
+COUNTRIES,MEX,Mexico,2013,MEASLES,Measles,per 100000 total population,13.84
+COUNTRIES,MEX,Mexico,2013,PERTUSSIS,Pertussis,per 1000 live births,18.25
+COUNTRIES,MEX,Mexico,2013,DIPHTHERIA,Diphtheria,per 100000 total population,32.43
+COUNTRIES,MEX,Mexico,2013,TETANUS,Neonatal tetanus,per 1000 live births,9.83
+COUNTRIES,MEX,Mexico,2013,POLIO,Poliomyelitis,per 100000 total population,0.33
+COUNTRIES,MEX,Mexico,2013,YELLOWFEVER,Yellow fever,per 1000 live births,31.86
+COUNTRIES,MEX,Mexico,2013,RUBELLA,Rubella,per 100000 total population,17.7
+COUNTRIES,MEX,Mexico,2013,MUMPS,Mumps,per 1000 live births,13.45
+COUNTRIES,MEX,Mexico,2014,MEASLES,Measles,per 1000 live births,225.24
+COUNTRIES,MEX,Mexico,2014,PERTUSSIS,Pertussis,per 1000 live births,7.97
+COUNTRIES,MEX,Mexico,2014,DIPHTHERIA,Diphtheria,per 1000 live births,6.46
+COUNTRIES,MEX,Mexico,2014,TETANUS,Neonatal tetanus,per 100000 total population,14.49
+COUNTRIES,MEX,Mexico,2014,POLIO,Poliomyelitis,per 1000 live births,4.78
+COUNTRIES,MEX,Mexico,2014,YELLOWFEVER,Yellow fever,per 1000 live births,6.77
+COUNTRIES,MEX,Mexico,2014,RUBELLA,Rubella,per 1000 live births,7.22
+COUNTRIES,MEX,Mexico,2014,MUMPS,Mumps,per 100000 total population,47.16
+COUNTRIES,MEX,Mexico,2015,MEASLES,Measles,per 100000 total population,7.3
+COUNTRIES,MEX,Mexico,2015,PERTUSSIS,Pertussis,per 1000 live births,17.61
+COUNTRIES,MEX,Mexico,2015,DIPHTHERIA,Diphtheria,per 1000 live births,33.13
+COUNTRIES,MEX,Mexico,2015,TETANUS,Neonatal tetanus,per 1000 live births,30.12
+COUNTRIES,MEX,Mexico,2015,POLIO,Poliomyelitis,per 100000 total population,111.24
+COUNTRIES,MEX,Mexico,2015,YELLOWFEVER,Yellow fever,per 1000 live births,13.21
+COUNTRIES,MEX,Mexico,2015,RUBELLA,Rubella,per 100000 total population,3.43
+COUNTRIES,MEX,Mexico,2015,MUMPS,Mumps,per 1000 live births,75.18
+COUNTRIES,MEX,Mexico,2016,MEASLES,Measles,per 1000 live births,18.58
+COUNTRIES,MEX,Mexico,2016,PERTUSSIS,Pertussis,per 1000 live births,2.01
+COUNTRIES,MEX,Mexico,2016,DIPHTHERIA,Diphtheria,per 1000 live births,8.08
+COUNTRIES,MEX,Mexico,2016,TETANUS,Neonatal tetanus,per 1000 live births,1.21
+COUNTRIES,MEX,Mexico,2016,POLIO,Poliomyelitis,per 100000 total population,2.97
+COUNTRIES,MEX,Mexico,2016,YELLOWFEVER,Yellow fever,per 100000 total population,18.46
+COUNTRIES,MEX,Mexico,2016,RUBELLA,Rubella,per 100000 total population,8.4
+COUNTRIES,MEX,Mexico,2016,MUMPS,Mumps,per 1000 live births,47.05
+COUNTRIES,MEX,Mexico,2017,MEASLES,Measles,per 100000 total population,133.61
+COUNTRIES,MEX,Mexico,2017,PERTUSSIS,Pertussis,per 100000 total population,54.46
+COUNTRIES,MEX,Mexico,2017,DIPHTHERIA,Diphtheria,per 1000 live births,24.43
+COUNTRIES,MEX,Mexico,2017,TETANUS,Neonatal tetanus,per 1000 live births,6.75
+COUNTRIES,MEX,Mexico,2017,POLIO,Poliomyelitis,per 100000 total population,0.87
+COUNTRIES,MEX,Mexico,2017,YELLOWFEVER,Yellow fever,per 1000 live births,1.87
+COUNTRIES,MEX,Mexico,2017,RUBELLA,Rubella,per 100000 total population,115.59
+COUNTRIES,MEX,Mexico,2017,MUMPS,Mumps,per 1000 live births,94.97
+COUNTRIES,MEX,Mexico,2018,MEASLES,Measles,per 1000 live births,51.42
+COUNTRIES,MEX,Mexico,2018,PERTUSSIS,Pertussis,per 1000 live births,32.19
+COUNTRIES,MEX,Mexico,2018,DIPHTHERIA,Diphtheria,per 1000 live births,27.91
+COUNTRIES,MEX,Mexico,2018,TETANUS,Neonatal tetanus,per 1000 live births,45.22
+COUNTRIES,MEX,Mexico,2018,POLIO,Poliomyelitis,per 100000 total population,6.31
+COUNTRIES,MEX,Mexico,2018,YELLOWFEVER,Yellow fever,per 100000 total population,14.76
+COUNTRIES,MEX,Mexico,2018,RUBELLA,Rubella,per 1000 live births,13.86
+COUNTRIES,MEX,Mexico,2018,MUMPS,Mumps,per 100000 total population,6.82
+COUNTRIES,MEX,Mexico,2019,MEASLES,Measles,per 1000 live births,59.01
+COUNTRIES,MEX,Mexico,2019,PERTUSSIS,Pertussis,per 100000 total population,6.94
+COUNTRIES,MEX,Mexico,2019,DIPHTHERIA,Diphtheria,per 100000 total population,2.22
+COUNTRIES,MEX,Mexico,2019,TETANUS,Neonatal tetanus,per 1000 live births,40.09
+COUNTRIES,MEX,Mexico,2019,POLIO,Poliomyelitis,per 100000 total population,16.91
+COUNTRIES,MEX,Mexico,2019,YELLOWFEVER,Yellow fever,per 100000 total population,10.33
+COUNTRIES,MEX,Mexico,2019,RUBELLA,Rubella,per 100000 total population,1.05
+COUNTRIES,MEX,Mexico,2019,MUMPS,Mumps,per 1000 live births,6.7
+COUNTRIES,MEX,Mexico,2020,MEASLES,Measles,per 1000 live births,4.92
+COUNTRIES,MEX,Mexico,2020,PERTUSSIS,Pertussis,per 1000 live births,12.03
+COUNTRIES,MEX,Mexico,2020,DIPHTHERIA,Diphtheria,per 1000 live births,16.4
+COUNTRIES,MEX,Mexico,2020,TETANUS,Neonatal tetanus,per 1000 live births,1.4
+COUNTRIES,MEX,Mexico,2020,POLIO,Poliomyelitis,per 1000 live births,32.41
+COUNTRIES,MEX,Mexico,2020,YELLOWFEVER,Yellow fever,per 100000 total population,6.03
+COUNTRIES,MEX,Mexico,2020,RUBELLA,Rubella,per 1000 live births,26.69
+COUNTRIES,MEX,Mexico,2020,MUMPS,Mumps,per 100000 total population,14.51
+COUNTRIES,MEX,Mexico,2021,MEASLES,Measles,per 1000 live births,36.25
+COUNTRIES,MEX,Mexico,2021,PERTUSSIS,Pertussis,per 100000 total population,5.55
+COUNTRIES,MEX,Mexico,2021,DIPHTHERIA,Diphtheria,per 1000 live births,1.74
+COUNTRIES,MEX,Mexico,2021,TETANUS,Neonatal tetanus,per 1000 live births,1.02
+COUNTRIES,MEX,Mexico,2021,POLIO,Poliomyelitis,per 1000 live births,8.03
+COUNTRIES,MEX,Mexico,2021,YELLOWFEVER,Yellow fever,per 100000 total population,12.71
+COUNTRIES,MEX,Mexico,2021,RUBELLA,Rubella,per 1000 live births,38.88
+COUNTRIES,MEX,Mexico,2021,MUMPS,Mumps,per 100000 total population,26.85
+COUNTRIES,MEX,Mexico,2022,MEASLES,Measles,per 100000 total population,7.63
+COUNTRIES,MEX,Mexico,2022,PERTUSSIS,Pertussis,per 1000 live births,23.62
+COUNTRIES,MEX,Mexico,2022,DIPHTHERIA,Diphtheria,per 100000 total population,14.55
+COUNTRIES,MEX,Mexico,2022,TETANUS,Neonatal tetanus,per 100000 total population,9.52
+COUNTRIES,MEX,Mexico,2022,POLIO,Poliomyelitis,per 100000 total population,25.25
+COUNTRIES,MEX,Mexico,2022,YELLOWFEVER,Yellow fever,per 1000 live births,8.63
+COUNTRIES,MEX,Mexico,2022,RUBELLA,Rubella,per 100000 total population,24.16
+COUNTRIES,MEX,Mexico,2022,MUMPS,Mumps,per 100000 total population,5.27
+COUNTRIES,MEX,Mexico,2023,MEASLES,Measles,per 1000 live births,74.61
+COUNTRIES,MEX,Mexico,2023,PERTUSSIS,Pertussis,per 100000 total population,0.58
+COUNTRIES,MEX,Mexico,2023,DIPHTHERIA,Diphtheria,per 100000 total population,3.73
+COUNTRIES,MEX,Mexico,2023,TETANUS,Neonatal tetanus,per 100000 total population,10.99
+COUNTRIES,MEX,Mexico,2023,POLIO,Poliomyelitis,per 100000 total population,1.29
+COUNTRIES,MEX,Mexico,2023,YELLOWFEVER,Yellow fever,per 100000 total population,20.16
+COUNTRIES,MEX,Mexico,2023,RUBELLA,Rubella,per 1000 live births,7.15
+COUNTRIES,MEX,Mexico,2023,MUMPS,Mumps,per 1000 live births,5.57
+COUNTRIES,MEX,Mexico,2024,MEASLES,Measles,per 100000 total population,52.93
+COUNTRIES,MEX,Mexico,2024,PERTUSSIS,Pertussis,per 100000 total population,1.59
+COUNTRIES,MEX,Mexico,2024,DIPHTHERIA,Diphtheria,per 1000 live births,28.93
+COUNTRIES,MEX,Mexico,2024,TETANUS,Neonatal tetanus,per 100000 total population,4.23
+COUNTRIES,MEX,Mexico,2024,POLIO,Poliomyelitis,per 1000 live births,1.34
+COUNTRIES,MEX,Mexico,2024,YELLOWFEVER,Yellow fever,per 100000 total population,0.27
+COUNTRIES,MEX,Mexico,2024,RUBELLA,Rubella,per 100000 total population,14.57
+COUNTRIES,MEX,Mexico,2024,MUMPS,Mumps,per 100000 total population,8.28
+COUNTRIES,PHL,Philippines,2010,MEASLES,Measles,per 100000 total population,32.09
+COUNTRIES,PHL,Philippines,2010,PERTUSSIS,Pertussis,per 100000 total population,39.76
+COUNTRIES,PHL,Philippines,2010,DIPHTHERIA,Diphtheria,per 100000 total population,22.71
+COUNTRIES,PHL,Philippines,2010,TETANUS,Neonatal tetanus,per 1000 live births,65.13
+COUNTRIES,PHL,Philippines,2010,POLIO,Poliomyelitis,per 100000 total population,8.19
+COUNTRIES,PHL,Philippines,2010,YELLOWFEVER,Yellow fever,per 1000 live births,33.4
+COUNTRIES,PHL,Philippines,2010,RUBELLA,Rubella,per 1000 live births,31.89
+COUNTRIES,PHL,Philippines,2010,MUMPS,Mumps,per 1000 live births,3.28
+COUNTRIES,PHL,Philippines,2011,MEASLES,Measles,per 100000 total population,14.09
+COUNTRIES,PHL,Philippines,2011,PERTUSSIS,Pertussis,per 100000 total population,49.66
+COUNTRIES,PHL,Philippines,2011,DIPHTHERIA,Diphtheria,per 100000 total population,35.13
+COUNTRIES,PHL,Philippines,2011,TETANUS,Neonatal tetanus,per 100000 total population,1.09
+COUNTRIES,PHL,Philippines,2011,POLIO,Poliomyelitis,per 100000 total population,9.2
+COUNTRIES,PHL,Philippines,2011,YELLOWFEVER,Yellow fever,per 100000 total population,19.6
+COUNTRIES,PHL,Philippines,2011,RUBELLA,Rubella,per 100000 total population,3.55
+COUNTRIES,PHL,Philippines,2011,MUMPS,Mumps,per 100000 total population,1.78
+COUNTRIES,PHL,Philippines,2012,MEASLES,Measles,per 1000 live births,131.91
+COUNTRIES,PHL,Philippines,2012,PERTUSSIS,Pertussis,per 1000 live births,33.43
+COUNTRIES,PHL,Philippines,2012,DIPHTHERIA,Diphtheria,per 100000 total population,65.81
+COUNTRIES,PHL,Philippines,2012,TETANUS,Neonatal tetanus,per 100000 total population,4.61
+COUNTRIES,PHL,Philippines,2012,POLIO,Poliomyelitis,per 1000 live births,7.29
+COUNTRIES,PHL,Philippines,2012,YELLOWFEVER,Yellow fever,per 1000 live births,9.55
+COUNTRIES,PHL,Philippines,2012,RUBELLA,Rubella,per 1000 live births,2.83
+COUNTRIES,PHL,Philippines,2012,MUMPS,Mumps,per 100000 total population,32.15
+COUNTRIES,PHL,Philippines,2013,MEASLES,Measles,per 100000 total population,3.68
+COUNTRIES,PHL,Philippines,2013,PERTUSSIS,Pertussis,per 1000 live births,16.76
+COUNTRIES,PHL,Philippines,2013,DIPHTHERIA,Diphtheria,per 100000 total population,1.35
+COUNTRIES,PHL,Philippines,2013,TETANUS,Neonatal tetanus,per 100000 total population,5.9
+COUNTRIES,PHL,Philippines,2013,POLIO,Poliomyelitis,per 1000 live births,7.64
+COUNTRIES,PHL,Philippines,2013,YELLOWFEVER,Yellow fever,per 1000 live births,15.95
+COUNTRIES,PHL,Philippines,2013,RUBELLA,Rubella,per 100000 total population,43.98
+COUNTRIES,PHL,Philippines,2013,MUMPS,Mumps,per 1000 live births,2.85
+COUNTRIES,PHL,Philippines,2014,MEASLES,Measles,per 100000 total population,20.34
+COUNTRIES,PHL,Philippines,2014,PERTUSSIS,Pertussis,per 100000 total population,34.16
+COUNTRIES,PHL,Philippines,2014,DIPHTHERIA,Diphtheria,per 100000 total population,17.2
+COUNTRIES,PHL,Philippines,2014,TETANUS,Neonatal tetanus,per 100000 total population,31.82
+COUNTRIES,PHL,Philippines,2014,POLIO,Poliomyelitis,per 1000 live births,75.36
+COUNTRIES,PHL,Philippines,2014,YELLOWFEVER,Yellow fever,per 100000 total population,12.36
+COUNTRIES,PHL,Philippines,2014,RUBELLA,Rubella,per 1000 live births,22.87
+COUNTRIES,PHL,Philippines,2014,MUMPS,Mumps,per 100000 total population,0.43
+COUNTRIES,PHL,Philippines,2015,MEASLES,Measles,per 1000 live births,22.16
+COUNTRIES,PHL,Philippines,2015,PERTUSSIS,Pertussis,per 1000 live births,19.28
+COUNTRIES,PHL,Philippines,2015,DIPHTHERIA,Diphtheria,per 1000 live births,28.67
+COUNTRIES,PHL,Philippines,2015,TETANUS,Neonatal tetanus,per 100000 total population,8.16
+COUNTRIES,PHL,Philippines,2015,POLIO,Poliomyelitis,per 1000 live births,1.31
+COUNTRIES,PHL,Philippines,2015,YELLOWFEVER,Yellow fever,per 100000 total population,24.41
+COUNTRIES,PHL,Philippines,2015,RUBELLA,Rubella,per 100000 total population,15.95
+COUNTRIES,PHL,Philippines,2015,MUMPS,Mumps,per 100000 total population,3.14
+COUNTRIES,PHL,Philippines,2016,MEASLES,Measles,per 100000 total population,22.88
+COUNTRIES,PHL,Philippines,2016,PERTUSSIS,Pertussis,per 100000 total population,7.86
+COUNTRIES,PHL,Philippines,2016,DIPHTHERIA,Diphtheria,per 100000 total population,107.9
+COUNTRIES,PHL,Philippines,2016,TETANUS,Neonatal tetanus,per 1000 live births,40.2
+COUNTRIES,PHL,Philippines,2016,POLIO,Poliomyelitis,per 1000 live births,24.96
+COUNTRIES,PHL,Philippines,2016,YELLOWFEVER,Yellow fever,per 1000 live births,5.98
+COUNTRIES,PHL,Philippines,2016,RUBELLA,Rubella,per 100000 total population,29.36
+COUNTRIES,PHL,Philippines,2016,MUMPS,Mumps,per 1000 live births,1.31
+COUNTRIES,PHL,Philippines,2017,MEASLES,Measles,per 100000 total population,19.46
+COUNTRIES,PHL,Philippines,2017,PERTUSSIS,Pertussis,per 100000 total population,21.79
+COUNTRIES,PHL,Philippines,2017,DIPHTHERIA,Diphtheria,per 1000 live births,37.27
+COUNTRIES,PHL,Philippines,2017,TETANUS,Neonatal tetanus,per 1000 live births,8.5
+COUNTRIES,PHL,Philippines,2017,POLIO,Poliomyelitis,per 100000 total population,5.85
+COUNTRIES,PHL,Philippines,2017,YELLOWFEVER,Yellow fever,per 1000 live births,13.66
+COUNTRIES,PHL,Philippines,2017,RUBELLA,Rubella,per 1000 live births,3.89
+COUNTRIES,PHL,Philippines,2017,MUMPS,Mumps,per 100000 total population,34.45
+COUNTRIES,PHL,Philippines,2018,MEASLES,Measles,per 1000 live births,31.84
+COUNTRIES,PHL,Philippines,2018,PERTUSSIS,Pertussis,per 100000 total population,5.04
+COUNTRIES,PHL,Philippines,2018,DIPHTHERIA,Diphtheria,per 1000 live births,9.48
+COUNTRIES,PHL,Philippines,2018,TETANUS,Neonatal tetanus,per 100000 total population,21.45
+COUNTRIES,PHL,Philippines,2018,POLIO,Poliomyelitis,per 1000 live births,6.06
+COUNTRIES,PHL,Philippines,2018,YELLOWFEVER,Yellow fever,per 100000 total population,20.13
+COUNTRIES,PHL,Philippines,2018,RUBELLA,Rubella,per 1000 live births,12.85
+COUNTRIES,PHL,Philippines,2018,MUMPS,Mumps,per 1000 live births,30.41
+COUNTRIES,PHL,Philippines,2019,MEASLES,Measles,per 100000 total population,13.26
+COUNTRIES,PHL,Philippines,2019,PERTUSSIS,Pertussis,per 100000 total population,2.69
+COUNTRIES,PHL,Philippines,2019,DIPHTHERIA,Diphtheria,per 100000 total population,38.25
+COUNTRIES,PHL,Philippines,2019,TETANUS,Neonatal tetanus,per 100000 total population,51.29
+COUNTRIES,PHL,Philippines,2019,POLIO,Poliomyelitis,per 100000 total population,2.07
+COUNTRIES,PHL,Philippines,2019,YELLOWFEVER,Yellow fever,per 1000 live births,60.81
+COUNTRIES,PHL,Philippines,2019,RUBELLA,Rubella,per 100000 total population,6.19
+COUNTRIES,PHL,Philippines,2019,MUMPS,Mumps,per 100000 total population,5.91
+COUNTRIES,PHL,Philippines,2020,MEASLES,Measles,per 1000 live births,125.4
+COUNTRIES,PHL,Philippines,2020,PERTUSSIS,Pertussis,per 100000 total population,1.01
+COUNTRIES,PHL,Philippines,2020,DIPHTHERIA,Diphtheria,per 1000 live births,12.79
+COUNTRIES,PHL,Philippines,2020,TETANUS,Neonatal tetanus,per 1000 live births,0.22
+COUNTRIES,PHL,Philippines,2020,POLIO,Poliomyelitis,per 1000 live births,16.38
+COUNTRIES,PHL,Philippines,2020,YELLOWFEVER,Yellow fever,per 100000 total population,6.78
+COUNTRIES,PHL,Philippines,2020,RUBELLA,Rubella,per 100000 total population,7.22
+COUNTRIES,PHL,Philippines,2020,MUMPS,Mumps,per 100000 total population,2.02
+COUNTRIES,PHL,Philippines,2021,MEASLES,Measles,per 1000 live births,11.71
+COUNTRIES,PHL,Philippines,2021,PERTUSSIS,Pertussis,per 1000 live births,2.41
+COUNTRIES,PHL,Philippines,2021,DIPHTHERIA,Diphtheria,per 100000 total population,26.8
+COUNTRIES,PHL,Philippines,2021,TETANUS,Neonatal tetanus,per 1000 live births,0.83
+COUNTRIES,PHL,Philippines,2021,POLIO,Poliomyelitis,per 100000 total population,11.29
+COUNTRIES,PHL,Philippines,2021,YELLOWFEVER,Yellow fever,per 100000 total population,2.88
+COUNTRIES,PHL,Philippines,2021,RUBELLA,Rubella,per 1000 live births,18.32
+COUNTRIES,PHL,Philippines,2021,MUMPS,Mumps,per 100000 total population,4.12
+COUNTRIES,PHL,Philippines,2022,MEASLES,Measles,per 1000 live births,47.55
+COUNTRIES,PHL,Philippines,2022,PERTUSSIS,Pertussis,per 100000 total population,6.7
+COUNTRIES,PHL,Philippines,2022,DIPHTHERIA,Diphtheria,per 100000 total population,8.25
+COUNTRIES,PHL,Philippines,2022,TETANUS,Neonatal tetanus,per 100000 total population,20.94
+COUNTRIES,PHL,Philippines,2022,POLIO,Poliomyelitis,per 100000 total population,12.5
+COUNTRIES,PHL,Philippines,2022,YELLOWFEVER,Yellow fever,per 100000 total population,22.94
+COUNTRIES,PHL,Philippines,2022,RUBELLA,Rubella,per 100000 total population,4.43
+COUNTRIES,PHL,Philippines,2022,MUMPS,Mumps,per 100000 total population,18.73
+COUNTRIES,PHL,Philippines,2023,MEASLES,Measles,per 100000 total population,13.45
+COUNTRIES,PHL,Philippines,2023,PERTUSSIS,Pertussis,per 1000 live births,63.32
+COUNTRIES,PHL,Philippines,2023,DIPHTHERIA,Diphtheria,per 1000 live births,2.19
+COUNTRIES,PHL,Philippines,2023,TETANUS,Neonatal tetanus,per 100000 total population,27.21
+COUNTRIES,PHL,Philippines,2023,POLIO,Poliomyelitis,per 1000 live births,3.41
+COUNTRIES,PHL,Philippines,2023,YELLOWFEVER,Yellow fever,per 1000 live births,15.32
+COUNTRIES,PHL,Philippines,2023,RUBELLA,Rubella,per 1000 live births,23.81
+COUNTRIES,PHL,Philippines,2023,MUMPS,Mumps,per 100000 total population,17.13
+COUNTRIES,PHL,Philippines,2024,MEASLES,Measles,per 100000 total population,17.74
+COUNTRIES,PHL,Philippines,2024,PERTUSSIS,Pertussis,per 1000 live births,23.46
+COUNTRIES,PHL,Philippines,2024,DIPHTHERIA,Diphtheria,per 1000 live births,21.19
+COUNTRIES,PHL,Philippines,2024,TETANUS,Neonatal tetanus,per 1000 live births,33.49
+COUNTRIES,PHL,Philippines,2024,POLIO,Poliomyelitis,per 1000 live births,13.75
+COUNTRIES,PHL,Philippines,2024,YELLOWFEVER,Yellow fever,per 100000 total population,19.67
+COUNTRIES,PHL,Philippines,2024,RUBELLA,Rubella,per 100000 total population,3.32
+COUNTRIES,PHL,Philippines,2024,MUMPS,Mumps,per 100000 total population,6.88
+COUNTRIES,EGY,Egypt,2010,MEASLES,Measles,per 1000 live births,17.82
+COUNTRIES,EGY,Egypt,2010,PERTUSSIS,Pertussis,per 1000 live births,44.7
+COUNTRIES,EGY,Egypt,2010,DIPHTHERIA,Diphtheria,per 100000 total population,0.45
+COUNTRIES,EGY,Egypt,2010,TETANUS,Neonatal tetanus,per 1000 live births,32.04
+COUNTRIES,EGY,Egypt,2010,POLIO,Poliomyelitis,per 1000 live births,5.48
+COUNTRIES,EGY,Egypt,2010,YELLOWFEVER,Yellow fever,per 100000 total population,0.37
+COUNTRIES,EGY,Egypt,2010,RUBELLA,Rubella,per 100000 total population,7.31
+COUNTRIES,EGY,Egypt,2010,MUMPS,Mumps,per 100000 total population,0.87
+COUNTRIES,EGY,Egypt,2011,MEASLES,Measles,per 1000 live births,113.58
+COUNTRIES,EGY,Egypt,2011,PERTUSSIS,Pertussis,per 100000 total population,4.8
+COUNTRIES,EGY,Egypt,2011,DIPHTHERIA,Diphtheria,per 1000 live births,16.0
+COUNTRIES,EGY,Egypt,2011,TETANUS,Neonatal tetanus,per 1000 live births,23.64
+COUNTRIES,EGY,Egypt,2011,POLIO,Poliomyelitis,per 1000 live births,21.31
+COUNTRIES,EGY,Egypt,2011,YELLOWFEVER,Yellow fever,per 1000 live births,25.55
+COUNTRIES,EGY,Egypt,2011,RUBELLA,Rubella,per 1000 live births,16.78
+COUNTRIES,EGY,Egypt,2011,MUMPS,Mumps,per 100000 total population,5.03
+COUNTRIES,EGY,Egypt,2012,MEASLES,Measles,per 100000 total population,96.16
+COUNTRIES,EGY,Egypt,2012,PERTUSSIS,Pertussis,per 100000 total population,20.85
+COUNTRIES,EGY,Egypt,2012,DIPHTHERIA,Diphtheria,per 100000 total population,3.8
+COUNTRIES,EGY,Egypt,2012,TETANUS,Neonatal tetanus,per 1000 live births,11.23
+COUNTRIES,EGY,Egypt,2012,POLIO,Poliomyelitis,per 1000 live births,4.79
+COUNTRIES,EGY,Egypt,2012,YELLOWFEVER,Yellow fever,per 100000 total population,21.02
+COUNTRIES,EGY,Egypt,2012,RUBELLA,Rubella,per 100000 total population,9.45
+COUNTRIES,EGY,Egypt,2012,MUMPS,Mumps,per 1000 live births,6.45
+COUNTRIES,EGY,Egypt,2013,MEASLES,Measles,per 1000 live births,25.53
+COUNTRIES,EGY,Egypt,2013,PERTUSSIS,Pertussis,per 1000 live births,41.17
+COUNTRIES,EGY,Egypt,2013,DIPHTHERIA,Diphtheria,per 100000 total population,2.22
+COUNTRIES,EGY,Egypt,2013,TETANUS,Neonatal tetanus,per 1000 live births,3.18
+COUNTRIES,EGY,Egypt,2013,POLIO,Poliomyelitis,per 1000 live births,0.56
+COUNTRIES,EGY,Egypt,2013,YELLOWFEVER,Yellow fever,per 100000 total population,62.06
+COUNTRIES,EGY,Egypt,2013,RUBELLA,Rubella,per 100000 total population,51.47
+COUNTRIES,EGY,Egypt,2013,MUMPS,Mumps,per 1000 live births,10.36
+COUNTRIES,EGY,Egypt,2014,MEASLES,Measles,per 1000 live births,14.53
+COUNTRIES,EGY,Egypt,2014,PERTUSSIS,Pertussis,per 100000 total population,4.42
+COUNTRIES,EGY,Egypt,2014,DIPHTHERIA,Diphtheria,per 1000 live births,4.41
+COUNTRIES,EGY,Egypt,2014,TETANUS,Neonatal tetanus,per 100000 total population,14.87
+COUNTRIES,EGY,Egypt,2014,POLIO,Poliomyelitis,per 1000 live births,44.93
+COUNTRIES,EGY,Egypt,2014,YELLOWFEVER,Yellow fever,per 1000 live births,15.55
+COUNTRIES,EGY,Egypt,2014,RUBELLA,Rubella,per 100000 total population,27.46
+COUNTRIES,EGY,Egypt,2014,MUMPS,Mumps,per 100000 total population,28.86
+COUNTRIES,EGY,Egypt,2015,MEASLES,Measles,per 100000 total population,21.17
+COUNTRIES,EGY,Egypt,2015,PERTUSSIS,Pertussis,per 1000 live births,4.74
+COUNTRIES,EGY,Egypt,2015,DIPHTHERIA,Diphtheria,per 1000 live births,0.73
+COUNTRIES,EGY,Egypt,2015,TETANUS,Neonatal tetanus,per 1000 live births,26.29
+COUNTRIES,EGY,Egypt,2015,POLIO,Poliomyelitis,per 1000 live births,25.11
+COUNTRIES,EGY,Egypt,2015,YELLOWFEVER,Yellow fever,per 1000 live births,31.06
+COUNTRIES,EGY,Egypt,2015,RUBELLA,Rubella,per 100000 total population,1.79
+COUNTRIES,EGY,Egypt,2015,MUMPS,Mumps,per 1000 live births,17.09
+COUNTRIES,EGY,Egypt,2016,MEASLES,Measles,per 100000 total population,4.82
+COUNTRIES,EGY,Egypt,2016,PERTUSSIS,Pertussis,per 1000 live births,1.69
+COUNTRIES,EGY,Egypt,2016,DIPHTHERIA,Diphtheria,per 1000 live births,14.77
+COUNTRIES,EGY,Egypt,2016,TETANUS,Neonatal tetanus,per 100000 total population,9.12
+COUNTRIES,EGY,Egypt,2016,POLIO,Poliomyelitis,per 1000 live births,65.92
+COUNTRIES,EGY,Egypt,2016,YELLOWFEVER,Yellow fever,per 100000 total population,16.13
+COUNTRIES,EGY,Egypt,2016,RUBELLA,Rubella,per 1000 live births,27.59
+COUNTRIES,EGY,Egypt,2016,MUMPS,Mumps,per 1000 live births,42.42
+COUNTRIES,EGY,Egypt,2017,MEASLES,Measles,per 1000 live births,16.1
+COUNTRIES,EGY,Egypt,2017,PERTUSSIS,Pertussis,per 100000 total population,11.99
+COUNTRIES,EGY,Egypt,2017,DIPHTHERIA,Diphtheria,per 100000 total population,22.39
+COUNTRIES,EGY,Egypt,2017,TETANUS,Neonatal tetanus,per 1000 live births,24.68
+COUNTRIES,EGY,Egypt,2017,POLIO,Poliomyelitis,per 1000 live births,12.0
+COUNTRIES,EGY,Egypt,2017,YELLOWFEVER,Yellow fever,per 1000 live births,24.88
+COUNTRIES,EGY,Egypt,2017,RUBELLA,Rubella,per 100000 total population,22.43
+COUNTRIES,EGY,Egypt,2017,MUMPS,Mumps,per 1000 live births,27.81
+COUNTRIES,EGY,Egypt,2018,MEASLES,Measles,per 100000 total population,75.51
+COUNTRIES,EGY,Egypt,2018,PERTUSSIS,Pertussis,per 1000 live births,13.35
+COUNTRIES,EGY,Egypt,2018,DIPHTHERIA,Diphtheria,per 1000 live births,2.12
+COUNTRIES,EGY,Egypt,2018,TETANUS,Neonatal tetanus,per 100000 total population,23.41
+COUNTRIES,EGY,Egypt,2018,POLIO,Poliomyelitis,per 1000 live births,15.06
+COUNTRIES,EGY,Egypt,2018,YELLOWFEVER,Yellow fever,per 1000 live births,19.15
+COUNTRIES,EGY,Egypt,2018,RUBELLA,Rubella,per 100000 total population,7.72
+COUNTRIES,EGY,Egypt,2018,MUMPS,Mumps,per 1000 live births,9.59
+COUNTRIES,EGY,Egypt,2019,MEASLES,Measles,per 1000 live births,76.49
+COUNTRIES,EGY,Egypt,2019,PERTUSSIS,Pertussis,per 100000 total population,2.45
+COUNTRIES,EGY,Egypt,2019,DIPHTHERIA,Diphtheria,per 100000 total population,8.12
+COUNTRIES,EGY,Egypt,2019,TETANUS,Neonatal tetanus,per 1000 live births,2.18
+COUNTRIES,EGY,Egypt,2019,POLIO,Poliomyelitis,per 1000 live births,9.85
+COUNTRIES,EGY,Egypt,2019,YELLOWFEVER,Yellow fever,per 1000 live births,0.09
+COUNTRIES,EGY,Egypt,2019,RUBELLA,Rubella,per 100000 total population,0.01
+COUNTRIES,EGY,Egypt,2019,MUMPS,Mumps,per 100000 total population,27.67
+COUNTRIES,EGY,Egypt,2020,MEASLES,Measles,per 1000 live births,11.74
+COUNTRIES,EGY,Egypt,2020,PERTUSSIS,Pertussis,per 1000 live births,8.17
+COUNTRIES,EGY,Egypt,2020,DIPHTHERIA,Diphtheria,per 100000 total population,7.1
+COUNTRIES,EGY,Egypt,2020,TETANUS,Neonatal tetanus,per 100000 total population,6.03
+COUNTRIES,EGY,Egypt,2020,POLIO,Poliomyelitis,per 100000 total population,1.85
+COUNTRIES,EGY,Egypt,2020,YELLOWFEVER,Yellow fever,per 100000 total population,22.23
+COUNTRIES,EGY,Egypt,2020,RUBELLA,Rubella,per 100000 total population,4.91
+COUNTRIES,EGY,Egypt,2020,MUMPS,Mumps,per 100000 total population,9.17
+COUNTRIES,EGY,Egypt,2021,MEASLES,Measles,per 1000 live births,47.32
+COUNTRIES,EGY,Egypt,2021,PERTUSSIS,Pertussis,per 100000 total population,15.78
+COUNTRIES,EGY,Egypt,2021,DIPHTHERIA,Diphtheria,per 100000 total population,49.36
+COUNTRIES,EGY,Egypt,2021,TETANUS,Neonatal tetanus,per 1000 live births,1.35
+COUNTRIES,EGY,Egypt,2021,POLIO,Poliomyelitis,per 100000 total population,16.21
+COUNTRIES,EGY,Egypt,2021,YELLOWFEVER,Yellow fever,per 1000 live births,72.55
+COUNTRIES,EGY,Egypt,2021,RUBELLA,Rubella,per 100000 total population,8.71
+COUNTRIES,EGY,Egypt,2021,MUMPS,Mumps,per 1000 live births,1.44
+COUNTRIES,EGY,Egypt,2022,MEASLES,Measles,per 100000 total population,100.27
+COUNTRIES,EGY,Egypt,2022,PERTUSSIS,Pertussis,per 100000 total population,16.38
+COUNTRIES,EGY,Egypt,2022,DIPHTHERIA,Diphtheria,per 1000 live births,32.27
+COUNTRIES,EGY,Egypt,2022,TETANUS,Neonatal tetanus,per 100000 total population,1.79
+COUNTRIES,EGY,Egypt,2022,POLIO,Poliomyelitis,per 1000 live births,26.52
+COUNTRIES,EGY,Egypt,2022,YELLOWFEVER,Yellow fever,per 100000 total population,10.72
+COUNTRIES,EGY,Egypt,2022,RUBELLA,Rubella,per 100000 total population,23.64
+COUNTRIES,EGY,Egypt,2022,MUMPS,Mumps,per 100000 total population,14.84
+COUNTRIES,EGY,Egypt,2023,MEASLES,Measles,per 1000 live births,3.79
+COUNTRIES,EGY,Egypt,2023,PERTUSSIS,Pertussis,per 100000 total population,1.32
+COUNTRIES,EGY,Egypt,2023,DIPHTHERIA,Diphtheria,per 100000 total population,24.97
+COUNTRIES,EGY,Egypt,2023,TETANUS,Neonatal tetanus,per 100000 total population,4.77
+COUNTRIES,EGY,Egypt,2023,POLIO,Poliomyelitis,per 1000 live births,7.65
+COUNTRIES,EGY,Egypt,2023,YELLOWFEVER,Yellow fever,per 100000 total population,8.9
+COUNTRIES,EGY,Egypt,2023,RUBELLA,Rubella,per 1000 live births,10.17
+COUNTRIES,EGY,Egypt,2023,MUMPS,Mumps,per 100000 total population,14.13
+COUNTRIES,EGY,Egypt,2024,MEASLES,Measles,per 1000 live births,17.09
+COUNTRIES,EGY,Egypt,2024,PERTUSSIS,Pertussis,per 1000 live births,17.13
+COUNTRIES,EGY,Egypt,2024,DIPHTHERIA,Diphtheria,per 100000 total population,6.24
+COUNTRIES,EGY,Egypt,2024,TETANUS,Neonatal tetanus,per 1000 live births,25.65
+COUNTRIES,EGY,Egypt,2024,POLIO,Poliomyelitis,per 1000 live births,1.1
+COUNTRIES,EGY,Egypt,2024,YELLOWFEVER,Yellow fever,per 100000 total population,2.41
+COUNTRIES,EGY,Egypt,2024,RUBELLA,Rubella,per 1000 live births,22.77
+COUNTRIES,EGY,Egypt,2024,MUMPS,Mumps,per 100000 total population,5.36
+COUNTRIES,VNM,Viet Nam,2010,MEASLES,Measles,per 100000 total population,24.39
+COUNTRIES,VNM,Viet Nam,2010,PERTUSSIS,Pertussis,per 1000 live births,7.93
+COUNTRIES,VNM,Viet Nam,2010,DIPHTHERIA,Diphtheria,per 1000 live births,25.59
+COUNTRIES,VNM,Viet Nam,2010,TETANUS,Neonatal tetanus,per 100000 total population,23.03
+COUNTRIES,VNM,Viet Nam,2010,POLIO,Poliomyelitis,per 100000 total population,1.01
+COUNTRIES,VNM,Viet Nam,2010,YELLOWFEVER,Yellow fever,per 100000 total population,37.2
+COUNTRIES,VNM,Viet Nam,2010,RUBELLA,Rubella,per 100000 total population,37.46
+COUNTRIES,VNM,Viet Nam,2010,MUMPS,Mumps,per 100000 total population,1.84
+COUNTRIES,VNM,Viet Nam,2011,MEASLES,Measles,per 1000 live births,41.64
+COUNTRIES,VNM,Viet Nam,2011,PERTUSSIS,Pertussis,per 100000 total population,0.9
+COUNTRIES,VNM,Viet Nam,2011,DIPHTHERIA,Diphtheria,per 100000 total population,36.44
+COUNTRIES,VNM,Viet Nam,2011,TETANUS,Neonatal tetanus,per 100000 total population,17.26
+COUNTRIES,VNM,Viet Nam,2011,POLIO,Poliomyelitis,per 1000 live births,15.41
+COUNTRIES,VNM,Viet Nam,2011,YELLOWFEVER,Yellow fever,per 1000 live births,15.34
+COUNTRIES,VNM,Viet Nam,2011,RUBELLA,Rubella,per 100000 total population,2.04
+COUNTRIES,VNM,Viet Nam,2011,MUMPS,Mumps,per 100000 total population,11.38
+COUNTRIES,VNM,Viet Nam,2012,MEASLES,Measles,per 1000 live births,5.63
+COUNTRIES,VNM,Viet Nam,2012,PERTUSSIS,Pertussis,per 100000 total population,38.83
+COUNTRIES,VNM,Viet Nam,2012,DIPHTHERIA,Diphtheria,per 100000 total population,18.32
+COUNTRIES,VNM,Viet Nam,2012,TETANUS,Neonatal tetanus,per 1000 live births,10.6
+COUNTRIES,VNM,Viet Nam,2012,POLIO,Poliomyelitis,per 100000 total population,11.16
+COUNTRIES,VNM,Viet Nam,2012,YELLOWFEVER,Yellow fever,per 100000 total population,22.34
+COUNTRIES,VNM,Viet Nam,2012,RUBELLA,Rubella,per 100000 total population,6.05
+COUNTRIES,VNM,Viet Nam,2012,MUMPS,Mumps,per 100000 total population,3.09
+COUNTRIES,VNM,Viet Nam,2013,MEASLES,Measles,per 1000 live births,41.48
+COUNTRIES,VNM,Viet Nam,2013,PERTUSSIS,Pertussis,per 100000 total population,9.34
+COUNTRIES,VNM,Viet Nam,2013,DIPHTHERIA,Diphtheria,per 1000 live births,16.19
+COUNTRIES,VNM,Viet Nam,2013,TETANUS,Neonatal tetanus,per 100000 total population,23.42
+COUNTRIES,VNM,Viet Nam,2013,POLIO,Poliomyelitis,per 1000 live births,27.13
+COUNTRIES,VNM,Viet Nam,2013,YELLOWFEVER,Yellow fever,per 100000 total population,0.63
+COUNTRIES,VNM,Viet Nam,2013,RUBELLA,Rubella,per 1000 live births,3.08
+COUNTRIES,VNM,Viet Nam,2013,MUMPS,Mumps,per 1000 live births,22.39
+COUNTRIES,VNM,Viet Nam,2014,MEASLES,Measles,per 1000 live births,200.65
+COUNTRIES,VNM,Viet Nam,2014,PERTUSSIS,Pertussis,per 1000 live births,60.25
+COUNTRIES,VNM,Viet Nam,2014,DIPHTHERIA,Diphtheria,per 1000 live births,6.46
+COUNTRIES,VNM,Viet Nam,2014,TETANUS,Neonatal tetanus,per 1000 live births,1.29
+COUNTRIES,VNM,Viet Nam,2014,POLIO,Poliomyelitis,per 100000 total population,18.69
+COUNTRIES,VNM,Viet Nam,2014,YELLOWFEVER,Yellow fever,per 100000 total population,20.05
+COUNTRIES,VNM,Viet Nam,2014,RUBELLA,Rubella,per 100000 total population,26.15
+COUNTRIES,VNM,Viet Nam,2014,MUMPS,Mumps,per 100000 total population,1.98
+COUNTRIES,VNM,Viet Nam,2015,MEASLES,Measles,per 1000 live births,28.56
+COUNTRIES,VNM,Viet Nam,2015,PERTUSSIS,Pertussis,per 100000 total population,12.69
+COUNTRIES,VNM,Viet Nam,2015,DIPHTHERIA,Diphtheria,per 100000 total population,65.88
+COUNTRIES,VNM,Viet Nam,2015,TETANUS,Neonatal tetanus,per 1000 live births,44.64
+COUNTRIES,VNM,Viet Nam,2015,POLIO,Poliomyelitis,per 1000 live births,36.91
+COUNTRIES,VNM,Viet Nam,2015,YELLOWFEVER,Yellow fever,per 100000 total population,35.24
+COUNTRIES,VNM,Viet Nam,2015,RUBELLA,Rubella,per 1000 live births,16.64
+COUNTRIES,VNM,Viet Nam,2015,MUMPS,Mumps,per 100000 total population,5.22
+COUNTRIES,VNM,Viet Nam,2016,MEASLES,Measles,per 1000 live births,9.44
+COUNTRIES,VNM,Viet Nam,2016,PERTUSSIS,Pertussis,per 100000 total population,6.54
+COUNTRIES,VNM,Viet Nam,2016,DIPHTHERIA,Diphtheria,per 100000 total population,14.11
+COUNTRIES,VNM,Viet Nam,2016,TETANUS,Neonatal tetanus,per 1000 live births,26.94
+COUNTRIES,VNM,Viet Nam,2016,POLIO,Poliomyelitis,per 100000 total population,9.49
+COUNTRIES,VNM,Viet Nam,2016,YELLOWFEVER,Yellow fever,per 1000 live births,18.07
+COUNTRIES,VNM,Viet Nam,2016,RUBELLA,Rubella,per 100000 total population,13.66
+COUNTRIES,VNM,Viet Nam,2016,MUMPS,Mumps,per 1000 live births,19.52
+COUNTRIES,VNM,Viet Nam,2017,MEASLES,Measles,per 1000 live births,33.08
+COUNTRIES,VNM,Viet Nam,2017,PERTUSSIS,Pertussis,per 1000 live births,0.48
+COUNTRIES,VNM,Viet Nam,2017,DIPHTHERIA,Diphtheria,per 100000 total population,12.4
+COUNTRIES,VNM,Viet Nam,2017,TETANUS,Neonatal tetanus,per 100000 total population,0.79
+COUNTRIES,VNM,Viet Nam,2017,POLIO,Poliomyelitis,per 100000 total population,4.3
+COUNTRIES,VNM,Viet Nam,2017,YELLOWFEVER,Yellow fever,per 100000 total population,22.06
+COUNTRIES,VNM,Viet Nam,2017,RUBELLA,Rubella,per 1000 live births,3.66
+COUNTRIES,VNM,Viet Nam,2017,MUMPS,Mumps,per 100000 total population,16.26
+COUNTRIES,VNM,Viet Nam,2018,MEASLES,Measles,per 100000 total population,84.84
+COUNTRIES,VNM,Viet Nam,2018,PERTUSSIS,Pertussis,per 1000 live births,0.37
+COUNTRIES,VNM,Viet Nam,2018,DIPHTHERIA,Diphtheria,per 1000 live births,1.53
+COUNTRIES,VNM,Viet Nam,2018,TETANUS,Neonatal tetanus,per 100000 total population,76.28
+COUNTRIES,VNM,Viet Nam,2018,POLIO,Poliomyelitis,per 100000 total population,25.12
+COUNTRIES,VNM,Viet Nam,2018,YELLOWFEVER,Yellow fever,per 1000 live births,1.74
+COUNTRIES,VNM,Viet Nam,2018,RUBELLA,Rubella,per 100000 total population,6.08
+COUNTRIES,VNM,Viet Nam,2018,MUMPS,Mumps,per 1000 live births,34.87
+COUNTRIES,VNM,Viet Nam,2019,MEASLES,Measles,per 100000 total population,60.64
+COUNTRIES,VNM,Viet Nam,2019,PERTUSSIS,Pertussis,per 1000 live births,7.55
+COUNTRIES,VNM,Viet Nam,2019,DIPHTHERIA,Diphtheria,per 1000 live births,8.39
+COUNTRIES,VNM,Viet Nam,2019,TETANUS,Neonatal tetanus,per 1000 live births,0.26
+COUNTRIES,VNM,Viet Nam,2019,POLIO,Poliomyelitis,per 100000 total population,44.43
+COUNTRIES,VNM,Viet Nam,2019,YELLOWFEVER,Yellow fever,per 100000 total population,3.41
+COUNTRIES,VNM,Viet Nam,2019,RUBELLA,Rubella,per 100000 total population,15.19
+COUNTRIES,VNM,Viet Nam,2019,MUMPS,Mumps,per 100000 total population,0.47
+COUNTRIES,VNM,Viet Nam,2020,MEASLES,Measles,per 1000 live births,16.91
+COUNTRIES,VNM,Viet Nam,2020,PERTUSSIS,Pertussis,per 100000 total population,11.54
+COUNTRIES,VNM,Viet Nam,2020,DIPHTHERIA,Diphtheria,per 1000 live births,5.46
+COUNTRIES,VNM,Viet Nam,2020,TETANUS,Neonatal tetanus,per 1000 live births,0.99
+COUNTRIES,VNM,Viet Nam,2020,POLIO,Poliomyelitis,per 100000 total population,2.26
+COUNTRIES,VNM,Viet Nam,2020,YELLOWFEVER,Yellow fever,per 100000 total population,9.07
+COUNTRIES,VNM,Viet Nam,2020,RUBELLA,Rubella,per 1000 live births,29.15
+COUNTRIES,VNM,Viet Nam,2020,MUMPS,Mumps,per 1000 live births,15.18
+COUNTRIES,VNM,Viet Nam,2021,MEASLES,Measles,per 1000 live births,0.97
+COUNTRIES,VNM,Viet Nam,2021,PERTUSSIS,Pertussis,per 100000 total population,0.44
+COUNTRIES,VNM,Viet Nam,2021,DIPHTHERIA,Diphtheria,per 100000 total population,13.16
+COUNTRIES,VNM,Viet Nam,2021,TETANUS,Neonatal tetanus,per 1000 live births,5.7
+COUNTRIES,VNM,Viet Nam,2021,POLIO,Poliomyelitis,per 100000 total population,1.03
+COUNTRIES,VNM,Viet Nam,2021,YELLOWFEVER,Yellow fever,per 100000 total population,0.74
+COUNTRIES,VNM,Viet Nam,2021,RUBELLA,Rubella,per 1000 live births,11.19
+COUNTRIES,VNM,Viet Nam,2021,MUMPS,Mumps,per 100000 total population,3.9
+COUNTRIES,VNM,Viet Nam,2022,MEASLES,Measles,per 1000 live births,12.24
+COUNTRIES,VNM,Viet Nam,2022,PERTUSSIS,Pertussis,per 1000 live births,18.95
+COUNTRIES,VNM,Viet Nam,2022,DIPHTHERIA,Diphtheria,per 1000 live births,24.2
+COUNTRIES,VNM,Viet Nam,2022,TETANUS,Neonatal tetanus,per 100000 total population,25.38
+COUNTRIES,VNM,Viet Nam,2022,POLIO,Poliomyelitis,per 1000 live births,2.5
+COUNTRIES,VNM,Viet Nam,2022,YELLOWFEVER,Yellow fever,per 1000 live births,29.47
+COUNTRIES,VNM,Viet Nam,2022,RUBELLA,Rubella,per 100000 total population,13.79
+COUNTRIES,VNM,Viet Nam,2022,MUMPS,Mumps,per 1000 live births,1.62
+COUNTRIES,VNM,Viet Nam,2023,MEASLES,Measles,per 1000 live births,142.19
+COUNTRIES,VNM,Viet Nam,2023,PERTUSSIS,Pertussis,per 100000 total population,6.88
+COUNTRIES,VNM,Viet Nam,2023,DIPHTHERIA,Diphtheria,per 1000 live births,22.95
+COUNTRIES,VNM,Viet Nam,2023,TETANUS,Neonatal tetanus,per 100000 total population,23.12
+COUNTRIES,VNM,Viet Nam,2023,POLIO,Poliomyelitis,per 100000 total population,6.78
+COUNTRIES,VNM,Viet Nam,2023,YELLOWFEVER,Yellow fever,per 1000 live births,37.61
+COUNTRIES,VNM,Viet Nam,2023,RUBELLA,Rubella,per 100000 total population,15.65
+COUNTRIES,VNM,Viet Nam,2023,MUMPS,Mumps,per 1000 live births,14.98
+COUNTRIES,VNM,Viet Nam,2024,MEASLES,Measles,per 100000 total population,188.9
+COUNTRIES,VNM,Viet Nam,2024,PERTUSSIS,Pertussis,per 1000 live births,4.92
+COUNTRIES,VNM,Viet Nam,2024,DIPHTHERIA,Diphtheria,per 1000 live births,18.79
+COUNTRIES,VNM,Viet Nam,2024,TETANUS,Neonatal tetanus,per 1000 live births,21.07
+COUNTRIES,VNM,Viet Nam,2024,POLIO,Poliomyelitis,per 1000 live births,4.98
+COUNTRIES,VNM,Viet Nam,2024,YELLOWFEVER,Yellow fever,per 100000 total population,20.12
+COUNTRIES,VNM,Viet Nam,2024,RUBELLA,Rubella,per 1000 live births,42.31
+COUNTRIES,VNM,Viet Nam,2024,MUMPS,Mumps,per 1000 live births,8.46
+COUNTRIES,TUR,Turkey,2010,MEASLES,Measles,per 100000 total population,18.83
+COUNTRIES,TUR,Turkey,2010,PERTUSSIS,Pertussis,per 1000 live births,17.29
+COUNTRIES,TUR,Turkey,2010,DIPHTHERIA,Diphtheria,per 1000 live births,12.45
+COUNTRIES,TUR,Turkey,2010,TETANUS,Neonatal tetanus,per 100000 total population,19.97
+COUNTRIES,TUR,Turkey,2010,POLIO,Poliomyelitis,per 1000 live births,6.41
+COUNTRIES,TUR,Turkey,2010,YELLOWFEVER,Yellow fever,per 1000 live births,42.2
+COUNTRIES,TUR,Turkey,2010,RUBELLA,Rubella,per 1000 live births,8.54
+COUNTRIES,TUR,Turkey,2010,MUMPS,Mumps,per 100000 total population,0.73
+COUNTRIES,TUR,Turkey,2011,MEASLES,Measles,per 100000 total population,6.3
+COUNTRIES,TUR,Turkey,2011,PERTUSSIS,Pertussis,per 1000 live births,2.06
+COUNTRIES,TUR,Turkey,2011,DIPHTHERIA,Diphtheria,per 1000 live births,62.87
+COUNTRIES,TUR,Turkey,2011,TETANUS,Neonatal tetanus,per 100000 total population,28.9
+COUNTRIES,TUR,Turkey,2011,POLIO,Poliomyelitis,per 100000 total population,12.46
+COUNTRIES,TUR,Turkey,2011,YELLOWFEVER,Yellow fever,per 1000 live births,3.3
+COUNTRIES,TUR,Turkey,2011,RUBELLA,Rubella,per 100000 total population,0.29
+COUNTRIES,TUR,Turkey,2011,MUMPS,Mumps,per 1000 live births,25.89
+COUNTRIES,TUR,Turkey,2012,MEASLES,Measles,per 100000 total population,31.66
+COUNTRIES,TUR,Turkey,2012,PERTUSSIS,Pertussis,per 100000 total population,48.27
+COUNTRIES,TUR,Turkey,2012,DIPHTHERIA,Diphtheria,per 100000 total population,21.04
+COUNTRIES,TUR,Turkey,2012,TETANUS,Neonatal tetanus,per 1000 live births,4.56
+COUNTRIES,TUR,Turkey,2012,POLIO,Poliomyelitis,per 100000 total population,0.26
+COUNTRIES,TUR,Turkey,2012,YELLOWFEVER,Yellow fever,per 1000 live births,28.69
+COUNTRIES,TUR,Turkey,2012,RUBELLA,Rubella,per 1000 live births,3.14
+COUNTRIES,TUR,Turkey,2012,MUMPS,Mumps,per 100000 total population,9.7
+COUNTRIES,TUR,Turkey,2013,MEASLES,Measles,per 1000 live births,43.26
+COUNTRIES,TUR,Turkey,2013,PERTUSSIS,Pertussis,per 1000 live births,29.58
+COUNTRIES,TUR,Turkey,2013,DIPHTHERIA,Diphtheria,per 1000 live births,17.33
+COUNTRIES,TUR,Turkey,2013,TETANUS,Neonatal tetanus,per 1000 live births,0.02
+COUNTRIES,TUR,Turkey,2013,POLIO,Poliomyelitis,per 1000 live births,14.67
+COUNTRIES,TUR,Turkey,2013,YELLOWFEVER,Yellow fever,per 100000 total population,2.01
+COUNTRIES,TUR,Turkey,2013,RUBELLA,Rubella,per 1000 live births,38.5
+COUNTRIES,TUR,Turkey,2013,MUMPS,Mumps,per 100000 total population,17.36
+COUNTRIES,TUR,Turkey,2014,MEASLES,Measles,per 100000 total population,57.65
+COUNTRIES,TUR,Turkey,2014,PERTUSSIS,Pertussis,per 1000 live births,9.73
+COUNTRIES,TUR,Turkey,2014,DIPHTHERIA,Diphtheria,per 100000 total population,16.37
+COUNTRIES,TUR,Turkey,2014,TETANUS,Neonatal tetanus,per 100000 total population,29.19
+COUNTRIES,TUR,Turkey,2014,POLIO,Poliomyelitis,per 1000 live births,5.73
+COUNTRIES,TUR,Turkey,2014,YELLOWFEVER,Yellow fever,per 100000 total population,12.86
+COUNTRIES,TUR,Turkey,2014,RUBELLA,Rubella,per 100000 total population,9.39
+COUNTRIES,TUR,Turkey,2014,MUMPS,Mumps,per 100000 total population,30.49
+COUNTRIES,TUR,Turkey,2015,MEASLES,Measles,per 100000 total population,61.89
+COUNTRIES,TUR,Turkey,2015,PERTUSSIS,Pertussis,per 100000 total population,29.23
+COUNTRIES,TUR,Turkey,2015,DIPHTHERIA,Diphtheria,per 100000 total population,9.67
+COUNTRIES,TUR,Turkey,2015,TETANUS,Neonatal tetanus,per 1000 live births,3.56
+COUNTRIES,TUR,Turkey,2015,POLIO,Poliomyelitis,per 100000 total population,48.19
+COUNTRIES,TUR,Turkey,2015,YELLOWFEVER,Yellow fever,per 1000 live births,57.19
+COUNTRIES,TUR,Turkey,2015,RUBELLA,Rubella,per 1000 live births,10.15
+COUNTRIES,TUR,Turkey,2015,MUMPS,Mumps,per 100000 total population,31.94
+COUNTRIES,TUR,Turkey,2016,MEASLES,Measles,per 1000 live births,17.05
+COUNTRIES,TUR,Turkey,2016,PERTUSSIS,Pertussis,per 1000 live births,57.22
+COUNTRIES,TUR,Turkey,2016,DIPHTHERIA,Diphtheria,per 100000 total population,25.79
+COUNTRIES,TUR,Turkey,2016,TETANUS,Neonatal tetanus,per 100000 total population,17.63
+COUNTRIES,TUR,Turkey,2016,POLIO,Poliomyelitis,per 100000 total population,1.16
+COUNTRIES,TUR,Turkey,2016,YELLOWFEVER,Yellow fever,per 100000 total population,32.46
+COUNTRIES,TUR,Turkey,2016,RUBELLA,Rubella,per 1000 live births,14.28
+COUNTRIES,TUR,Turkey,2016,MUMPS,Mumps,per 100000 total population,24.56
+COUNTRIES,TUR,Turkey,2017,MEASLES,Measles,per 1000 live births,45.48
+COUNTRIES,TUR,Turkey,2017,PERTUSSIS,Pertussis,per 100000 total population,15.34
+COUNTRIES,TUR,Turkey,2017,DIPHTHERIA,Diphtheria,per 100000 total population,64.58
+COUNTRIES,TUR,Turkey,2017,TETANUS,Neonatal tetanus,per 1000 live births,10.69
+COUNTRIES,TUR,Turkey,2017,POLIO,Poliomyelitis,per 100000 total population,10.67
+COUNTRIES,TUR,Turkey,2017,YELLOWFEVER,Yellow fever,per 1000 live births,17.9
+COUNTRIES,TUR,Turkey,2017,RUBELLA,Rubella,per 1000 live births,6.29
+COUNTRIES,TUR,Turkey,2017,MUMPS,Mumps,per 1000 live births,2.92
+COUNTRIES,TUR,Turkey,2018,MEASLES,Measles,per 1000 live births,9.94
+COUNTRIES,TUR,Turkey,2018,PERTUSSIS,Pertussis,per 100000 total population,6.23
+COUNTRIES,TUR,Turkey,2018,DIPHTHERIA,Diphtheria,per 1000 live births,10.1
+COUNTRIES,TUR,Turkey,2018,TETANUS,Neonatal tetanus,per 1000 live births,9.55
+COUNTRIES,TUR,Turkey,2018,POLIO,Poliomyelitis,per 1000 live births,12.15
+COUNTRIES,TUR,Turkey,2018,YELLOWFEVER,Yellow fever,per 100000 total population,6.68
+COUNTRIES,TUR,Turkey,2018,RUBELLA,Rubella,per 1000 live births,57.46
+COUNTRIES,TUR,Turkey,2018,MUMPS,Mumps,per 100000 total population,5.92
+COUNTRIES,TUR,Turkey,2019,MEASLES,Measles,per 1000 live births,28.06
+COUNTRIES,TUR,Turkey,2019,PERTUSSIS,Pertussis,per 1000 live births,13.57
+COUNTRIES,TUR,Turkey,2019,DIPHTHERIA,Diphtheria,per 100000 total population,33.36
+COUNTRIES,TUR,Turkey,2019,TETANUS,Neonatal tetanus,per 1000 live births,20.98
+COUNTRIES,TUR,Turkey,2019,POLIO,Poliomyelitis,per 1000 live births,1.58
+COUNTRIES,TUR,Turkey,2019,YELLOWFEVER,Yellow fever,per 1000 live births,1.46
+COUNTRIES,TUR,Turkey,2019,RUBELLA,Rubella,per 1000 live births,38.27
+COUNTRIES,TUR,Turkey,2019,MUMPS,Mumps,per 1000 live births,30.94
+COUNTRIES,TUR,Turkey,2020,MEASLES,Measles,per 100000 total population,1.42
+COUNTRIES,TUR,Turkey,2020,PERTUSSIS,Pertussis,per 100000 total population,13.43
+COUNTRIES,TUR,Turkey,2020,DIPHTHERIA,Diphtheria,per 100000 total population,49.13
+COUNTRIES,TUR,Turkey,2020,TETANUS,Neonatal tetanus,per 100000 total population,14.72
+COUNTRIES,TUR,Turkey,2020,POLIO,Poliomyelitis,per 100000 total population,20.95
+COUNTRIES,TUR,Turkey,2020,YELLOWFEVER,Yellow fever,per 100000 total population,0.11
+COUNTRIES,TUR,Turkey,2020,RUBELLA,Rubella,per 1000 live births,12.68
+COUNTRIES,TUR,Turkey,2020,MUMPS,Mumps,per 1000 live births,11.87
+COUNTRIES,TUR,Turkey,2021,MEASLES,Measles,per 1000 live births,30.65
+COUNTRIES,TUR,Turkey,2021,PERTUSSIS,Pertussis,per 100000 total population,62.03
+COUNTRIES,TUR,Turkey,2021,DIPHTHERIA,Diphtheria,per 1000 live births,7.09
+COUNTRIES,TUR,Turkey,2021,TETANUS,Neonatal tetanus,per 1000 live births,7.69
+COUNTRIES,TUR,Turkey,2021,POLIO,Poliomyelitis,per 1000 live births,20.1
+COUNTRIES,TUR,Turkey,2021,YELLOWFEVER,Yellow fever,per 1000 live births,0.95
+COUNTRIES,TUR,Turkey,2021,RUBELLA,Rubella,per 1000 live births,6.05
+COUNTRIES,TUR,Turkey,2021,MUMPS,Mumps,per 1000 live births,14.01
+COUNTRIES,TUR,Turkey,2022,MEASLES,Measles,per 1000 live births,98.98
+COUNTRIES,TUR,Turkey,2022,PERTUSSIS,Pertussis,per 100000 total population,23.28
+COUNTRIES,TUR,Turkey,2022,DIPHTHERIA,Diphtheria,per 100000 total population,15.72
+COUNTRIES,TUR,Turkey,2022,TETANUS,Neonatal tetanus,per 1000 live births,1.04
+COUNTRIES,TUR,Turkey,2022,POLIO,Poliomyelitis,per 1000 live births,17.28
+COUNTRIES,TUR,Turkey,2022,YELLOWFEVER,Yellow fever,per 1000 live births,12.32
+COUNTRIES,TUR,Turkey,2022,RUBELLA,Rubella,per 100000 total population,6.31
+COUNTRIES,TUR,Turkey,2022,MUMPS,Mumps,per 100000 total population,3.11
+COUNTRIES,TUR,Turkey,2023,MEASLES,Measles,per 1000 live births,8.81
+COUNTRIES,TUR,Turkey,2023,PERTUSSIS,Pertussis,per 1000 live births,51.86
+COUNTRIES,TUR,Turkey,2023,DIPHTHERIA,Diphtheria,per 1000 live births,17.67
+COUNTRIES,TUR,Turkey,2023,TETANUS,Neonatal tetanus,per 1000 live births,18.48
+COUNTRIES,TUR,Turkey,2023,POLIO,Poliomyelitis,per 100000 total population,1.04
+COUNTRIES,TUR,Turkey,2023,YELLOWFEVER,Yellow fever,per 1000 live births,26.7
+COUNTRIES,TUR,Turkey,2023,RUBELLA,Rubella,per 100000 total population,6.44
+COUNTRIES,TUR,Turkey,2023,MUMPS,Mumps,per 1000 live births,26.84
+COUNTRIES,TUR,Turkey,2024,MEASLES,Measles,per 1000 live births,10.31
+COUNTRIES,TUR,Turkey,2024,PERTUSSIS,Pertussis,per 100000 total population,14.04
+COUNTRIES,TUR,Turkey,2024,DIPHTHERIA,Diphtheria,per 100000 total population,10.61
+COUNTRIES,TUR,Turkey,2024,TETANUS,Neonatal tetanus,per 100000 total population,35.81
+COUNTRIES,TUR,Turkey,2024,POLIO,Poliomyelitis,per 1000 live births,33.48
+COUNTRIES,TUR,Turkey,2024,YELLOWFEVER,Yellow fever,per 100000 total population,4.27
+COUNTRIES,TUR,Turkey,2024,RUBELLA,Rubella,per 100000 total population,11.4
+COUNTRIES,TUR,Turkey,2024,MUMPS,Mumps,per 100000 total population,52.5
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,MEASLES,Measles,per 100000 total population,42.21
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,PERTUSSIS,Pertussis,per 100000 total population,10.99
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,DIPHTHERIA,Diphtheria,per 1000 live births,25.44
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,TETANUS,Neonatal tetanus,per 100000 total population,34.31
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,POLIO,Poliomyelitis,per 1000 live births,8.65
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,YELLOWFEVER,Yellow fever,per 1000 live births,9.4
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,RUBELLA,Rubella,per 100000 total population,4.86
+COUNTRIES,IRN,Iran (Islamic Republic of),2010,MUMPS,Mumps,per 1000 live births,10.2
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,MEASLES,Measles,per 100000 total population,0.49
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,PERTUSSIS,Pertussis,per 1000 live births,43.54
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,DIPHTHERIA,Diphtheria,per 1000 live births,67.61
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,TETANUS,Neonatal tetanus,per 100000 total population,0.16
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,POLIO,Poliomyelitis,per 1000 live births,4.35
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,YELLOWFEVER,Yellow fever,per 100000 total population,6.17
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,RUBELLA,Rubella,per 1000 live births,2.32
+COUNTRIES,IRN,Iran (Islamic Republic of),2011,MUMPS,Mumps,per 100000 total population,20.63
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,MEASLES,Measles,per 1000 live births,53.54
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,PERTUSSIS,Pertussis,per 1000 live births,2.59
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,DIPHTHERIA,Diphtheria,per 100000 total population,58.97
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,TETANUS,Neonatal tetanus,per 100000 total population,21.93
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,POLIO,Poliomyelitis,per 100000 total population,3.92
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,YELLOWFEVER,Yellow fever,per 100000 total population,22.19
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,RUBELLA,Rubella,per 100000 total population,3.06
+COUNTRIES,IRN,Iran (Islamic Republic of),2012,MUMPS,Mumps,per 100000 total population,8.1
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,MEASLES,Measles,per 100000 total population,22.79
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,PERTUSSIS,Pertussis,per 1000 live births,36.41
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,DIPHTHERIA,Diphtheria,per 1000 live births,30.42
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,TETANUS,Neonatal tetanus,per 100000 total population,2.33
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,POLIO,Poliomyelitis,per 100000 total population,1.21
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,YELLOWFEVER,Yellow fever,per 100000 total population,45.11
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,RUBELLA,Rubella,per 1000 live births,35.14
+COUNTRIES,IRN,Iran (Islamic Republic of),2013,MUMPS,Mumps,per 1000 live births,14.41
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,MEASLES,Measles,per 1000 live births,40.67
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,PERTUSSIS,Pertussis,per 1000 live births,8.8
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,DIPHTHERIA,Diphtheria,per 100000 total population,26.15
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,TETANUS,Neonatal tetanus,per 1000 live births,11.42
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,POLIO,Poliomyelitis,per 100000 total population,26.24
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,YELLOWFEVER,Yellow fever,per 1000 live births,5.11
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,RUBELLA,Rubella,per 1000 live births,0.91
+COUNTRIES,IRN,Iran (Islamic Republic of),2014,MUMPS,Mumps,per 1000 live births,12.11
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,MEASLES,Measles,per 100000 total population,90.55
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,PERTUSSIS,Pertussis,per 100000 total population,9.28
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,DIPHTHERIA,Diphtheria,per 100000 total population,31.25
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,TETANUS,Neonatal tetanus,per 100000 total population,32.19
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,POLIO,Poliomyelitis,per 100000 total population,7.85
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,YELLOWFEVER,Yellow fever,per 100000 total population,3.07
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,RUBELLA,Rubella,per 1000 live births,23.63
+COUNTRIES,IRN,Iran (Islamic Republic of),2015,MUMPS,Mumps,per 1000 live births,33.97
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,MEASLES,Measles,per 1000 live births,36.87
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,PERTUSSIS,Pertussis,per 1000 live births,0.24
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,DIPHTHERIA,Diphtheria,per 1000 live births,14.0
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,TETANUS,Neonatal tetanus,per 1000 live births,4.93
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,POLIO,Poliomyelitis,per 100000 total population,9.99
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,YELLOWFEVER,Yellow fever,per 100000 total population,0.26
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,RUBELLA,Rubella,per 1000 live births,9.84
+COUNTRIES,IRN,Iran (Islamic Republic of),2016,MUMPS,Mumps,per 100000 total population,18.78
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,MEASLES,Measles,per 100000 total population,54.42
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,PERTUSSIS,Pertussis,per 1000 live births,2.02
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,DIPHTHERIA,Diphtheria,per 100000 total population,32.39
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,TETANUS,Neonatal tetanus,per 1000 live births,7.6
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,POLIO,Poliomyelitis,per 100000 total population,14.48
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,YELLOWFEVER,Yellow fever,per 1000 live births,0.06
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,RUBELLA,Rubella,per 100000 total population,4.14
+COUNTRIES,IRN,Iran (Islamic Republic of),2017,MUMPS,Mumps,per 100000 total population,12.03
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,MEASLES,Measles,per 1000 live births,24.16
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,PERTUSSIS,Pertussis,per 100000 total population,11.82
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,DIPHTHERIA,Diphtheria,per 100000 total population,1.13
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,TETANUS,Neonatal tetanus,per 100000 total population,13.06
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,POLIO,Poliomyelitis,per 100000 total population,53.85
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,YELLOWFEVER,Yellow fever,per 100000 total population,1.99
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,RUBELLA,Rubella,per 1000 live births,32.24
+COUNTRIES,IRN,Iran (Islamic Republic of),2018,MUMPS,Mumps,per 1000 live births,7.57
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,MEASLES,Measles,per 100000 total population,6.75
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,PERTUSSIS,Pertussis,per 1000 live births,0.02
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,DIPHTHERIA,Diphtheria,per 100000 total population,12.43
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,TETANUS,Neonatal tetanus,per 100000 total population,17.12
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,POLIO,Poliomyelitis,per 100000 total population,55.66
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,YELLOWFEVER,Yellow fever,per 1000 live births,40.06
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,RUBELLA,Rubella,per 100000 total population,9.16
+COUNTRIES,IRN,Iran (Islamic Republic of),2019,MUMPS,Mumps,per 1000 live births,12.34
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,MEASLES,Measles,per 100000 total population,25.78
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,PERTUSSIS,Pertussis,per 1000 live births,10.21
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,DIPHTHERIA,Diphtheria,per 1000 live births,14.54
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,TETANUS,Neonatal tetanus,per 100000 total population,2.93
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,POLIO,Poliomyelitis,per 1000 live births,30.47
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,YELLOWFEVER,Yellow fever,per 1000 live births,0.22
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,RUBELLA,Rubella,per 100000 total population,43.38
+COUNTRIES,IRN,Iran (Islamic Republic of),2020,MUMPS,Mumps,per 1000 live births,6.59
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,MEASLES,Measles,per 1000 live births,8.05
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,PERTUSSIS,Pertussis,per 1000 live births,4.13
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,DIPHTHERIA,Diphtheria,per 100000 total population,12.77
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,TETANUS,Neonatal tetanus,per 100000 total population,2.24
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,POLIO,Poliomyelitis,per 1000 live births,1.73
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,YELLOWFEVER,Yellow fever,per 100000 total population,11.52
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,RUBELLA,Rubella,per 100000 total population,85.51
+COUNTRIES,IRN,Iran (Islamic Republic of),2021,MUMPS,Mumps,per 1000 live births,7.29
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,MEASLES,Measles,per 100000 total population,80.43
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,PERTUSSIS,Pertussis,per 1000 live births,8.08
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,DIPHTHERIA,Diphtheria,per 1000 live births,21.73
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,TETANUS,Neonatal tetanus,per 1000 live births,10.5
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,POLIO,Poliomyelitis,per 100000 total population,3.28
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,YELLOWFEVER,Yellow fever,per 1000 live births,16.76
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,RUBELLA,Rubella,per 100000 total population,4.36
+COUNTRIES,IRN,Iran (Islamic Republic of),2022,MUMPS,Mumps,per 100000 total population,33.43
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,MEASLES,Measles,per 1000 live births,168.95
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,PERTUSSIS,Pertussis,per 100000 total population,18.55
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,DIPHTHERIA,Diphtheria,per 1000 live births,3.43
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,TETANUS,Neonatal tetanus,per 100000 total population,5.23
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,POLIO,Poliomyelitis,per 1000 live births,9.78
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,YELLOWFEVER,Yellow fever,per 1000 live births,7.38
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,RUBELLA,Rubella,per 100000 total population,13.91
+COUNTRIES,IRN,Iran (Islamic Republic of),2023,MUMPS,Mumps,per 100000 total population,23.91
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,MEASLES,Measles,per 1000 live births,39.82
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,PERTUSSIS,Pertussis,per 100000 total population,5.94
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,DIPHTHERIA,Diphtheria,per 1000 live births,5.44
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,TETANUS,Neonatal tetanus,per 100000 total population,7.04
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,POLIO,Poliomyelitis,per 1000 live births,20.56
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,YELLOWFEVER,Yellow fever,per 1000 live births,5.61
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,RUBELLA,Rubella,per 1000 live births,0.78
+COUNTRIES,IRN,Iran (Islamic Republic of),2024,MUMPS,Mumps,per 1000 live births,0.3
+COUNTRIES,THA,Thailand,2010,MEASLES,Measles,per 100000 total population,30.0
+COUNTRIES,THA,Thailand,2010,PERTUSSIS,Pertussis,per 100000 total population,36.65
+COUNTRIES,THA,Thailand,2010,DIPHTHERIA,Diphtheria,per 100000 total population,31.49
+COUNTRIES,THA,Thailand,2010,TETANUS,Neonatal tetanus,per 1000 live births,14.52
+COUNTRIES,THA,Thailand,2010,POLIO,Poliomyelitis,per 1000 live births,8.19
+COUNTRIES,THA,Thailand,2010,YELLOWFEVER,Yellow fever,per 1000 live births,19.41
+COUNTRIES,THA,Thailand,2010,RUBELLA,Rubella,per 1000 live births,97.0
+COUNTRIES,THA,Thailand,2010,MUMPS,Mumps,per 1000 live births,19.7
+COUNTRIES,THA,Thailand,2011,MEASLES,Measles,per 1000 live births,84.41
+COUNTRIES,THA,Thailand,2011,PERTUSSIS,Pertussis,per 1000 live births,24.56
+COUNTRIES,THA,Thailand,2011,DIPHTHERIA,Diphtheria,per 1000 live births,0.32
+COUNTRIES,THA,Thailand,2011,TETANUS,Neonatal tetanus,per 1000 live births,21.37
+COUNTRIES,THA,Thailand,2011,POLIO,Poliomyelitis,per 100000 total population,9.14
+COUNTRIES,THA,Thailand,2011,YELLOWFEVER,Yellow fever,per 100000 total population,4.94
+COUNTRIES,THA,Thailand,2011,RUBELLA,Rubella,per 100000 total population,60.84
+COUNTRIES,THA,Thailand,2011,MUMPS,Mumps,per 1000 live births,1.62
+COUNTRIES,THA,Thailand,2012,MEASLES,Measles,per 1000 live births,21.86
+COUNTRIES,THA,Thailand,2012,PERTUSSIS,Pertussis,per 100000 total population,5.93
+COUNTRIES,THA,Thailand,2012,DIPHTHERIA,Diphtheria,per 100000 total population,13.66
+COUNTRIES,THA,Thailand,2012,TETANUS,Neonatal tetanus,per 100000 total population,84.51
+COUNTRIES,THA,Thailand,2012,POLIO,Poliomyelitis,per 1000 live births,11.87
+COUNTRIES,THA,Thailand,2012,YELLOWFEVER,Yellow fever,per 100000 total population,38.71
+COUNTRIES,THA,Thailand,2012,RUBELLA,Rubella,per 1000 live births,17.42
+COUNTRIES,THA,Thailand,2012,MUMPS,Mumps,per 1000 live births,7.86
+COUNTRIES,THA,Thailand,2013,MEASLES,Measles,per 100000 total population,57.04
+COUNTRIES,THA,Thailand,2013,PERTUSSIS,Pertussis,per 100000 total population,5.79
+COUNTRIES,THA,Thailand,2013,DIPHTHERIA,Diphtheria,per 100000 total population,16.3
+COUNTRIES,THA,Thailand,2013,TETANUS,Neonatal tetanus,per 100000 total population,71.71
+COUNTRIES,THA,Thailand,2013,POLIO,Poliomyelitis,per 100000 total population,17.42
+COUNTRIES,THA,Thailand,2013,YELLOWFEVER,Yellow fever,per 100000 total population,7.31
+COUNTRIES,THA,Thailand,2013,RUBELLA,Rubella,per 1000 live births,19.28
+COUNTRIES,THA,Thailand,2013,MUMPS,Mumps,per 1000 live births,15.16
+COUNTRIES,THA,Thailand,2014,MEASLES,Measles,per 100000 total population,8.55
+COUNTRIES,THA,Thailand,2014,PERTUSSIS,Pertussis,per 1000 live births,3.78
+COUNTRIES,THA,Thailand,2014,DIPHTHERIA,Diphtheria,per 100000 total population,22.48
+COUNTRIES,THA,Thailand,2014,TETANUS,Neonatal tetanus,per 100000 total population,0.89
+COUNTRIES,THA,Thailand,2014,POLIO,Poliomyelitis,per 100000 total population,1.44
+COUNTRIES,THA,Thailand,2014,YELLOWFEVER,Yellow fever,per 1000 live births,16.88
+COUNTRIES,THA,Thailand,2014,RUBELLA,Rubella,per 1000 live births,4.32
+COUNTRIES,THA,Thailand,2014,MUMPS,Mumps,per 100000 total population,9.44
+COUNTRIES,THA,Thailand,2015,MEASLES,Measles,per 100000 total population,47.45
+COUNTRIES,THA,Thailand,2015,PERTUSSIS,Pertussis,per 100000 total population,10.79
+COUNTRIES,THA,Thailand,2015,DIPHTHERIA,Diphtheria,per 1000 live births,33.56
+COUNTRIES,THA,Thailand,2015,TETANUS,Neonatal tetanus,per 100000 total population,9.19
+COUNTRIES,THA,Thailand,2015,POLIO,Poliomyelitis,per 100000 total population,5.81
+COUNTRIES,THA,Thailand,2015,YELLOWFEVER,Yellow fever,per 1000 live births,81.48
+COUNTRIES,THA,Thailand,2015,RUBELLA,Rubella,per 100000 total population,12.87
+COUNTRIES,THA,Thailand,2015,MUMPS,Mumps,per 100000 total population,14.8
+COUNTRIES,THA,Thailand,2016,MEASLES,Measles,per 1000 live births,104.86
+COUNTRIES,THA,Thailand,2016,PERTUSSIS,Pertussis,per 1000 live births,23.13
+COUNTRIES,THA,Thailand,2016,DIPHTHERIA,Diphtheria,per 100000 total population,4.69
+COUNTRIES,THA,Thailand,2016,TETANUS,Neonatal tetanus,per 100000 total population,18.32
+COUNTRIES,THA,Thailand,2016,POLIO,Poliomyelitis,per 1000 live births,7.99
+COUNTRIES,THA,Thailand,2016,YELLOWFEVER,Yellow fever,per 1000 live births,37.74
+COUNTRIES,THA,Thailand,2016,RUBELLA,Rubella,per 100000 total population,1.01
+COUNTRIES,THA,Thailand,2016,MUMPS,Mumps,per 1000 live births,2.3
+COUNTRIES,THA,Thailand,2017,MEASLES,Measles,per 100000 total population,162.15
+COUNTRIES,THA,Thailand,2017,PERTUSSIS,Pertussis,per 1000 live births,10.78
+COUNTRIES,THA,Thailand,2017,DIPHTHERIA,Diphtheria,per 100000 total population,2.05
+COUNTRIES,THA,Thailand,2017,TETANUS,Neonatal tetanus,per 100000 total population,2.79
+COUNTRIES,THA,Thailand,2017,POLIO,Poliomyelitis,per 100000 total population,0.56
+COUNTRIES,THA,Thailand,2017,YELLOWFEVER,Yellow fever,per 1000 live births,13.4
+COUNTRIES,THA,Thailand,2017,RUBELLA,Rubella,per 100000 total population,1.68
+COUNTRIES,THA,Thailand,2017,MUMPS,Mumps,per 100000 total population,1.41
+COUNTRIES,THA,Thailand,2018,MEASLES,Measles,per 1000 live births,64.43
+COUNTRIES,THA,Thailand,2018,PERTUSSIS,Pertussis,per 100000 total population,36.09
+COUNTRIES,THA,Thailand,2018,DIPHTHERIA,Diphtheria,per 1000 live births,4.65
+COUNTRIES,THA,Thailand,2018,TETANUS,Neonatal tetanus,per 100000 total population,17.53
+COUNTRIES,THA,Thailand,2018,POLIO,Poliomyelitis,per 100000 total population,44.91
+COUNTRIES,THA,Thailand,2018,YELLOWFEVER,Yellow fever,per 100000 total population,4.05
+COUNTRIES,THA,Thailand,2018,RUBELLA,Rubella,per 100000 total population,15.47
+COUNTRIES,THA,Thailand,2018,MUMPS,Mumps,per 1000 live births,1.43
+COUNTRIES,THA,Thailand,2019,MEASLES,Measles,per 100000 total population,3.43
+COUNTRIES,THA,Thailand,2019,PERTUSSIS,Pertussis,per 1000 live births,4.7
+COUNTRIES,THA,Thailand,2019,DIPHTHERIA,Diphtheria,per 100000 total population,8.42
+COUNTRIES,THA,Thailand,2019,TETANUS,Neonatal tetanus,per 100000 total population,23.62
+COUNTRIES,THA,Thailand,2019,POLIO,Poliomyelitis,per 1000 live births,4.74
+COUNTRIES,THA,Thailand,2019,YELLOWFEVER,Yellow fever,per 1000 live births,12.52
+COUNTRIES,THA,Thailand,2019,RUBELLA,Rubella,per 1000 live births,7.18
+COUNTRIES,THA,Thailand,2019,MUMPS,Mumps,per 100000 total population,7.11
+COUNTRIES,THA,Thailand,2020,MEASLES,Measles,per 100000 total population,38.87
+COUNTRIES,THA,Thailand,2020,PERTUSSIS,Pertussis,per 1000 live births,38.44
+COUNTRIES,THA,Thailand,2020,DIPHTHERIA,Diphtheria,per 100000 total population,30.96
+COUNTRIES,THA,Thailand,2020,TETANUS,Neonatal tetanus,per 1000 live births,2.68
+COUNTRIES,THA,Thailand,2020,POLIO,Poliomyelitis,per 100000 total population,4.24
+COUNTRIES,THA,Thailand,2020,YELLOWFEVER,Yellow fever,per 100000 total population,17.14
+COUNTRIES,THA,Thailand,2020,RUBELLA,Rubella,per 1000 live births,14.67
+COUNTRIES,THA,Thailand,2020,MUMPS,Mumps,per 100000 total population,24.52
+COUNTRIES,THA,Thailand,2021,MEASLES,Measles,per 100000 total population,6.8
+COUNTRIES,THA,Thailand,2021,PERTUSSIS,Pertussis,per 1000 live births,17.11
+COUNTRIES,THA,Thailand,2021,DIPHTHERIA,Diphtheria,per 1000 live births,26.31
+COUNTRIES,THA,Thailand,2021,TETANUS,Neonatal tetanus,per 1000 live births,17.2
+COUNTRIES,THA,Thailand,2021,POLIO,Poliomyelitis,per 1000 live births,4.97
+COUNTRIES,THA,Thailand,2021,YELLOWFEVER,Yellow fever,per 1000 live births,0.55
+COUNTRIES,THA,Thailand,2021,RUBELLA,Rubella,per 100000 total population,32.98
+COUNTRIES,THA,Thailand,2021,MUMPS,Mumps,per 100000 total population,1.1
+COUNTRIES,THA,Thailand,2022,MEASLES,Measles,per 100000 total population,25.87
+COUNTRIES,THA,Thailand,2022,PERTUSSIS,Pertussis,per 1000 live births,10.59
+COUNTRIES,THA,Thailand,2022,DIPHTHERIA,Diphtheria,per 1000 live births,9.88
+COUNTRIES,THA,Thailand,2022,TETANUS,Neonatal tetanus,per 1000 live births,2.31
+COUNTRIES,THA,Thailand,2022,POLIO,Poliomyelitis,per 100000 total population,16.38
+COUNTRIES,THA,Thailand,2022,YELLOWFEVER,Yellow fever,per 100000 total population,4.28
+COUNTRIES,THA,Thailand,2022,RUBELLA,Rubella,per 1000 live births,17.56
+COUNTRIES,THA,Thailand,2022,MUMPS,Mumps,per 1000 live births,48.31
+COUNTRIES,THA,Thailand,2023,MEASLES,Measles,per 100000 total population,52.85
+COUNTRIES,THA,Thailand,2023,PERTUSSIS,Pertussis,per 100000 total population,0.65
+COUNTRIES,THA,Thailand,2023,DIPHTHERIA,Diphtheria,per 1000 live births,6.46
+COUNTRIES,THA,Thailand,2023,TETANUS,Neonatal tetanus,per 100000 total population,1.09
+COUNTRIES,THA,Thailand,2023,POLIO,Poliomyelitis,per 1000 live births,14.42
+COUNTRIES,THA,Thailand,2023,YELLOWFEVER,Yellow fever,per 1000 live births,10.67
+COUNTRIES,THA,Thailand,2023,RUBELLA,Rubella,per 1000 live births,2.42
+COUNTRIES,THA,Thailand,2023,MUMPS,Mumps,per 1000 live births,0.77
+COUNTRIES,THA,Thailand,2024,MEASLES,Measles,per 100000 total population,11.95
+COUNTRIES,THA,Thailand,2024,PERTUSSIS,Pertussis,per 100000 total population,21.62
+COUNTRIES,THA,Thailand,2024,DIPHTHERIA,Diphtheria,per 1000 live births,0.09
+COUNTRIES,THA,Thailand,2024,TETANUS,Neonatal tetanus,per 1000 live births,3.3
+COUNTRIES,THA,Thailand,2024,POLIO,Poliomyelitis,per 1000 live births,3.59
+COUNTRIES,THA,Thailand,2024,YELLOWFEVER,Yellow fever,per 100000 total population,24.22
+COUNTRIES,THA,Thailand,2024,RUBELLA,Rubella,per 100000 total population,12.35
+COUNTRIES,THA,Thailand,2024,MUMPS,Mumps,per 1000 live births,31.15
+COUNTRIES,ZAF,South Africa,2010,MEASLES,Measles,per 100000 total population,108.45
+COUNTRIES,ZAF,South Africa,2010,PERTUSSIS,Pertussis,per 1000 live births,3.47
+COUNTRIES,ZAF,South Africa,2010,DIPHTHERIA,Diphtheria,per 100000 total population,2.17
+COUNTRIES,ZAF,South Africa,2010,TETANUS,Neonatal tetanus,per 100000 total population,18.47
+COUNTRIES,ZAF,South Africa,2010,POLIO,Poliomyelitis,per 100000 total population,17.49
+COUNTRIES,ZAF,South Africa,2010,YELLOWFEVER,Yellow fever,per 1000 live births,39.8
+COUNTRIES,ZAF,South Africa,2010,RUBELLA,Rubella,per 1000 live births,27.98
+COUNTRIES,ZAF,South Africa,2010,MUMPS,Mumps,per 1000 live births,3.27
+COUNTRIES,ZAF,South Africa,2011,MEASLES,Measles,per 1000 live births,79.64
+COUNTRIES,ZAF,South Africa,2011,PERTUSSIS,Pertussis,per 100000 total population,4.89
+COUNTRIES,ZAF,South Africa,2011,DIPHTHERIA,Diphtheria,per 100000 total population,26.72
+COUNTRIES,ZAF,South Africa,2011,TETANUS,Neonatal tetanus,per 1000 live births,42.42
+COUNTRIES,ZAF,South Africa,2011,POLIO,Poliomyelitis,per 1000 live births,14.29
+COUNTRIES,ZAF,South Africa,2011,YELLOWFEVER,Yellow fever,per 100000 total population,36.3
+COUNTRIES,ZAF,South Africa,2011,RUBELLA,Rubella,per 1000 live births,3.68
+COUNTRIES,ZAF,South Africa,2011,MUMPS,Mumps,per 1000 live births,4.67
+COUNTRIES,ZAF,South Africa,2012,MEASLES,Measles,per 1000 live births,50.5
+COUNTRIES,ZAF,South Africa,2012,PERTUSSIS,Pertussis,per 1000 live births,82.1
+COUNTRIES,ZAF,South Africa,2012,DIPHTHERIA,Diphtheria,per 1000 live births,31.62
+COUNTRIES,ZAF,South Africa,2012,TETANUS,Neonatal tetanus,per 100000 total population,2.37
+COUNTRIES,ZAF,South Africa,2012,POLIO,Poliomyelitis,per 1000 live births,3.07
+COUNTRIES,ZAF,South Africa,2012,YELLOWFEVER,Yellow fever,per 1000 live births,9.3
+COUNTRIES,ZAF,South Africa,2012,RUBELLA,Rubella,per 100000 total population,2.77
+COUNTRIES,ZAF,South Africa,2012,MUMPS,Mumps,per 1000 live births,2.16
+COUNTRIES,ZAF,South Africa,2013,MEASLES,Measles,per 1000 live births,76.69
+COUNTRIES,ZAF,South Africa,2013,PERTUSSIS,Pertussis,per 100000 total population,4.11
+COUNTRIES,ZAF,South Africa,2013,DIPHTHERIA,Diphtheria,per 1000 live births,38.14
+COUNTRIES,ZAF,South Africa,2013,TETANUS,Neonatal tetanus,per 100000 total population,11.77
+COUNTRIES,ZAF,South Africa,2013,POLIO,Poliomyelitis,per 1000 live births,11.11
+COUNTRIES,ZAF,South Africa,2013,YELLOWFEVER,Yellow fever,per 100000 total population,9.5
+COUNTRIES,ZAF,South Africa,2013,RUBELLA,Rubella,per 1000 live births,3.34
+COUNTRIES,ZAF,South Africa,2013,MUMPS,Mumps,per 100000 total population,10.44
+COUNTRIES,ZAF,South Africa,2014,MEASLES,Measles,per 100000 total population,6.87
+COUNTRIES,ZAF,South Africa,2014,PERTUSSIS,Pertussis,per 100000 total population,26.53
+COUNTRIES,ZAF,South Africa,2014,DIPHTHERIA,Diphtheria,per 100000 total population,23.97
+COUNTRIES,ZAF,South Africa,2014,TETANUS,Neonatal tetanus,per 1000 live births,1.53
+COUNTRIES,ZAF,South Africa,2014,POLIO,Poliomyelitis,per 100000 total population,14.46
+COUNTRIES,ZAF,South Africa,2014,YELLOWFEVER,Yellow fever,per 1000 live births,3.33
+COUNTRIES,ZAF,South Africa,2014,RUBELLA,Rubella,per 100000 total population,41.82
+COUNTRIES,ZAF,South Africa,2014,MUMPS,Mumps,per 100000 total population,12.46
+COUNTRIES,ZAF,South Africa,2015,MEASLES,Measles,per 1000 live births,85.09
+COUNTRIES,ZAF,South Africa,2015,PERTUSSIS,Pertussis,per 1000 live births,4.25
+COUNTRIES,ZAF,South Africa,2015,DIPHTHERIA,Diphtheria,per 100000 total population,6.21
+COUNTRIES,ZAF,South Africa,2015,TETANUS,Neonatal tetanus,per 100000 total population,8.44
+COUNTRIES,ZAF,South Africa,2015,POLIO,Poliomyelitis,per 1000 live births,16.83
+COUNTRIES,ZAF,South Africa,2015,YELLOWFEVER,Yellow fever,per 1000 live births,56.41
+COUNTRIES,ZAF,South Africa,2015,RUBELLA,Rubella,per 1000 live births,10.73
+COUNTRIES,ZAF,South Africa,2015,MUMPS,Mumps,per 100000 total population,22.52
+COUNTRIES,ZAF,South Africa,2016,MEASLES,Measles,per 100000 total population,126.26
+COUNTRIES,ZAF,South Africa,2016,PERTUSSIS,Pertussis,per 100000 total population,0.09
+COUNTRIES,ZAF,South Africa,2016,DIPHTHERIA,Diphtheria,per 100000 total population,14.33
+COUNTRIES,ZAF,South Africa,2016,TETANUS,Neonatal tetanus,per 100000 total population,23.6
+COUNTRIES,ZAF,South Africa,2016,POLIO,Poliomyelitis,per 1000 live births,36.92
+COUNTRIES,ZAF,South Africa,2016,YELLOWFEVER,Yellow fever,per 1000 live births,11.91
+COUNTRIES,ZAF,South Africa,2016,RUBELLA,Rubella,per 1000 live births,22.74
+COUNTRIES,ZAF,South Africa,2016,MUMPS,Mumps,per 100000 total population,0.32
+COUNTRIES,ZAF,South Africa,2017,MEASLES,Measles,per 100000 total population,1.36
+COUNTRIES,ZAF,South Africa,2017,PERTUSSIS,Pertussis,per 100000 total population,27.94
+COUNTRIES,ZAF,South Africa,2017,DIPHTHERIA,Diphtheria,per 100000 total population,0.88
+COUNTRIES,ZAF,South Africa,2017,TETANUS,Neonatal tetanus,per 100000 total population,24.91
+COUNTRIES,ZAF,South Africa,2017,POLIO,Poliomyelitis,per 1000 live births,7.38
+COUNTRIES,ZAF,South Africa,2017,YELLOWFEVER,Yellow fever,per 1000 live births,17.39
+COUNTRIES,ZAF,South Africa,2017,RUBELLA,Rubella,per 100000 total population,6.22
+COUNTRIES,ZAF,South Africa,2017,MUMPS,Mumps,per 100000 total population,20.7
+COUNTRIES,ZAF,South Africa,2018,MEASLES,Measles,per 100000 total population,24.83
+COUNTRIES,ZAF,South Africa,2018,PERTUSSIS,Pertussis,per 1000 live births,8.63
+COUNTRIES,ZAF,South Africa,2018,DIPHTHERIA,Diphtheria,per 1000 live births,11.99
+COUNTRIES,ZAF,South Africa,2018,TETANUS,Neonatal tetanus,per 100000 total population,4.55
+COUNTRIES,ZAF,South Africa,2018,POLIO,Poliomyelitis,per 1000 live births,5.4
+COUNTRIES,ZAF,South Africa,2018,YELLOWFEVER,Yellow fever,per 100000 total population,26.32
+COUNTRIES,ZAF,South Africa,2018,RUBELLA,Rubella,per 100000 total population,14.36
+COUNTRIES,ZAF,South Africa,2018,MUMPS,Mumps,per 1000 live births,26.11
+COUNTRIES,ZAF,South Africa,2019,MEASLES,Measles,per 1000 live births,27.63
+COUNTRIES,ZAF,South Africa,2019,PERTUSSIS,Pertussis,per 1000 live births,3.23
+COUNTRIES,ZAF,South Africa,2019,DIPHTHERIA,Diphtheria,per 100000 total population,37.71
+COUNTRIES,ZAF,South Africa,2019,TETANUS,Neonatal tetanus,per 1000 live births,3.37
+COUNTRIES,ZAF,South Africa,2019,POLIO,Poliomyelitis,per 100000 total population,16.64
+COUNTRIES,ZAF,South Africa,2019,YELLOWFEVER,Yellow fever,per 100000 total population,14.43
+COUNTRIES,ZAF,South Africa,2019,RUBELLA,Rubella,per 100000 total population,4.21
+COUNTRIES,ZAF,South Africa,2019,MUMPS,Mumps,per 100000 total population,7.21
+COUNTRIES,ZAF,South Africa,2020,MEASLES,Measles,per 1000 live births,1.55
+COUNTRIES,ZAF,South Africa,2020,PERTUSSIS,Pertussis,per 1000 live births,7.87
+COUNTRIES,ZAF,South Africa,2020,DIPHTHERIA,Diphtheria,per 1000 live births,6.23
+COUNTRIES,ZAF,South Africa,2020,TETANUS,Neonatal tetanus,per 1000 live births,52.77
+COUNTRIES,ZAF,South Africa,2020,POLIO,Poliomyelitis,per 100000 total population,21.95
+COUNTRIES,ZAF,South Africa,2020,YELLOWFEVER,Yellow fever,per 100000 total population,9.46
+COUNTRIES,ZAF,South Africa,2020,RUBELLA,Rubella,per 100000 total population,42.64
+COUNTRIES,ZAF,South Africa,2020,MUMPS,Mumps,per 100000 total population,4.51
+COUNTRIES,ZAF,South Africa,2021,MEASLES,Measles,per 100000 total population,45.06
+COUNTRIES,ZAF,South Africa,2021,PERTUSSIS,Pertussis,per 100000 total population,3.75
+COUNTRIES,ZAF,South Africa,2021,DIPHTHERIA,Diphtheria,per 100000 total population,0.8
+COUNTRIES,ZAF,South Africa,2021,TETANUS,Neonatal tetanus,per 1000 live births,18.27
+COUNTRIES,ZAF,South Africa,2021,POLIO,Poliomyelitis,per 100000 total population,22.76
+COUNTRIES,ZAF,South Africa,2021,YELLOWFEVER,Yellow fever,per 100000 total population,12.04
+COUNTRIES,ZAF,South Africa,2021,RUBELLA,Rubella,per 1000 live births,5.24
+COUNTRIES,ZAF,South Africa,2021,MUMPS,Mumps,per 100000 total population,8.58
+COUNTRIES,ZAF,South Africa,2022,MEASLES,Measles,per 1000 live births,13.01
+COUNTRIES,ZAF,South Africa,2022,PERTUSSIS,Pertussis,per 1000 live births,1.36
+COUNTRIES,ZAF,South Africa,2022,DIPHTHERIA,Diphtheria,per 100000 total population,0.73
+COUNTRIES,ZAF,South Africa,2022,TETANUS,Neonatal tetanus,per 100000 total population,70.19
+COUNTRIES,ZAF,South Africa,2022,POLIO,Poliomyelitis,per 100000 total population,20.11
+COUNTRIES,ZAF,South Africa,2022,YELLOWFEVER,Yellow fever,per 1000 live births,6.04
+COUNTRIES,ZAF,South Africa,2022,RUBELLA,Rubella,per 1000 live births,9.2
+COUNTRIES,ZAF,South Africa,2022,MUMPS,Mumps,per 1000 live births,12.18
+COUNTRIES,ZAF,South Africa,2023,MEASLES,Measles,per 1000 live births,5.72
+COUNTRIES,ZAF,South Africa,2023,PERTUSSIS,Pertussis,per 100000 total population,23.52
+COUNTRIES,ZAF,South Africa,2023,DIPHTHERIA,Diphtheria,per 1000 live births,2.66
+COUNTRIES,ZAF,South Africa,2023,TETANUS,Neonatal tetanus,per 1000 live births,1.97
+COUNTRIES,ZAF,South Africa,2023,POLIO,Poliomyelitis,per 100000 total population,5.74
+COUNTRIES,ZAF,South Africa,2023,YELLOWFEVER,Yellow fever,per 1000 live births,1.29
+COUNTRIES,ZAF,South Africa,2023,RUBELLA,Rubella,per 1000 live births,2.33
+COUNTRIES,ZAF,South Africa,2023,MUMPS,Mumps,per 1000 live births,11.98
+COUNTRIES,ZAF,South Africa,2024,MEASLES,Measles,per 100000 total population,12.44
+COUNTRIES,ZAF,South Africa,2024,PERTUSSIS,Pertussis,per 1000 live births,2.78
+COUNTRIES,ZAF,South Africa,2024,DIPHTHERIA,Diphtheria,per 100000 total population,5.94
+COUNTRIES,ZAF,South Africa,2024,TETANUS,Neonatal tetanus,per 1000 live births,7.11
+COUNTRIES,ZAF,South Africa,2024,POLIO,Poliomyelitis,per 100000 total population,22.32
+COUNTRIES,ZAF,South Africa,2024,YELLOWFEVER,Yellow fever,per 1000 live births,25.8
+COUNTRIES,ZAF,South Africa,2024,RUBELLA,Rubella,per 1000 live births,1.88
+COUNTRIES,ZAF,South Africa,2024,MUMPS,Mumps,per 100000 total population,9.08
+COUNTRIES,KEN,Kenya,2010,MEASLES,Measles,per 100000 total population,172.05
+COUNTRIES,KEN,Kenya,2010,PERTUSSIS,Pertussis,per 1000 live births,13.02
+COUNTRIES,KEN,Kenya,2010,DIPHTHERIA,Diphtheria,per 100000 total population,14.54
+COUNTRIES,KEN,Kenya,2010,TETANUS,Neonatal tetanus,per 100000 total population,32.43
+COUNTRIES,KEN,Kenya,2010,POLIO,Poliomyelitis,per 100000 total population,41.89
+COUNTRIES,KEN,Kenya,2010,YELLOWFEVER,Yellow fever,per 1000 live births,8.51
+COUNTRIES,KEN,Kenya,2010,RUBELLA,Rubella,per 100000 total population,4.66
+COUNTRIES,KEN,Kenya,2010,MUMPS,Mumps,per 1000 live births,6.89
+COUNTRIES,KEN,Kenya,2011,MEASLES,Measles,per 100000 total population,36.74
+COUNTRIES,KEN,Kenya,2011,PERTUSSIS,Pertussis,per 100000 total population,36.94
+COUNTRIES,KEN,Kenya,2011,DIPHTHERIA,Diphtheria,per 100000 total population,62.37
+COUNTRIES,KEN,Kenya,2011,TETANUS,Neonatal tetanus,per 100000 total population,29.47
+COUNTRIES,KEN,Kenya,2011,POLIO,Poliomyelitis,per 1000 live births,14.3
+COUNTRIES,KEN,Kenya,2011,YELLOWFEVER,Yellow fever,per 100000 total population,9.91
+COUNTRIES,KEN,Kenya,2011,RUBELLA,Rubella,per 100000 total population,3.82
+COUNTRIES,KEN,Kenya,2011,MUMPS,Mumps,per 100000 total population,34.22
+COUNTRIES,KEN,Kenya,2012,MEASLES,Measles,per 100000 total population,70.35
+COUNTRIES,KEN,Kenya,2012,PERTUSSIS,Pertussis,per 100000 total population,15.3
+COUNTRIES,KEN,Kenya,2012,DIPHTHERIA,Diphtheria,per 1000 live births,1.47
+COUNTRIES,KEN,Kenya,2012,TETANUS,Neonatal tetanus,per 100000 total population,14.07
+COUNTRIES,KEN,Kenya,2012,POLIO,Poliomyelitis,per 1000 live births,18.35
+COUNTRIES,KEN,Kenya,2012,YELLOWFEVER,Yellow fever,per 1000 live births,18.42
+COUNTRIES,KEN,Kenya,2012,RUBELLA,Rubella,per 1000 live births,4.32
+COUNTRIES,KEN,Kenya,2012,MUMPS,Mumps,per 1000 live births,13.09
+COUNTRIES,KEN,Kenya,2013,MEASLES,Measles,per 1000 live births,43.96
+COUNTRIES,KEN,Kenya,2013,PERTUSSIS,Pertussis,per 100000 total population,59.88
+COUNTRIES,KEN,Kenya,2013,DIPHTHERIA,Diphtheria,per 1000 live births,1.6
+COUNTRIES,KEN,Kenya,2013,TETANUS,Neonatal tetanus,per 1000 live births,1.52
+COUNTRIES,KEN,Kenya,2013,POLIO,Poliomyelitis,per 100000 total population,55.9
+COUNTRIES,KEN,Kenya,2013,YELLOWFEVER,Yellow fever,per 100000 total population,1.92
+COUNTRIES,KEN,Kenya,2013,RUBELLA,Rubella,per 100000 total population,13.27
+COUNTRIES,KEN,Kenya,2013,MUMPS,Mumps,per 1000 live births,22.85
+COUNTRIES,KEN,Kenya,2014,MEASLES,Measles,per 1000 live births,24.82
+COUNTRIES,KEN,Kenya,2014,PERTUSSIS,Pertussis,per 100000 total population,9.75
+COUNTRIES,KEN,Kenya,2014,DIPHTHERIA,Diphtheria,per 100000 total population,36.46
+COUNTRIES,KEN,Kenya,2014,TETANUS,Neonatal tetanus,per 100000 total population,7.14
+COUNTRIES,KEN,Kenya,2014,POLIO,Poliomyelitis,per 100000 total population,38.27
+COUNTRIES,KEN,Kenya,2014,YELLOWFEVER,Yellow fever,per 1000 live births,34.69
+COUNTRIES,KEN,Kenya,2014,RUBELLA,Rubella,per 1000 live births,33.13
+COUNTRIES,KEN,Kenya,2014,MUMPS,Mumps,per 100000 total population,5.87
+COUNTRIES,KEN,Kenya,2015,MEASLES,Measles,per 100000 total population,43.57
+COUNTRIES,KEN,Kenya,2015,PERTUSSIS,Pertussis,per 1000 live births,14.83
+COUNTRIES,KEN,Kenya,2015,DIPHTHERIA,Diphtheria,per 100000 total population,37.54
+COUNTRIES,KEN,Kenya,2015,TETANUS,Neonatal tetanus,per 100000 total population,14.52
+COUNTRIES,KEN,Kenya,2015,POLIO,Poliomyelitis,per 1000 live births,94.5
+COUNTRIES,KEN,Kenya,2015,YELLOWFEVER,Yellow fever,per 1000 live births,24.59
+COUNTRIES,KEN,Kenya,2015,RUBELLA,Rubella,per 1000 live births,11.78
+COUNTRIES,KEN,Kenya,2015,MUMPS,Mumps,per 100000 total population,8.01
+COUNTRIES,KEN,Kenya,2016,MEASLES,Measles,per 100000 total population,2.83
+COUNTRIES,KEN,Kenya,2016,PERTUSSIS,Pertussis,per 100000 total population,18.75
+COUNTRIES,KEN,Kenya,2016,DIPHTHERIA,Diphtheria,per 1000 live births,3.94
+COUNTRIES,KEN,Kenya,2016,TETANUS,Neonatal tetanus,per 1000 live births,41.04
+COUNTRIES,KEN,Kenya,2016,POLIO,Poliomyelitis,per 1000 live births,9.18
+COUNTRIES,KEN,Kenya,2016,YELLOWFEVER,Yellow fever,per 1000 live births,8.39
+COUNTRIES,KEN,Kenya,2016,RUBELLA,Rubella,per 100000 total population,12.02
+COUNTRIES,KEN,Kenya,2016,MUMPS,Mumps,per 100000 total population,6.45
+COUNTRIES,KEN,Kenya,2017,MEASLES,Measles,per 1000 live births,28.52
+COUNTRIES,KEN,Kenya,2017,PERTUSSIS,Pertussis,per 1000 live births,24.74
+COUNTRIES,KEN,Kenya,2017,DIPHTHERIA,Diphtheria,per 1000 live births,6.53
+COUNTRIES,KEN,Kenya,2017,TETANUS,Neonatal tetanus,per 1000 live births,5.32
+COUNTRIES,KEN,Kenya,2017,POLIO,Poliomyelitis,per 1000 live births,12.9
+COUNTRIES,KEN,Kenya,2017,YELLOWFEVER,Yellow fever,per 1000 live births,1.06
+COUNTRIES,KEN,Kenya,2017,RUBELLA,Rubella,per 1000 live births,5.31
+COUNTRIES,KEN,Kenya,2017,MUMPS,Mumps,per 1000 live births,19.31
+COUNTRIES,KEN,Kenya,2018,MEASLES,Measles,per 1000 live births,0.84
+COUNTRIES,KEN,Kenya,2018,PERTUSSIS,Pertussis,per 1000 live births,3.52
+COUNTRIES,KEN,Kenya,2018,DIPHTHERIA,Diphtheria,per 100000 total population,5.64
+COUNTRIES,KEN,Kenya,2018,TETANUS,Neonatal tetanus,per 100000 total population,18.07
+COUNTRIES,KEN,Kenya,2018,POLIO,Poliomyelitis,per 100000 total population,32.81
+COUNTRIES,KEN,Kenya,2018,YELLOWFEVER,Yellow fever,per 1000 live births,14.06
+COUNTRIES,KEN,Kenya,2018,RUBELLA,Rubella,per 100000 total population,28.78
+COUNTRIES,KEN,Kenya,2018,MUMPS,Mumps,per 100000 total population,5.68
+COUNTRIES,KEN,Kenya,2019,MEASLES,Measles,per 1000 live births,23.92
+COUNTRIES,KEN,Kenya,2019,PERTUSSIS,Pertussis,per 100000 total population,1.87
+COUNTRIES,KEN,Kenya,2019,DIPHTHERIA,Diphtheria,per 1000 live births,32.65
+COUNTRIES,KEN,Kenya,2019,TETANUS,Neonatal tetanus,per 100000 total population,11.14
+COUNTRIES,KEN,Kenya,2019,POLIO,Poliomyelitis,per 1000 live births,0.05
+COUNTRIES,KEN,Kenya,2019,YELLOWFEVER,Yellow fever,per 100000 total population,0.75
+COUNTRIES,KEN,Kenya,2019,RUBELLA,Rubella,per 1000 live births,3.25
+COUNTRIES,KEN,Kenya,2019,MUMPS,Mumps,per 100000 total population,2.14
+COUNTRIES,KEN,Kenya,2020,MEASLES,Measles,per 100000 total population,23.32
+COUNTRIES,KEN,Kenya,2020,PERTUSSIS,Pertussis,per 100000 total population,49.57
+COUNTRIES,KEN,Kenya,2020,DIPHTHERIA,Diphtheria,per 100000 total population,3.8
+COUNTRIES,KEN,Kenya,2020,TETANUS,Neonatal tetanus,per 100000 total population,1.69
+COUNTRIES,KEN,Kenya,2020,POLIO,Poliomyelitis,per 1000 live births,23.62
+COUNTRIES,KEN,Kenya,2020,YELLOWFEVER,Yellow fever,per 1000 live births,14.03
+COUNTRIES,KEN,Kenya,2020,RUBELLA,Rubella,per 100000 total population,17.26
+COUNTRIES,KEN,Kenya,2020,MUMPS,Mumps,per 1000 live births,14.02
+COUNTRIES,KEN,Kenya,2021,MEASLES,Measles,per 1000 live births,7.41
+COUNTRIES,KEN,Kenya,2021,PERTUSSIS,Pertussis,per 100000 total population,34.04
+COUNTRIES,KEN,Kenya,2021,DIPHTHERIA,Diphtheria,per 1000 live births,9.6
+COUNTRIES,KEN,Kenya,2021,TETANUS,Neonatal tetanus,per 1000 live births,7.86
+COUNTRIES,KEN,Kenya,2021,POLIO,Poliomyelitis,per 1000 live births,5.65
+COUNTRIES,KEN,Kenya,2021,YELLOWFEVER,Yellow fever,per 1000 live births,5.89
+COUNTRIES,KEN,Kenya,2021,RUBELLA,Rubella,per 100000 total population,0.08
+COUNTRIES,KEN,Kenya,2021,MUMPS,Mumps,per 100000 total population,4.99
+COUNTRIES,KEN,Kenya,2022,MEASLES,Measles,per 100000 total population,91.91
+COUNTRIES,KEN,Kenya,2022,PERTUSSIS,Pertussis,per 1000 live births,22.86
+COUNTRIES,KEN,Kenya,2022,DIPHTHERIA,Diphtheria,per 1000 live births,1.5
+COUNTRIES,KEN,Kenya,2022,TETANUS,Neonatal tetanus,per 100000 total population,34.97
+COUNTRIES,KEN,Kenya,2022,POLIO,Poliomyelitis,per 1000 live births,15.11
+COUNTRIES,KEN,Kenya,2022,YELLOWFEVER,Yellow fever,per 1000 live births,58.74
+COUNTRIES,KEN,Kenya,2022,RUBELLA,Rubella,per 100000 total population,0.57
+COUNTRIES,KEN,Kenya,2022,MUMPS,Mumps,per 100000 total population,12.25
+COUNTRIES,KEN,Kenya,2023,MEASLES,Measles,per 1000 live births,107.96
+COUNTRIES,KEN,Kenya,2023,PERTUSSIS,Pertussis,per 1000 live births,2.63
+COUNTRIES,KEN,Kenya,2023,DIPHTHERIA,Diphtheria,per 1000 live births,14.26
+COUNTRIES,KEN,Kenya,2023,TETANUS,Neonatal tetanus,per 100000 total population,20.89
+COUNTRIES,KEN,Kenya,2023,POLIO,Poliomyelitis,per 1000 live births,2.14
+COUNTRIES,KEN,Kenya,2023,YELLOWFEVER,Yellow fever,per 1000 live births,16.21
+COUNTRIES,KEN,Kenya,2023,RUBELLA,Rubella,per 1000 live births,12.37
+COUNTRIES,KEN,Kenya,2023,MUMPS,Mumps,per 1000 live births,6.54
+COUNTRIES,KEN,Kenya,2024,MEASLES,Measles,per 100000 total population,111.16
+COUNTRIES,KEN,Kenya,2024,PERTUSSIS,Pertussis,per 100000 total population,16.73
+COUNTRIES,KEN,Kenya,2024,DIPHTHERIA,Diphtheria,per 100000 total population,9.01
+COUNTRIES,KEN,Kenya,2024,TETANUS,Neonatal tetanus,per 100000 total population,3.28
+COUNTRIES,KEN,Kenya,2024,POLIO,Poliomyelitis,per 1000 live births,10.12
+COUNTRIES,KEN,Kenya,2024,YELLOWFEVER,Yellow fever,per 100000 total population,15.92
+COUNTRIES,KEN,Kenya,2024,RUBELLA,Rubella,per 1000 live births,13.05
+COUNTRIES,KEN,Kenya,2024,MUMPS,Mumps,per 100000 total population,3.22

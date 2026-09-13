@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local DB copies / large artifacts (keep the one we ship)
+# sql/vaccination.db   # keep for demo; uncomment if you want to exclude
+
+# Logs & temp
+*.log
+tmp/
+temp/
+
+# Data that users should download themselves (optional)
+# data/raw/
